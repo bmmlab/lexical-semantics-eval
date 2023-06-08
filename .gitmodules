@@ -1,0 +1,3 @@
+[submodule "lexical-semantics-eval-corpus"]
+	path = lexical-semantics-eval-corpus
+	url = https://github.com/bmmlab/lexical-semantics-eval-corpus
