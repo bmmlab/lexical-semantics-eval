@@ -1,0 +1,1000 @@
+Le Corbusier
+Dalí, Salvador
+Dürer, Albrecht
+Gogh, Vincent van
+Goya, Francisco
+Hokusai
+Kahlo, Frida
+Leonardo da Vinci
+Matisse, Henri
+Michelangelo
+Picasso, Pablo
+Raphael
+Rembrandt
+Rubens, Peter Paul
+Sinan, Mimar
+Velázquez, Diego
+Warhol, Andy
+Wright, Frank Lloyd
+Abu Nuwas
+Andersen, Hans Christian
+Austen, Jane
+Bashō
+Borges, Jorge Luis
+Byron, George
+Cervantes, Miguel de
+Chaucer, Geoffrey
+Chekhov, Anton
+Dante Alighieri
+Dickens, Charles
+Dostoyevsky, Fyodor
+García Márquez, Gabriel
+Goethe, Johann Wolfgang von
+Hafez
+Homer
+Hugo, Victor
+Joyce, James
+Kafka, Franz
+Kālidāsa
+Li Bai
+Naguib Mahfouz
+Molière
+Ovid
+Proust, Marcel
+Pushkin, Alexander
+Shakespeare, William
+Sophocles
+Tagore, Rabindranath
+Tolstoy, Leo
+Twain, Mark
+Virgil
+Armstrong, Louis
+Bach, Johann Sebastian
+Beatles, The
+Beethoven, Ludwig van
+Brahms, Johannes
+Chopin, Frédéric
+Dvořák, Antonín
+Handel, Georg Frideric
+Haydn, Joseph
+Jackson, Michael
+Kulthum, Umm
+Mahler, Gustav
+Mozart, Wolfgang Amadeus
+Palestrina, Giovanni Pierluigi da
+Puccini, Giacomo
+Schubert, Franz
+Stravinsky, Igor
+Tchaikovsky, Petr
+Verdi, Giuseppe
+Vivaldi, Antonio
+Wagner, Richard
+Amundsen, Roald
+Armstrong, Neil
+Cartier, Jacques
+Columbus, Christopher
+Cook, James
+Cortés, Hernán
+Gagarin, Yuri
+da Gama, Vasco
+Ibn Battuta
+Magellan, Ferdinand
+Polo, Marco
+Zheng He
+Bergman, Ingmar
+Bernhardt, Sarah
+Chaplin, Charlie
+Dietrich, Marlene
+Disney, Walt
+Eisenstein, Sergei
+Fellini, Federico
+Hitchcock, Alfred
+Kubrick, Stanley
+Kurosawa, Akira
+Monroe, Marilyn
+Ray, Satyajit
+Archimedes
+Avicenna
+Berners-Lee, Tim
+Brahmagupta
+Copernicus, Nicolaus
+Curie, Marie
+Darwin, Charles
+Edison, Thomas
+Einstein, Albert
+Euclid
+Euler, Leonhard
+Faraday, Michael
+Fermi, Enrico
+Ford, Henry
+Galen
+Galileo Galilei
+Gauss, Carl Friedrich
+Gutenberg, Johannes
+Hilbert, David
+Joule, James Prescott
+Kepler, Johannes
+al-Khwarizmi, Muhammad ibn Musa
+Leibniz, Gottfried Wilhelm
+Linnaeus, Carl
+Maxwell, James Clerk
+Mendeleev, Dmitri
+Newton, Sir Isaac
+Pasteur, Louis
+Planck, Max
+Rutherford, Ernest
+Schrödinger, Erwin
+Tesla, Nikola
+Turing, Alan
+Watt, James
+Aristotle
+Beauvoir, Simone de
+Chanakya
+Confucius
+Descartes, René
+Freud, Sigmund
+Hegel, Georg Wilhelm Friedrich
+Heidegger, Martin
+Ibn Khaldun
+Kant, Immanuel
+Keynes, John Maynard
+Laozi
+Locke, John
+Machiavelli, Niccolò
+Marx, Karl
+Nietzsche, Friedrich
+Plato
+Rousseau, Jean-Jacques
+Sartre, Jean-Paul
+Sima Qian
+Smith, Adam
+Socrates
+Voltaire
+Weber, Max
+Wittgenstein, Ludwig
+Zhu Xi
+Akbar
+Alexander the Great
+Ashoka
+Atatürk, Mustafa Kemal
+Augustus
+von Bismarck, Otto
+Bolívar, Simón
+Bonaparte, Napoleon
+Caesar, Julius
+Charlemagne
+Churchill, Winston
+Constantine the Great
+Cyrus the Great
+de Gaulle, Charles
+Elizabeth I of England
+Gandhi, Mohandas Karamchand
+Genghis Khan
+Guevara, Che
+Hitler, Adolf
+Joan of Arc
+King, Martin Luther, Jr.
+Lenin, Vladimir
+Lincoln, Abraham
+Louis XIV
+Luxemburg, Rosa
+Mandela, Nelson
+Mao Zedong
+Nehru, Jawaharlal
+Nkrumah, Kwame
+Peter the Great
+Qin Shi Huang
+Roosevelt, Franklin D.
+Saladin
+Stalin, Joseph
+Suleiman the Magnificent
+Sun Yat-sen
+Tamerlane
+Umar
+Washington, George
+Abraham
+Aquinas, Thomas
+Augustine of Hippo
+Buddha
+Al-Ghazali
+Jesus
+Luther, Martin
+Moses
+Muhammad
+Nagarjuna
+Philosophy
+Atheism
+Beauty
+Dialectic
+Ethics
+Epistemology
+Free will
+Knowledge
+Logic
+Materialism
+Reality
+Truth
+Fundamentalism
+God
+Monotheism
+Polytheism
+Mythology
+Religion
+Soul
+Buddhism
+Christianity
+Catholic Church
+Confucianism
+Hinduism
+Trimurti
+Islam
+Sunni Islam
+Jainism
+Judaism
+Sikhism
+Taoism
+Zoroastrianism
+Sufism
+Yoga
+Zen
+Society
+Civilization
+Education
+Behavior
+Emotion
+Love
+Mind
+Psychology
+Thought
+Family
+Child
+Man
+Marriage
+Woman
+Politics
+Colonialism
+Diplomacy
+Government
+Democracy
+Dictatorship
+Monarchy
+Republic
+Ideology
+Anarchism
+Communism
+Conservatism
+Fascism
+Liberalism
+Marxism
+Nationalism
+Socialism
+Imperialism
+State (polity)
+Political party
+Propaganda
+Economics
+Capital
+Capitalism
+Currency
+Euro
+Japanese yen
+United States dollar
+Manufacturing
+Money
+Tax
+Law
+Constitution
+African Union
+Arab League
+ASEAN
+Commonwealth of Nations
+European Union
+International Red Cross and Red Crescent Movement
+NATO
+Nobel Prize
+OPEC
+United Nations
+International Court of Justice
+International Monetary Fund
+UNESCO
+Universal Declaration of Human Rights
+World Health Organization
+World Bank
+World Trade Organization
+Military
+Peace
+Terrorism
+War
+Civil war
+Abortion
+Capital punishment
+Feminism
+Globalization
+Human rights
+Poverty
+Racism
+Slavery
+Language
+Arabic
+Bengali
+Chinese
+English
+French
+German
+Greek
+Hebrew
+Hindi-Urdu
+Japanese
+Latin
+Persian
+Portuguese
+Russian
+Sanskrit
+Spanish
+Swahili
+Turkish
+Linguistics
+Grammar
+Word
+Phoneme
+Syllable
+Writing system
+Arabic alphabet
+Chinese characters
+Cyrillic script
+Greek alphabet
+Hangul
+Latin alphabet
+Literacy
+Translation
+Literature
+Prose
+The Art of War
+Fiction
+One Thousand and One Nights
+Novel
+Dream of the Red Chamber
+The Tale of Genji
+Poetry
+Epic of Gilgamesh
+Iliad
+Mahābhārata
+Shāhnāma
+Measurement
+International System of Units
+Kilogram
+Litre
+Metre
+Calendar
+Gregorian calendar
+Clock
+Second
+Day
+Year
+Time zone
+Science
+Nature
+Astronomy
+Asteroid
+Big Bang
+Black hole
+Comet
+Galaxy
+Milky Way
+Moon
+Planet
+Earth
+Jupiter
+Mars
+Mercury
+Neptune
+Saturn
+Uranus
+Venus
+Solar System
+Spaceflight
+Star
+Sun
+Universe
+Biology
+DNA
+Enzyme
+Hormone
+Protein
+Botany
+Death
+Suicide
+Ecology
+Endangered species
+Domestication
+Life
+Biological classification
+Species
+Metabolism
+Digestion
+Photosynthesis
+Breathing
+Evolution
+Reproduction
+Pregnancy
+Sex
+Organism
+Animal
+Nematode
+Mollusca
+Arthropod
+Insect
+Ant
+Bee
+Mosquito
+Spider
+Amphibian
+Bird
+Chicken
+Pigeons and doves
+Fish
+Shark
+Mammal
+Camel
+Cat
+Cattle
+Dog
+Horse
+Sheep
+Rodent
+Domestic pig
+Primate
+Human
+Marine mammal
+Whales, dolphins and porpoises
+Reptile
+Dinosaur
+Snake
+Archaea
+Bacteria
+Fungus
+Plant
+Flower
+Tree
+Protist
+Anatomy
+Breast
+Cell
+Circulatory system
+Blood
+Heart
+Endocrine system
+Human gastrointestinal tract
+Large intestine
+Small intestine
+Liver
+Muscle
+Nervous system
+Brain
+Nerve
+Sensory system
+Ear
+Nose
+Eye
+Reproductive system
+Respiratory system
+Skeleton
+Skin
+Medicine
+Addiction
+Ethanol
+Tobacco
+Alzheimer's disease
+Cancer
+COPD (chronic obstructive pulmonary disease)
+Common cold
+Dentistry
+Disability
+Blindness
+Deafness
+Mental disorder
+Disease
+Epilepsy
+Pharmaceutical drug
+Antibiotic
+Health
+Gastroenteritis
+Headache
+Heart attack
+Immune system
+Malaria
+Malnutrition
+Menstruation
+Obesity
+Pandemic
+Pneumonia
+Poliomyelitis
+Sexually transmitted disease
+AIDS
+Stroke
+Tuberculosis
+Diabetes mellitus
+Vaccine
+Virus
+Influenza
+Smallpox
+Chemistry
+Inorganic chemistry
+Biochemistry
+Chemical compound
+Acid
+Base (chemistry)
+Salt
+Chemical element
+Periodic table
+Aluminium
+Carbon
+Copper
+Gold
+Hydrogen
+Iron
+Nitrogen
+Oxygen
+Silver
+Tin
+Organic chemistry
+Alcohol
+Carbohydrate
+Lipid
+Molecule
+Analytical chemistry
+Physical chemistry
+Climate
+Earth water cycle
+El Niño–Southern Oscillation
+Global warming
+Earthquake
+Geology
+Mineral
+Diamond
+Plate tectonics
+Rock
+Natural disaster
+Flood
+Tsunami
+Volcano
+Weather
+Cloud
+Rain
+Snow
+Tornado
+Tropical cyclone
+Wind
+Physics
+Acceleration
+Atom
+Energy
+Conservation of energy
+Electromagnetic radiation
+Infrared
+Ultraviolet
+Light
+Color
+Classical mechanics
+Force
+Electromagnetic force
+Magnetic field
+Gravitation
+Strong interaction
+Weak interaction
+Magnet
+Mass
+Metal
+Steel
+Nuclear fission
+State of matter
+Gas
+Liquid
+Plasma
+Solid
+Quantum mechanics
+Radioactive decay
+General relativity
+Special relativity
+Semiconductor
+Sound
+Velocity
+Speed of light
+Temperature
+Time
+Thermodynamics
+Vacuum
+Mathematics
+Arithmetic
+Logarithm
+Number
+Number theory
+Algebra
+Complex number
+Equation
+Linear algebra
+Geometry
+Angle
+Area
+Coordinate system
+Pi
+Pythagorean theorem
+Symmetry
+Trigonometry
+Mathematical analysis
+Differential equation
+Numerical analysis
+Probability
+Statistics
+Function (mathematics)
+Infinity
+Mathematical proof
+Set theory
+Agriculture
+Irrigation
+Plough
+Food
+Bread
+Cereal
+Barley
+Maize
+Oat
+Rice
+Rye
+Sorghum bicolor
+Wheat
+Cheese
+Chocolate
+Honey
+Fruit
+Apple
+Banana
+Grape
+Soybean
+Lemon
+Nut (fruit)
+Meat
+Sugar
+Vegetable
+Potato
+Beer
+Coffee
+Juice
+Milk
+Tea
+Water
+Wine
+Technology
+Biotechnology
+Clothing
+Cotton
+Engineering
+Machine
+Robot
+Screw
+Wheel
+Metallurgy
+Nanotechnology
+Communication
+Book
+Information
+Encyclopedia
+Journalism
+Newspaper
+Mass media
+Printing
+Telephone
+Electronics
+Electric current
+Frequency
+Capacitor
+Inductor
+Transistor
+Diode
+Resistor
+Transformer
+Computer
+Hard disk drive
+Central processing unit
+Artificial intelligence
+Information technology
+Algorithm
+Internet
+Email
+World Wide Web
+Operating system
+Programming language
+Software
+Renewable energy
+Electricity
+Nuclear power
+Fossil fuel
+Internal combustion engine
+Steam engine
+Fire
+Glass
+Paper
+Plastic
+Wood
+Transport
+Aircraft
+Automobile
+Bicycle
+Submarine
+Ship
+Train
+Weapon
+Sword
+Firearm
+Machine gun
+Nuclear weapon
+Tank
+Explosive material
+Gunpowder
+Culture
+Art
+Comics
+Painting
+Photography
+Sculpture
+Pottery
+Dance
+Fashion
+Theatre
+Calligraphy
+Architecture
+Arch
+Bridge
+Canal
+Dam
+Dome
+House
+Angkor Wat
+Colosseum
+Great Wall of China
+Eiffel Tower
+Empire State Building
+Hagia Sophia
+Parthenon
+Giza Pyramid Complex
+St. Peter's Basilica
+Statue of Liberty
+Taj Mahal
+Three Gorges Dam
+Pyramid
+Tower
+Film
+Animation
+Radio
+Television
+Music
+Song
+Blues
+Classical music
+Opera
+Symphony
+Electronic music
+Flamenco
+Hip hop
+Jazz
+Reggae
+Rock music
+Samba
+Drum
+Flute
+Guitar
+Piano
+Trumpet
+Violin
+Game
+Backgammon
+Chess
+Go (game)
+Video game
+Gambling
+Martial arts
+Judo
+Olympic Games
+Sport
+Athletics
+Baseball
+Basketball
+Cricket
+Association football
+Golf
+Rugby
+Tennis
+Swimming
+Toy
+History
+Prehistory
+Stone Age
+Bronze Age
+Iron Age
+Mesopotamia
+Sumer
+Ancient Egypt
+Ancient Greece
+Roman Empire
+Han Dynasty
+Gupta Empire
+Abbasid Caliphate
+Age of Enlightenment
+Aztec
+Byzantine Empire
+Crusades
+Holy Roman Empire
+Inca
+Mali Empire
+Mayan Civilization
+Middle Ages
+Mongol Empire
+Ming Dynasty
+Ottoman Empire
+Protestant Reformation
+Renaissance
+Tang Dynasty
+Vikings
+Arab-Israeli conflict
+American Civil War
+Apartheid
+British Empire
+Cold War
+Cultural Revolution
+French Revolution
+Great Depression
+The Holocaust
+Industrial Revolution
+Nazi Germany
+Meiji Restoration
+Russian Revolution
+Qing Dynasty
+Vietnam War
+World War I
+World War II
+Geography
+City
+Continent
+Forest
+Mountain
+Desert
+North Pole
+Ocean
+River
+Sea
+South Pole
+Africa
+Antarctica
+Asia
+Europe
+Middle East
+North America
+Oceania
+South America
+Afghanistan
+Algeria
+Argentina
+Australia
+Austria
+Bangladesh
+Brazil
+Canada
+China
+Democratic Republic of the Congo
+Cuba
+Egypt
+Ethiopia
+France
+Germany
+India
+Indonesia
+Iran
+Iraq
+Israel
+Italy
+Japan
+Mexico
+Netherlands
+Nigeria
+Pakistan
+Philippines
+Poland
+Portugal
+Russia
+Saudi Arabia
+Singapore
+South Africa
+South Korea
+Spain
+Sudan
+Switzerland
+Tanzania
+Thailand
+Turkey
+Ukraine
+United Kingdom
+United States
+Vatican City
+Venezuela
+Vietnam
+Amsterdam
+Athens
+Baghdad
+Bangkok
+Beijing
+Berlin
+Bogotá
+Brussels
+Buenos Aires
+Cairo
+Cape Town
+Damascus
+Delhi
+Dhaka
+Dubai
+Hong Kong
+Istanbul
+Jakarta
+Jerusalem
+Karachi
+Kinshasa
+Kolkata
+Lagos
+London
+Los Angeles
+Madrid
+Mecca
+Mexico City
+Moscow
+Mumbai
+Nairobi
+New York City
+Paris
+Rio de Janeiro
+Rome
+Saint Petersburg
+São Paulo
+Seoul
+Shanghai
+Sydney
+Tehran
+Tokyo
+Vienna
+Washington, D.C.
+Amazon River
+Arctic Ocean
+Atlantic Ocean
+Baltic Sea
+Black Sea
+Caribbean Sea
+Caspian Sea
+Congo River
+Danube
+Ganges
+Great Barrier Reef
+Great Lakes
+Indian Ocean
+Indus River
+Lake Baikal
+Lake Tanganyika
+Lake Victoria
+Mediterranean Sea
+Mississippi River
+Niger River
+Nile
+North Sea
+Pacific Ocean
+Panama Canal
+Rhine
+Suez Canal
+Southern Ocean
+Volga River
+Yangtze River
+Yellow River
+Alps
+Andes
+Himalayas
+Mount Everest
+Mount Kilimanjaro
+Rocky Mountains
+Sahara

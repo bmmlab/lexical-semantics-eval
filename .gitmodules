@@ -1,6 +1,0 @@
-[submodule "lexical-semantics-eval-corpus"]
-	path = lexical-semantics-eval-corpus
-	url = https://github.com/bmmlab/lexical-semantics-eval-corpus
-[submodule "lexical-semantics-eval-sims"]
-	path = lexical-semantics-eval-sims
-	url = https://github.com/bmmlab/lexical-semantics-eval-sims
