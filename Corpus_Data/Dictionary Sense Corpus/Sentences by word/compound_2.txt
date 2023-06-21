@@ -1,0 +1,3 @@
+Interest is compounded quarterly.
+My bank compounds interest quarterly.
+The interest on my loan compounds monthly.

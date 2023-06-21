@@ -1,0 +1,350 @@
+Q5891 philosophy
+Q484761 philosophy of language
+Q180536 philosophy of mathematics
+Q23407 philosophy of mind
+Q179805 political philosophy
+Q180592 social philosophy
+Q178540 Pre-Socratic philosophy
+Q204100 ancient philosophy
+Q999259 ancient Greek philosophy
+Q192292 medieval philosophy
+Q917440 Renaissance philosophy
+Q860746 modern philosophy
+Q943303 contemporary philosophy
+Q307043 Eastern philosophy
+Q842333 Western philosophy
+Q376022 Indian philosophy
+Q184663 Chinese philosophy
+Q1203683 German philosophy
+Q2364399 American philosophy
+Q35986 aesthetics
+Q7242 beauty
+Q468427 mimesis
+Q999803 sublime
+Q9465 ethics
+Q538733 applied ethics
+Q56003 meta-ethics
+Q1321845 normative ethics
+Q221373 deontological ethics
+Q80968 nihilism
+Q83188 relativism
+Q160590 utilitarianism
+Q878070 duty
+Q15292 evil
+Q9476 free will
+Q15290 good
+Q2979 liberty
+Q48324 morality
+Q157811 virtue
+Q799 wisdom
+Q9471 epistemology
+Q131012 Occam's razor
+Q332880 common sense
+Q193526 conscience
+Q3962655 opinion
+Q28643 paradigm
+Q178354 reason
+Q83368 empiricism
+Q56000 naturalism
+Q126692 pragmatism
+Q483024 rationalism
+Q206829 reductionism
+Q164359 experience
+Q9081 knowledge
+Q7949 truth
+Q8078 logic
+Q9453 dialectic
+Q491412 philosophical logic
+Q186619 argument
+Q408386 inference
+Q483372 paradox
+Q35277 metaphysics
+Q673661 abstraction
+Q179289 causality
+Q154242 nothing
+Q131133 determinism
+Q167312 dualism
+Q33442 idealism
+Q7081 materialism
+Q178801 monism
+Q468777 existence
+Q44325 ontology
+Q9510 reality
+Q59115 philosophy of science
+Q188572 fact
+Q41719 hypothesis
+Q483677 pseudoscience
+Q179098 parapsychology
+Q17737 theory
+Q2054106 religious philosophy
+Q1001079 Buddhist philosophy
+Q193104 Islamic philosophy
+Q854807 Christian philosophy
+Q209295 philosophy of religion
+Q481201 absolute
+Q59104 continental philosophy
+Q38066 existentialism
+Q46158 humanism
+Q193627 logical positivism
+Q878985 modernism
+Q131015 positivism
+Q47783 postmodernism
+Q37068 Romanticism
+Q1395219 skepticism
+Q48235 stoicism
+Q179168 structuralism
+Q183216 analytic philosophy
+Q179235 phenomenology
+Q328945 Thomism
+Q9174 religion
+Q178885 deity
+Q190 God
+Q205985 goddess
+Q42603 priest
+Q168796 spirituality
+Q9165 soul
+Q108458 meditation
+Q40953 prayer
+Q851918 adoration
+Q83345 male circumcision
+Q6674 devil
+Q34187 religious studies
+Q179723 sacrifice
+Q1075827 comparative religion
+Q117850 doctrine
+Q1068640 folk religion
+Q171899 freedom of religion
+Q216920 secularism
+Q34178 theology
+Q635155 creator deity
+Q334486 mother goddess
+Q43004 animism
+Q215304 creation myth
+Q109411 curse
+Q170337 eschatology
+Q5410500 faith
+Q390248 myth of origins
+Q188681 resurrection
+Q1151419 sacred
+Q80837 supernatural
+Q947965 totemism
+Q899918 Theophany
+Q191776 apologetics
+Q44602 fasting
+Q160598 heresy
+Q132137 icon
+Q181543 iconoclasm
+Q840665 idolatry
+Q172331 liturgy
+Q1644573 pilgrimage
+Q214267 prophecy
+Q904756 religious conversion
+Q189819 ritual
+Q1579384 Veneration
+Q2514663 worship
+Q48422 cadaver
+Q201676 funeral
+Q39614 cemetery
+Q173387 grave
+Q207315 cremation
+Q161936 Death
+Q193291 spirit
+Q623282 afterlife
+Q128593 reincarnation
+Q193942 immortality
+Q62833357 elsewhere
+Q3363340 paradise
+Q564 hell
+Q101687 altar
+Q478004 anti-clericalism
+Q183770 Christian creed
+Q11038979 cult
+Q44613 monastery
+Q13414953 religious denomination
+Q41521 schism
+Q19097 sect
+Q697295 shrine
+Q44539 temple
+Q620805 theism
+Q288928 agnosticism
+Q7066 atheism
+Q620629 deism
+Q9149 fundamentalism
+Q9159 monotheism
+Q221390 panentheism
+Q728455 pantheism
+Q9163 polytheism
+Q156112 ecumenism
+Q189753 modern Paganism
+Q383258 orthodoxy
+Q29536 paganism
+Q172904 syncretism
+Q106687 Unitarianism
+Q871396 nontheism
+Q5522978 antitheism
+Q210115 free-thought
+Q5043 Christianity
+Q163943 Druze
+Q432 Islam
+Q9268 Judaism
+Q235113 angel
+Q37302 Holy Spirit
+Q51626 Messiah
+Q60227 sin
+Q34623 The Ten Commandments
+Q34651 Christian Church
+Q3678579 Jehovah
+Q35230 Satan
+Q1845 Bible
+Q18813 New Testament
+Q19786 Old Testament
+Q19809 Christmas
+Q21196 Easter
+Q39864 Pentecost
+Q37090 Trinity
+Q584205 Nontrinitarianism
+Q1841 Catholicism
+Q9592 Catholic Church
+Q19546 pope
+Q3333484 Eastern Orthodoxy
+Q23540 Protestantism
+Q6423963 Anglicanism
+Q93191 Baptists
+Q194253 Evangelicalism
+Q75809 Lutheranism
+Q33203 Methodism
+Q747802 Mormonism
+Q170208 Quakers
+Q49377 Oriental Orthodox Churches
+Q16970 church building
+Q2977 cathedral
+Q60995 Russian Orthodox Church
+Q101849 Calvinism
+Q176770 Five Pillars of Islam
+Q1192063 Islamic denomination
+Q9585 Shia Islam
+Q483654 Sunni Islam
+Q9603 Sufism
+Q234801 Allah
+Q428 The Qur’an
+Q125482 imam
+Q32815 mosque
+Q234915 Hajj
+Q234343 hadith
+Q29466 Kaaba
+Q47740 Muslim
+Q482752 sharia
+Q80970 Orthodox Judaism
+Q1133485 reform Judaism
+Q205644 Conservative Judaism
+Q121393 Passover
+Q133485 rabbi
+Q34627 synagogue
+Q34990 Torah
+Q83367 Tanakh
+Q43290 Talmud
+Q132994 Yom Kippur
+Q217403 Ayyavazhi
+Q22679 Baháʼí Faith
+Q748 Buddhism
+Q48362 Mahāyāna
+Q193849 Avalokiteśvara
+Q494235 Diamond Sutra
+Q42927 nirvana
+Q132265 Theravāda
+Q215685 Pāli Canon
+Q483889 Tibetan Buddhism
+Q172175 Vajrayana
+Q7953 Zen
+Q9581 Confucianism
+Q1377760 Four Books and Five Classics
+Q9089 Hinduism
+Q234953 Shaivism
+Q45584 Vaishnavism
+Q849345 Shaktism
+Q184128 Om
+Q83090 avatar
+Q132325 Ayurveda
+Q46802 Bhagavad Gita
+Q11389 Brahma
+Q746990 Brahman
+Q134293 dharma
+Q71684 Ishvara
+Q132196 karma
+Q42891 Krishna
+Q10283 Kumbh Mela
+Q37293 Ramayana
+Q727413 Rigveda
+Q11378 Shiva
+Q9595 Trimurti
+Q6113985 Upanishad
+Q39950 Vedas
+Q2512051 Vedanta
+Q11380 Vishnu
+Q9350 yoga
+Q9232 Jainism
+Q812767 Shinto
+Q9316 Sikhism
+Q203249 Guru Granth Sahib
+Q180422 Harmandir Sahib
+Q9598 Taoism
+Q134425 Tao Te Ching
+Q386498 traditional African religion
+Q1074275 Chinese folk religion
+Q860434 Jade Emperor
+Q42042 shamanism
+Q9601 Zoroastrianism
+Q83426 Avesta
+Q200263 Parsi
+Q45996 mysticism
+Q41726 freemasonry
+Q48420 gnosticism
+Q81741 magic
+Q34362 astrology
+Q583269 tarot
+Q259745 witchcraft
+Q178934 occultism
+Q177764 Vodun
+Q9134 mythology
+Q36192 folklore
+Q376608 Australian Aboriginal mythology
+Q263031 Celtic polytheism
+Q205740 Egyptian mythology
+Q1122452 Germanic paganism
+Q34726 Greek mythology
+Q180627 Lilith
+Q128285 Norse mythology
+Q122173 Roman mythology
+Q830183 Eve
+Q58373 Amun
+Q47534 Anubis
+Q130227 Aten
+Q133343 Hathor
+Q84122 Horus
+Q79876 Isis
+Q46491 Osiris
+Q1252904 Ra
+Q34201 Zeus
+Q121973 Eros
+Q41127 Poseidon
+Q41410 Hades
+Q38012 Hera
+Q35500 Aphrodite
+Q39503 Artemis
+Q37122 Athena
+Q41419 Hestia
+Q40901 Ares
+Q41484 Hermes
+Q44384 Hephaestus
+Q37340 Apollo
+Q93172 Gaia
+Q179818 Quetzalcoatl
+Q1647325 Freyja
+Q43610 Odin
+Q42952 Thor
+Q125046 Juno
+Q4649 Jupiter
+Q112 Mars
+Q152262 Pluto
+Q47652 Venus
+Q4640 Vulcan

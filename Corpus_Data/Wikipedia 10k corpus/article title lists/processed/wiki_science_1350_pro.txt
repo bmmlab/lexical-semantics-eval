@@ -1,0 +1,1348 @@
+science 
+experiment 
+laboratory 
+laboratory equipment
+nature 
+observation 
+scientific research
+scientific method
+scientific theory
+scientist 
+astronomy 
+astrobiology 
+extinction 
+extraterrestrial life
+magnitude 
+astrometry 
+angular resolution
+cosmic distance ladder 
+parallax 
+photometry 
+Astronomical coordinate systems 
+declination 
+right ascension
+celestial equator
+celestial sphere
+equinox 
+ecliptic 
+horizon 
+nadir 
+solstice 
+star chart
+zenith 
+zodiac 
+constellation 
+Andromeda 
+Aquarius 
+Aquila 
+Ara 
+Aries 
+Auriga 
+Boötes 
+Camelopardalis 
+Cancer 
+Canes Venatici
+Canis Major
+Canis Minor
+Capricornus 
+Carina 
+Cassiopeia 
+Centaurus 
+Cepheus 
+Cetus 
+Columba 
+Coma Berenices
+Corona Australis
+Corona Borealis
+Corvus 
+Crater 
+Crux 
+Cygnus 
+Delphinus 
+Draco 
+Equuleus 
+Eridanus 
+Gemini 
+Hercules 
+Hydra 
+Lacerta 
+Leo 
+Leo Minor
+Lepus 
+Libra 
+Lupus 
+Lynx 
+Lyra 
+Monoceros 
+Ophiuchus 
+Orion 
+Pegasus 
+Perseus 
+Pisces 
+Piscis Austrinus
+Puppis 
+Pyxis 
+Sagitta 
+Sagittarius 
+Scorpius 
+Scutum 
+Serpens 
+Sextans 
+Taurus 
+Triangulum 
+Triangulum Australe
+Ursa Major
+Ursa Minor
+Vela 
+Virgo 
+Vulpecula 
+Chinese constellations
+Zhuque 
+White Tiger
+Black Tortoise
+Azure Dragon
+astronomical object
+Centaurus A
+Cygnus X-1
+Eta Carinae
+Halley's Comet
+Hyades 
+Large Magellanic Cloud 
+Messier 87
+Mira 
+Omega Centauri
+Orion Nebula
+Pleiades 
+Sagittarius A*
+Local Group
+Magellanic Clouds
+Milky Way
+Andromeda Galaxy
+Triangulum Galaxy
+Solar System
+Sun 
+Mercury 
+Venus 
+Earth 
+Moon 
+Mars 
+Deimos 
+Phobos 
+asteroid belt
+Ceres 
+Jupiter 
+Io 
+Europa 
+Ganymede 
+Callisto 
+Saturn 
+Enceladus 
+Titan 
+Uranus 
+Neptune 
+Triton 
+Pluto 
+Charon 
+Eris 
+Makemake 
+Haumea 
+Kuiper belt
+Oort cloud
+PSR B1257+12 B 
+51 Pegasi b 
+Sirius 
+Canopus 
+Arcturus 
+Alpha Centauri
+Vega 
+Rigel 
+Procyon 
+Achernar 
+Betelgeuse 
+Capella 
+Altair 
+Aldebaran 
+Spica 
+Antares 
+Pollux 
+Fomalhaut 
+Deneb 
+RR Lyrae
+Acrux 
+Beta Centauri
+Algol 
+Delta Cephei
+Polaris 
+3C 273
+Crab Nebula
+celestial mechanics
+eclipse 
+lunar eclipse
+solar eclipse
+ephemeris 
+epoch 
+escape velocity
+equatorial coordinate system 
+gravity assist
+Kepler's laws of planetary motion 
+Lagrangian point
+natural satellite
+orbit 
+geostationary orbit
+low Earth orbit 
+orbital elements
+orbital eccentricity
+orbital mechanics
+occultation 
+two-body problem
+black hole
+Schwarzschild radius
+supermassive black hole 
+cosmic radiation
+dark nebula
+galaxy 
+galaxy cluster
+galaxy group
+supercluster 
+Great Attractor
+H II region 
+interstellar medium
+molecular cloud
+nebula 
+outer space
+solar wind
+star cluster
+globular cluster
+open cluster
+stellar association
+galaxy morphological classification 
+dwarf galaxy
+elliptical galaxy
+irregular galaxy
+lenticular galaxy
+spiral galaxy
+active galactic nucleus 
+blazar 
+quasar 
+radio galaxy
+Seyfert galaxy
+starburst galaxy
+absolute magnitude
+apparent magnitude
+observatory 
+cosmology 
+age of the universe
+Big Bang
+cosmic microwave background 
+dark energy
+dark matter
+formation and evolution of the Solar System 
+galaxy formation and evolution
+Hubble–Lemaître law
+Solar Nebula
+nebular hypothesis
+redshift 
+universe 
+observable universe
+asteroid 
+comet 
+extrasolar planet
+minor planet
+planet 
+dwarf planet
+gas giant
+terrestrial planet
+star 
+brown dwarf
+circumstellar habitable zone 
+gamma-ray burst
+Hertzsprung–Russell diagram
+metallicity 
+planetary system
+spectral class
+stellar evolution
+planetary nebula
+star formation
+main sequence
+protostar 
+red giant
+giant star
+supergiant 
+Wolf–Rayet star
+compact star
+white dwarf
+neutron star
+stellar black hole 
+stellar kinematics
+stellar magnetic field 
+stellar nucleosynthesis
+stellar rotation
+star system
+binary star
+circumstellar disk
+variable star
+cepheid variable
+nova 
+pulsar 
+supernova 
+antioxidant 
+group 16
+tricarboxylic acid cycle 
+concentration 
+distillation 
+electronegativity 
+functional group
+fluorescence 
+glycolytic process
+hydroxide salt
+hydrophobe 
+monosaccharide 
+polymerization 
+polymerase chain reaction 
+phlogiston 
+polysaccharides 
+stoichiometry 
+tritium 
+radionuclide 
+solvent 
+covalent radius
+oxidation number
+vulcanization 
+geochemistry 
+carbon cycle
+eutrophication 
+phase diagram
+Van der Waals radius
+nonmetal 
+macromolecule 
+surfactant 
+parts per million 
+noble metal
+glycoprotein 
+oxidizing agent
+Poisson's ratio
+pyrolysis 
+electrophoresis 
+valence electron
+adhesion 
+tear gas
+valence 
+cosmic dust
+IUPAC nomenclature of chemistry
+radical 
+isomer 
+group 11
+chemistry 
+agricultural chemistry
+biochemistry 
+computational chemistry
+electrochemistry 
+electrolysis 
+environmental chemistry
+forensic science
+inorganic chemistry
+materials science
+medicinal chemistry
+nuclear chemistry
+Table of nuclides 
+organic chemistry
+organometallic chemistry
+photochemistry 
+physical chemistry
+polymer chemistry
+quantum chemistry
+Alchemy 
+chemical bond
+ionic bond
+covalent bond
+metallic bond
+hydrogen bond
+intermolecular force
+molecule 
+chemical engineering
+chemical industry
+chemical reaction
+acid–base reaction
+catalysis 
+chemical equation
+chemical equilibrium
+chemical formula
+chemical kinetics
+combustion 
+fire 
+metathesis 
+reaction mechanism
+redox 
+corrosion 
+substitution reaction
+chemical substance
+chemical synthesis
+chemist 
+conservation of mass 
+pyrotechnics 
+firework 
+analytical chemistry
+chromatography 
+mass spectrometry
+spectroscopy 
+absorption spectrum
+absorption spectroscopy
+material 
+clay 
+glass 
+oil 
+polymer 
+mineral 
+gypsum 
+table salt
+silicates 
+diamond 
+graphite 
+quartz 
+oxide 
+peroxide 
+ozone 
+carbonate 
+chloride ion
+nitrate ion
+sulfate ion
+organosilicon compound
+silicone 
+organosulfur compound
+thiol 
+ester 
+ethers 
+hydrocarbon 
+aromatic compound
+alkyne 
+chemical element
+list of chemical elements
+atomic number
+atomic mass
+periodic table
+period 
+metal 
+alkali metal
+alkaline earth metal 
+lanthanide 
+actinide 
+transition metal
+metalloid 
+group 17
+group 18
+group 3
+group 4
+group 5
+group 6
+group 12
+group 13
+group 14
+group 15
+period 1
+period 2
+period 3
+hydrogen 
+helium 
+lithium 
+beryllium 
+boron 
+carbon 
+nitrogen 
+oxygen 
+fluorine 
+neon 
+sodium 
+magnesium 
+aluminium 
+silicon 
+phosphorus 
+sulfur 
+chlorine 
+argon 
+potassium 
+calcium 
+scandium 
+titanium 
+vanadium 
+chromium 
+manganese 
+iron 
+cobalt 
+nickel 
+copper 
+zinc 
+gallium 
+germanium 
+arsenic 
+selenium 
+bromine 
+krypton 
+rubidium 
+strontium 
+yttrium 
+zirconium 
+niobium 
+molybdenum 
+technetium 
+ruthenium 
+rhodium 
+palladium 
+silver 
+cadmium 
+indium 
+tin 
+antimony 
+tellurium 
+iodine 
+xenon 
+caesium 
+barium 
+lanthanum 
+cerium 
+praseodymium 
+neodymium 
+promethium 
+samarium 
+europium 
+gadolinium 
+terbium 
+dysprosium 
+holmium 
+erbium 
+thulium 
+ytterbium 
+lutetium 
+hafnium 
+tantalum 
+tungsten 
+rhenium 
+osmium 
+iridium 
+platinum 
+gold 
+mercury 
+thallium 
+lead 
+bismuth 
+polonium 
+astatine 
+radon 
+francium 
+radium 
+actinium 
+thorium 
+protactinium 
+uranium 
+neptunium 
+plutonium 
+americium 
+curium 
+berkelium 
+californium 
+einsteinium 
+fermium 
+mendelevium 
+nobelium 
+lawrencium 
+rutherfordium 
+dubnium 
+seaborgium 
+bohrium 
+hassium 
+meitnerium 
+darmstadtium 
+roentgenium 
+copernicium 
+nihonium 
+flerovium 
+moscovium 
+livermorium 
+tennessine 
+oganesson 
+chemical compound
+acid 
+acetic acid
+orthoboric acid
+citric acid
+hydrochloric acid
+hydrofluoric acid
+DL-lactic acid
+nitric acid
+phosphoric acid
+sulfuric acid
+tannic acid
+alkali 
+base 
+inorganic compound
+ammonia 
+carbon dioxide
+carbon monoxide
+water 
+organic compound
+acetone 
+alcohols 
+aldehydes 
+alkane 
+alkene 
+amide 
+amine 
+benzene 
+butane 
+ethane 
+caffeine 
+carboxylic acid
+chlorofluorocarbon 
+cocaine 
+ethanol 
+ethylene 
+formaldehyde 
+keto-D-fructose 
+glucose 
+haloalkane 
+ketone 
+methane 
+methanol 
+(−)-nicotine 
+phenol 
+propane 
+propylene 
+Syngas 
+salt 
+alum 
+ammonium nitrate
+ammonium sulfate
+calcium carbonate
+calcium chloride
+magnesium sulfate
+potassium hydroxide
+potassium nitrate
+sodium bicarbonate
+sodium carbonate
+sodium chloride
+sodium hydroxide
+sodium nitrate
+sodium metasilicate
+sodium sulfate
+titanium dioxide
+mixture 
+aerosol 
+colloid 
+dispersion 
+emulsion 
+foam 
+gel 
+solution 
+suspension 
+vapor 
+alloy 
+amalgam 
+brass 
+bronze 
+ceramic 
+cast iron
+duralumin 
+steel 
+stainless steel
+tablet 
+placebo 
+earth science
+cartography 
+map 
+natural disaster
+avalanche 
+drought 
+flood 
+earthquake 
+tsunami 
+structure of Earth 
+fold 
+formation 
+fossil 
+geology 
+impact crater
+lithosphere 
+Earth's crust
+fault 
+rock 
+basalt 
+flint 
+igneous rock
+limestone 
+magma 
+metamorphic rock
+sedimentary rock
+mineralogy 
+plate tectonics
+stratigraphy 
+stratum 
+thrust fault
+pyroxenes 
+feldspar 
+kaolinite 
+talc 
+mica 
+asbestos 
+beryl 
+emerald 
+sapphire 
+ruby 
+topaz 
+amber 
+ivory 
+pearl 
+petrology 
+conglomerate 
+gravel 
+granite 
+tuff 
+schist 
+marble 
+gneiss 
+soil 
+sand 
+sandstone 
+bauxite 
+peat 
+quartzite 
+slate 
+oil shale
+geodesy 
+geophysics 
+Earth's magnetic field 
+inner core
+outer core
+mantle 
+seismology 
+geologic time scale 
+Pangaea 
+extinction event
+Permian-Triassic extinction event 
+Cretaceous–Paleogene extinction event 
+ice age
+Precambrian 
+phanerozoic 
+Paleozoic 
+Cambrian 
+Permian 
+Mesozoic 
+Triassic 
+Jurassic 
+Cretaceous 
+Cenozoic 
+Quaternary 
+Holocene 
+geomorphology 
+erosion 
+mesa 
+stack 
+weathering 
+landform 
+mountain 
+mountain range
+plateau 
+hill 
+valley 
+plain 
+alluvial fan
+beach 
+canyon 
+cliff 
+floodplain 
+meander 
+oasis 
+rapids 
+waterfall 
+cirque 
+esker 
+fjord 
+speleology 
+cave 
+karst 
+atoll 
+bay 
+coast 
+continental shelf
+coral reef
+lagoon 
+oceanic trench
+peninsula 
+isthmus 
+island 
+seamount 
+volcano 
+caldera 
+geyser 
+hotspot 
+mid-ocean ridge
+volcanic crater
+volcanic plug
+lava dome
+submarine volcano
+guyot 
+aeolian process
+dune 
+canal 
+reservoir 
+polder 
+artificial island
+levee 
+quarry 
+ditch 
+land reclamation
+desert 
+tundra 
+heath 
+forest 
+jungle 
+mangrove 
+Environmental Zone Boreal 
+tropical forest
+rainforest 
+Amazon rainforest
+temperate broadleaf and mixed forest 
+grassland 
+Cerrado 
+field 
+Llanos 
+meadow 
+Pampas 
+pasture 
+prairie 
+Sahel 
+Savanna 
+steppe 
+wetland 
+swamp 
+bog 
+raised bog
+pedosphere 
+pedogenesis 
+soil science
+atmosphere of Earth 
+atmospheric chemistry
+air mass
+atmospheric pressure
+aurora 
+halo 
+mirage 
+rainbow 
+sky 
+climatology 
+climate 
+El Niño
+global warming
+Köppen climate classification 
+temperate climate
+tropical climate
+meteorology 
+barometer 
+humidity 
+weather front
+weather 
+cloud 
+cirrus 
+cumulonimbus 
+cumulus 
+fog 
+precipitation 
+acid rain
+black ice
+dew 
+frost 
+groundwater 
+hail 
+rain 
+snow 
+season 
+spring 
+summer 
+autumn 
+winter 
+wet season
+dry season
+atmospheric circulation
+anticyclone 
+cyclone 
+Hadley cell
+polar vortex
+storm 
+blizzard 
+dust storm
+lightning 
+Saffir–Simpson hurricane wind scale
+thunderstorm 
+tornado 
+tropical cyclone
+wind 
+Beaufort Scale
+jet stream
+monsoon 
+sea breeze
+trade wind
+hydrosphere 
+cryosphere 
+glaciology 
+firn 
+glacier 
+ice 
+ice sheet
+ice shelf
+iceberg 
+sea ice
+permafrost 
+hydrology 
+Earth water cycle 
+hydrography 
+river 
+estuary 
+river delta
+limnology 
+lake 
+pond 
+tide 
+oceanography 
+ocean 
+sea 
+ocean current
+sea level
+thermohaline circulation
+physics 
+allotropy 
+Geiger–Marsden experiment
+osmosis 
+quantum field theory 
+remote sensing
+alpha decay
+absolute zero
+adiabatic process
+butterfly effect
+Brownian motion
+beta decay
+classical element
+corona 
+density 
+electronvolt 
+electron microscope
+fundamental interaction
+elementary particle
+ferromagnetism 
+graviton 
+heat engine
+heavy water
+hydrolysis 
+insulator 
+ionosphere of Earth 
+Mach number
+Mohs scale of mineral hardness 
+magnetosphere 
+obsidian 
+physical quantity
+pump 
+pH 
+precession 
+quantum computer
+refraction 
+standard temperature and pressure
+Schrödinger's cat
+Tunguska event
+time travel
+voltage 
+wavelength 
+wormhole 
+enthalpy of vaporization 
+ballistic missile
+gravitational constant
+vapor pressure
+black body
+electrolyte 
+gravitational lens
+atomic radius
+Boltzmann constant
+biophysics 
+perpetual motion
+dew point
+Compton effect
+thermal conductivity
+solubility 
+ionization energy
+Van Allen radiation belt
+hydraulics 
+magnetic flux
+Boyle's law
+ideal gas
+angular velocity
+Foucault pendulum
+geocentric model
+apsis 
+metronome 
+water vapor
+electromagnet 
+second law of thermodynamics
+orbital period
+fluorescent lamp
+first law of thermodynamics
+heat transfer
+heat capacity
+electrical conductor
+adsorption 
+heliocentrism 
+St. Elmo's fire 
+Archimedes' principle
+internal energy
+astrophysics 
+reflection 
+wind wave
+magnetic permeability
+hardness 
+atomism 
+spin 
+theoretical physics
+semi-major axis
+event horizon
+amplitude 
+atom 
+eenergui 
+mass–energy equivalence
+conservation of energy 
+field 
+force 
+gravity 
+strong interaction
+weak interaction
+matter 
+power 
+radiation 
+ionizing radiation
+space 
+spacetime 
+time 
+Planck time
+Planck units
+vacuum 
+atomic physics
+atomic nucleus
+atomic orbital
+atomic theory
+Auger effect
+binding energy
+Bohr model
+bremsstrahlung 
+electron configuration
+electron shell
+excited state
+hydrogen-like atom
+hyperfine structure
+ion 
+plum pudding model 
+principal quantum number 
+stimulated emission
+molecular orbital
+molecular orbital theory 
+optics 
+free-electron laser
+Kerr effect
+luminosity 
+nonlinear optics
+photonics 
+physical optics
+polarization 
+refractive index
+condensed matter physics 
+amorphous solid
+solid-state physics
+crystallography 
+crystal 
+crystal structure
+crystal system
+crystallization 
+phase change
+phase 
+boiling 
+boiling point
+critical point
+condensation 
+evaporation 
+freezing 
+ionization 
+melting 
+melting temperature
+sublimation 
+triple point
+state of matter 
+Bose–Einstein condensate
+degenerate matter
+gas 
+liquid 
+plasma 
+quark–gluon plasma
+solid 
+superfluidity 
+electromagnetic interaction
+dielectric 
+oil drop experiment 
+electricity 
+magnet 
+magnetism 
+metamaterial 
+photoelectric effect
+superconductivity 
+electrostatics 
+electric charge
+Coulomb's law
+electric field
+Gauss's law
+electric potential
+Lorentz force
+electromotive force
+magnetomotive force
+electromagnetic induction
+Faraday's law of induction
+Maxwell's equations
+electromagnetic field
+electromagnetic radiation
+electromagnetic spectrum
+radio wave
+microwave 
+infrared radiation
+visible spectrum
+ultraviolet radiation
+X-ray 
+gamma ray
+eddy current
+magnetostatics 
+electric current
+Ampère's circuital law 
+magnetic field
+magnetic moment
+electrical network
+electrical resistivity
+electrical resistance
+Ohm's law
+gain 
+capacitance 
+inductance 
+impedance 
+electric reactance
+Kirchhoff's circuit laws 
+mechanics 
+aerodynamics 
+continuum mechanics
+dynamics 
+kinematics 
+soil mechanics
+statics 
+rheology 
+oscillation 
+harmonic oscillator
+classical mechanics
+frame of reference 
+friction 
+impulse 
+inertia 
+kinetic energy
+mass 
+moment of inertia 
+momentum 
+motion 
+acceleration 
+Newton's laws of motion
+speed 
+velocity 
+potential energy
+rotation 
+angular momentum
+centrifugal force
+centripetal force
+Coriolis force
+Newton's law of universal gravitation 
+torque 
+weight 
+work 
+solid mechanics
+elastic modulus
+fatigue 
+elasticity 
+Hooke's law
+plasticity 
+stiffness 
+strength of materials 
+stress 
+fluid mechanics
+Bernoulli's principle
+buoyancy 
+convection 
+diffusion 
+fluid dynamics
+hydrostatics 
+Navier–Stokes equations
+Reynolds number
+surface tension
+turbulence 
+viscosity 
+quantum mechanics
+quantum chromodynamics
+quantum electrodynamics
+quantum entanglement
+quantum tunneling
+uncertainty principle
+Pauli exclusion principle 
+Schrödinger equation
+wave function
+wave–particle duality
+statistical mechanics
+nuclear physics
+isotope 
+nuclear fission
+nuclear fusion
+tokamak 
+fusion power
+radioactivity 
+alpha particle
+beta particle
+particle physics
+particle 
+cloud chamber
+Standard Model
+string theory
+spontaneous symmetry breaking 
+supersymmetry 
+particle accelerator
+Large Hadron Collider 
+synchrotron 
+synchrotron radiation
+Tevatron 
+subatomic particle
+fermion 
+lepton 
+electron 
+muon 
+tau 
+neutrino 
+quark 
+up quark
+down quark
+charm quark
+strange quark
+top quark
+bottom quark
+hadron 
+baryon 
+neutron 
+proton 
+meson 
+boson 
+gauge boson
+gluon 
+photon 
+Higgs boson
+W or Z boson
+antimatter 
+antiparticle 
+positron 
+antihydrogen 
+antiproton 
+antineutron 
+theory of relativity 
+general relativity
+special relativity
+length contraction
+Michelson–Morley experiment
+heat 
+temperature 
+thermodynamics 
+enthalpy 
+entropy 
+ideal gas law 
+pressure 
+state function
+Gibbs free energy 
+thermodynamic state
+wave 
+acoustics 
+sound 
+speed of sound 
+ultrasound 
+diffraction 
+frequency 
+interference 
+dummy] 
+speed of light 
+noise 
+resonance 
+Doppler effect
+measurement 
+measuring instrument
+altimeter 
+micrometer 
+sensor 
+spectrometer 
+theodolite 
+thermometer 
+weighing scale
+unit of measurement 
+metric system
+International System of Units
+metrology 
+degree 
+radian 
+steradian 
+square metre
+acre 
+hectare 
+ångström 
+astronomical unit
+foot 
+inch 
+light-year 
+metre 
+mile 
+nautical mile
+parsec 
+yard 
+second 
+minute 
+hour 
+day 
+week 
+month 
+year 
+decade 
+millennium 
+gallon 
+litre 
+volt 
+ohm 
+hertz 
+farad 
+coulomb 
+henry 
+tesla 
+weber 
+watt 
+ampere 
+candela 
+lumen 
+lux 
+standard atmosphere
+joule 
+newton 
+small calorie
+pascal 
+kilogram 
+tonne 
+pound 
+ounce 
+dalton 
+knot 
+amount of substance 
+mole 
+byte 
+bit 
+baud 
+becquerel 
+gray 
+sievert 
+degree Celsius
+degree Fahrenheit
+kelvin 
+decibel 

@@ -1,0 +1,800 @@
+Q23404 anthropology
+Q11042 culture
+Q132241 festival
+Q1445650 holiday
+Q27172 physical anthropology
+Q3254959 race
+Q28598 cultural anthropology
+Q772835 linguistic anthropology
+Q29051 social anthropology
+Q2472587 people
+Q43455 ethnology
+Q41710 ethnic group
+Q132151 ethnography
+Q103817 indigenous people
+Q173371 Bantu people
+Q126756 Basque people
+Q172365 San people
+Q22633 Germanic peoples
+Q170355 Indigenous Australians
+Q36747 indigenous peoples of the Americas
+Q105405 Cherokee
+Q189975 Inuit
+Q7325 Jewish people
+Q12223 Kurds
+Q163022 Maasai
+Q41975 Mongols
+Q8060 Romani
+Q40477 Slavs
+Q193092 Tutsi
+Q35323 Arabs
+Q861225 Austronesian people
+Q45315 Berbers
+Q498640 Creole
+Q42740 Han Chinese people
+Q1267987 Malayali
+Q6122670 Māori
+Q1145774 Proto-Indo-Europeans
+Q62928 Semitic people
+Q84072 Turks
+Q46118 Uyghur people
+Q171318 kinship
+Q8436 family
+Q259059 household
+Q720069 nuclear family
+Q721790 extended family
+Q927143 stepfamily
+Q954007 affinity
+Q211503 clan
+Q188790 concubinage
+Q774347 consanguineous
+Q193279 orphan
+Q39201 pet
+Q1196129 spouse
+Q7566 parent
+Q223973 godparent
+Q31184 sibling
+Q159979 twin
+Q3603531 grandchild
+Q223642 interpersonal relationship
+Q442358 casual sex
+Q736922 intimate relationship
+Q491 friendship
+Q49800 cohabitation
+Q184211 monogamy
+Q720243 bigamy
+Q170585 polygamy
+Q654810 dating
+Q376596 courtship
+Q1189047 romance
+Q157512 engagement
+Q49836 wedding
+Q45803 dowry
+Q8445 marriage
+Q205572 civil marriage
+Q41075 civil union
+Q279394 marriage of convenience
+Q1280670 family planning
+Q34581 parturition
+Q334645 surrogacy
+Q1421842 childlessness
+Q1326354 parenting
+Q46839 LGBT parenting
+Q1430789 foster care
+Q180472 adoption
+Q2290557 sociology of the family
+Q93190 divorce
+Q2914621 infidelity
+Q16675060 widowhood
+Q127683 incest
+Q156537 domestic violence
+Q38695 cooking
+Q1778821 cuisine
+Q2095 food
+Q40050 drink
+Q34956 vitamin
+Q6460735 meal
+Q80973 breakfast
+Q12896105 lunch
+Q657221 dinner
+Q182940 dessert
+Q427457 cooking oil
+Q93165 olive oil
+Q231458 palm oil
+Q81799 fast food
+Q11707 restaurant
+Q83364 vegetarianism
+Q11004 vegetable
+Q20136 root vegetable
+Q183319 tuber
+Q3314483 fruit
+Q165308 pumpkin
+Q19842373 blackberry
+Q3733836 apricot
+Q1652093 date
+Q13222088 pomegranate
+Q8495 milk
+Q34172 butter
+Q4287 margarine
+Q13228 cream
+Q10943 cheese
+Q746471 blue cheese
+Q217525 Cheddar cheese
+Q14088 mozzarella
+Q155922 Parmesan cheese
+Q841779 coconut milk
+Q13233 ice cream
+Q192199 soy milk
+Q177378 tofu
+Q13317 yogurt
+Q7802 bread
+Q12117 cereal
+Q36465 flour
+Q185583 candy
+Q183440 caramel
+Q195 chocolate
+Q10987 honey
+Q11009 nut
+Q578307 hazelnut
+Q208021 walnut
+Q93189 egg
+Q10990 meat
+Q11106 bacon
+Q192628 beef
+Q864693 chicken meat
+Q170486 ham
+Q6663 hamburger
+Q181055 hot dog
+Q643419 lamb meat
+Q191768 pork meat
+Q72827 lard
+Q157484 offal
+Q131419 sausage
+Q192935 seafood
+Q600396 fish as food
+Q2596997 condiment
+Q207123 herb
+Q178359 sauce
+Q42527 spice
+Q28692 Pimpinella anisum
+Q38859 basil
+Q43084 Piper nigrum
+Q33466 Elettaria cardamomum
+Q28165 cinnamon
+Q43511 fennel
+Q23400 Allium sativum
+Q35625 Zingiber officinale
+Q26545 horseradish plant
+Q171892 Lavandula
+Q5727732 Cymbopogon
+Q257106 liquorice
+Q47859 Mentha
+Q23485 Allium cepa
+Q25284 parsley
+Q25434 saffron
+Q275650 chutney
+Q545985 fish sauce
+Q1269 jam
+Q178143 ketchup
+Q167893 mayonnaise
+Q131748 mustard
+Q3127593 paprika
+Q9896 pesto
+Q229385 soy sauce
+Q348947 tartar sauce
+Q41354 vinegar
+Q13276 cake
+Q164606 curry
+Q190531 fondue
+Q152088 French-fried potatoes
+Q179010 kebab
+Q192874 noodle
+Q178 pasta
+Q477248 pastry
+Q13360264 pie
+Q177 pizza
+Q186817 porridge
+Q9266 salad
+Q491517 samosa
+Q28803 sandwich
+Q41415 soup
+Q2920963 stew
+Q46383 sushi
+Q7892 drinking water
+Q348958 iced tea
+Q8492 juice
+Q219059 orange juice
+Q893 lemonade
+Q147538 soft drink
+Q134041 cola
+Q2813 Coca-Cola
+Q215754 energy drink
+Q237315 tonic water
+Q6097 tea
+Q484083 green tea
+Q203415 black tea
+Q8486 coffee
+Q180289 espresso
+Q43022 Turkish coffee
+Q13261 hot chocolate
+Q203540 maté
+Q154 alcoholic beverage
+Q56139 Liquor
+Q44 beer
+Q146470 brandy
+Q167296 cider
+Q959362 gin
+Q178780 liqueur
+Q83376 rum
+Q170219 sake
+Q122195 tequila
+Q374 vodka
+Q281 whisky
+Q282 wine
+Q1827 red wine
+Q10210 white wine
+Q321263 sparkling wine
+Q134768 cocktail
+Q273027 Martini
+Q487338 Mojito
+Q273296 sangria
+Q134560 belt
+Q172317 hijab
+Q160464 button
+Q516992 cloak
+Q11460 clothing
+Q198763 undergarment
+Q200539 dress
+Q169031 glove
+Q80151 hat
+Q44416 necktie
+Q39908 trousers
+Q22676 shoe
+Q191022 scarf
+Q76768 shirt
+Q2160801 skirt
+Q212989 swimsuit
+Q43663 sock
+Q15411420 hook and loop fastener
+Q101761 zipper
+Q42804 beard
+Q13716 brassiere
+Q131207 cosmetics
+Q131746 perfume
+Q161439 jewelry
+Q161524 mask
+Q43006 tattooing
+Q152095 bathtub
+Q42177 bed
+Q204776 bench
+Q2741056 cabinet
+Q15026 chair
+Q622360 commode
+Q131514 couch
+Q106106 wardrobe
+Q1064858 desk
+Q188669 fireplace
+Q14745 furniture
+Q212920 home appliance
+Q14748 table
+Q28823 textile
+Q1762457 bedding
+Q163446 carpet
+Q49005 curtain
+Q99895 pillow
+Q1521410 kitchenware
+Q81944 cutlery
+Q81881 fork
+Q81895 spoon
+Q81980 chopsticks
+Q57216 plate
+Q154136 human sexuality
+Q8441 man
+Q467 woman
+Q1035954 heterosexuality
+Q6636 homosexuality
+Q5873 sexual intercourse
+Q318529 safe sex
+Q964401 fertility
+Q7307 kiss
+Q464859 sexual attraction
+Q17888 sexual orientation
+Q43200 bisexuality
+Q5139011 foreplay
+Q2122 oral sex
+Q5887 orgasm
+Q817281 combined oral contraceptive pill
+Q14076 condom
+Q8396 masturbation
+Q36633 prostitution
+Q291 pornography
+Q276258 childhood
+Q576104 neonate
+Q998 baby
+Q7569 child
+Q3010 boy
+Q3031 girl
+Q190007 youth
+Q131774 adolescence
+Q80994 adult
+Q191089 old age
+Q9418 psychology
+Q199906 clinical psychology
+Q23373 cognitive psychology
+Q219695 evolutionary psychology
+Q271716 personality psychology
+Q368498 psychology of religion
+Q183257 psychotherapy
+Q185030 genius
+Q8609 hypnosis
+Q178066 libido
+Q175854 phobia
+Q484954 pessimism
+Q160402 perception
+Q161272 social psychology
+Q180242 Stockholm syndrome
+Q2200417 cognition
+Q484275 leadership
+Q170658 creativity
+Q25107 power
+Q485446 optimism
+Q742609 human nature
+Q34516 imagination
+Q152247 crying
+Q201650 hypocrisy
+Q131246 Oedipus complex
+Q173253 sense
+Q492 memory
+Q245179 Analytical psychology
+Q168338 behaviorism
+Q175002 developmental psychology
+Q272021 Gestalt psychology
+Q23364 humanistic psychology
+Q41630 psychoanalysis
+Q6501338 attention
+Q11072 amnesia
+Q7087 consciousness
+Q35831 sleep
+Q36348 dream
+Q18237 instinct
+Q450 mind
+Q331769 mood
+Q80157 temperament
+Q641118 personality
+Q644302 motivation
+Q167172 stereotype
+Q9420 thinking
+Q9332 behavior
+Q9415 emotion
+Q79871 anger
+Q154430 anxiety
+Q1412160 compassion
+Q208160 courage
+Q366791 curiosity
+Q208351 disgust
+Q34302 doubt
+Q188739 envy
+Q44619 fear
+Q628939 guilt
+Q8 happiness
+Q160232 hatred
+Q190507 hope
+Q6545811 jealousy
+Q316 love
+Q6498477 lust
+Q187234 haughtiness
+Q169251 sadness
+Q152282 shame
+Q333173 surprise
+Q35874 humour
+Q208195 pleasure
+Q5780945 suffering
+Q191797 aggression
+Q167323 altruism
+Q174834 authority
+Q2166722 betrayal
+Q240126 bullying
+Q118157 charisma
+Q476300 competition
+Q221284 conformity
+Q463910 egocentrism
+Q182263 empathy
+Q537963 forgiveness
+Q207333 honor
+Q4925193 lie
+Q188728 privacy
+Q179742 prejudice
+Q186361 punishment
+Q28510 respect
+Q913668 shyness
+Q659974 trust
+Q315 language
+Q33215 constructed language
+Q33384 dialect
+Q23622 dictionary
+Q8091 grammar
+Q34698 adjective
+Q380057 adverb
+Q36484 conjunction
+Q128234 case
+Q1084 noun
+Q36224 pronoun
+Q41796 sentence
+Q37437 syntax
+Q24905 verb
+Q8162 linguistics
+Q878226 comparative linguistics
+Q35245 etymology
+Q190375 historical linguistics
+Q35395 phonetics
+Q8236 literacy
+Q38311 morphology
+Q40634 philology
+Q184377 pronunciation
+Q81009 rhetoric
+Q7553 translation
+Q8171 word
+Q8183 phoneme
+Q38035 consonant
+Q36244 vowel
+Q8188 syllable
+Q37260 writing
+Q162940 diacritic
+Q43091 orthography
+Q8192 writing system
+Q82799 name
+Q40998 phonology
+Q39645 semantics
+Q60195 semiotics
+Q80071 symbol
+Q25295 language family
+Q25268 Afro-Asiatic
+Q34049 Semitic
+Q37845 Altaic
+Q33199 Austroasiatic
+Q49228 Austronesian
+Q33311 Dravidian
+Q25946 Eskimo-Aleut
+Q19860 Indo-European
+Q21200 Germanic
+Q33527 Iranian
+Q19814 Romance languages
+Q23526 Slavic
+Q33614 Khoisan
+Q33838 Niger–Congo
+Q33705 Nilo-Saharan
+Q45961 Sino-Tibetan
+Q169921 Ibero-Caucasian
+Q34171 Kra–Dai
+Q34230 Tungusic
+Q34090 Turkic
+Q34113 Uralic
+Q34073 Uto-Aztecan
+Q9779 alphabet
+Q9788 letter
+Q79894 Braille
+Q8196 Arabic alphabet
+Q8201 Chinese characters
+Q401 cuneiform
+Q8209 Cyrillic script
+Q38592 Devanagari
+Q132659 Egyptian hieroglyphs
+Q161428 Georgian scripts
+Q8216 Greek alphabet
+Q8222 Hangul
+Q8229 Latin script
+Q26752 Phoenician
+Q82996 runes
+Q48584 Rosetta Stone
+Q21204 International Phonetic Alphabet
+Q79897 Morse code
+Q182133 syllabary
+Q35497 Ancient Greek
+Q28602 Aramaic
+Q13955 Arabic
+Q9610 Bengali
+Q7850 Chinese
+Q9035 Danish
+Q50868 Egyptian
+Q1860 English
+Q42365 Old English
+Q143 Esperanto
+Q150 French
+Q188 German
+Q9129 Greek
+Q5137 Gujarati
+Q9288 Hebrew
+Q11051 Hindustani
+Q1568 Hindi
+Q652 Italian
+Q5287 Japanese
+Q33549 Javanese
+Q9176 Korean
+Q397 Latin
+Q9192 Mandarin Chinese
+Q1571 Marathi
+Q56504 Min Chinese
+Q809 Polish
+Q5146 Portuguese
+Q9168 Persian
+Q7737 Russian
+Q11059 Sanskrit
+Q1321 Spanish
+Q7838 Swahili
+Q33538 Syriac
+Q5885 Tamil
+Q34057 Tagalog
+Q8097 Telugu
+Q256 Turkish
+Q58635 Punjabi
+Q8798 Ukrainian
+Q9199 Vietnamese
+Q34290 Wu Chinese
+Q7033959 Yue Chinese
+Q9228 Burmese
+Q9067 Hungarian
+Q5218 Quechua
+Q9217 Thai
+Q35518 Akkadian
+Q28244 Amharic
+Q25448 Berber
+Q36155 Coptic
+Q13275 Somali
+Q9240 Indonesian
+Q7930 Malagasy
+Q9237 Malay
+Q9205 Khmer
+Q8785 Armenian
+Q29401 Assamese
+Q1617 Urdu
+Q33823 Nepali
+Q33810 Odia
+Q36727 Pali
+Q33997 Sindhi
+Q7026 Catalan
+Q7913 Romanian
+Q7411 Dutch
+Q9027 Swedish
+Q8641 Yiddish
+Q36368 Kurdish
+Q58680 Pashto
+Q7918 Bulgarian
+Q9056 Czech
+Q9301 Serbo-Croatian
+Q33673 Kannada
+Q36236 Malayalam
+Q10179 Zulu
+Q9292 Azerbaijani
+Q9252 Kazakh
+Q9264 Uzbek
+Q34228 sign language
+Q184872 recreation
+Q173799 entertainment
+Q11410 game
+Q194195 amusement park
+Q11416 gambling
+Q133215 casino
+Q45089 dice
+Q189409 lottery
+Q190975 Roulette
+Q80131 poker
+Q228044 blackjack
+Q33972 slot machine
+Q180910 leisure
+Q200538 party
+Q1150958 play
+Q13698 puzzle
+Q83207 crossword
+Q44914 sudoku
+Q11422 toy
+Q45782 aquarium
+Q43501 zoo
+Q131436 board game
+Q11411 backgammon
+Q718 chess
+Q1293 draughts
+Q17245 Cluedo
+Q11413 go
+Q17243 Monopoly
+Q170436 Scrabble
+Q796171 Pachisi
+Q191448 xiangqi
+Q267989 mancala
+Q200199 marble
+Q47883 playing card
+Q7889 video game
+Q864 Pokémon
+Q216293 Pong
+Q192851 arcade game machine
+Q142714 card game
+Q188966 contract bridge
+Q131471 darts
+Q32907 dominoes
+Q168658 doll
+Q131689 flying disc
+Q170484 Lego
+Q47043 Rubik's Cube
+Q1118802 Slinky
+Q167447 Barbie
+Q183621 yo-yo
+Q349 sport
+Q877517 ball game
+Q18545 ball
+Q483110 stadium
+Q1501 swimming pool
+Q5389 Olympic Games
+Q73633 Paralympic Games
+Q159821 Summer Olympic Games
+Q82414 Winter Olympic Games
+Q166376 doping in sport
+Q204686 winter sport
+Q300920 esports
+Q41323 American football
+Q1215884 National Football League
+Q32096 Super Bowl
+Q50776 Australian rules football
+Q5369 baseball
+Q1163715 Major League Baseball
+Q265538 World Series
+Q5372 basketball
+Q155223 National Basketball Association
+Q5375 cricket
+Q192202 Cricket World Cup
+Q136851 curling
+Q206763 floorball
+Q2736 association football
+Q19317 FIFA World Cup
+Q172964 goalkeeper
+Q260858 UEFA European Championship
+Q9448 Premier League
+Q18756 UEFA Champions League
+Q8418 handball
+Q1622659 hockey
+Q1455 field hockey
+Q41466 ice hockey
+Q1215892 National Hockey League
+Q185851 lacrosse
+Q134211 polo
+Q5378 rugby
+Q10962 rugby league
+Q270102 rugby sevens
+Q5849 rugby union
+Q1734 volleyball
+Q4543 beach volleyball
+Q542 athletics
+Q184654 decathlon
+Q182570 discus throw
+Q165704 high jump
+Q537769 hurdling
+Q178108 javelin throw
+Q170737 long jump
+Q105674 running
+Q40244 marathon
+Q185027 pole vault
+Q180935 shot put
+Q779272 ice skating
+Q38108 figure skating
+Q192431 speed skating
+Q1707432 roller skating
+Q842284 skateboarding
+Q20856109 canoeing
+Q7735 diving
+Q159354 rowing
+Q31920 swimming
+Q7707 water polo
+Q1194492 angling
+Q108429 archery
+Q5386 auto racing
+Q1968 Formula One
+Q233929 NASCAR
+Q328716 motorcycle sport
+Q7291 badminton
+Q124100 bodybuilding
+Q895060 boules
+Q189317 petanque
+Q172809 ten-pin bowling
+Q3341285 cue sports
+Q53121 cycling
+Q223705 mountain bike
+Q185948 time trial
+Q33881 Tour de France
+Q179226 equestrianism
+Q216033 dressage
+Q187916 horse racing
+Q207703 rodeo
+Q211773 show jumping
+Q12100 fencing
+Q471447 foil
+Q1156606 sabre fencing
+Q5377 golf
+Q43450 gymnastics
+Q61465 rhythmic gymnastics
+Q828144 floor exercise
+Q767472 somersault
+Q327911 trampoline
+Q598168 vault
+Q32485 modern pentathlon
+Q36908 mountaineering
+Q29358 orienteering
+Q206989 shooting sport
+Q130949 skiing
+Q186222 alpine skiing
+Q166788 biathlon
+Q216613 Nordic skiing
+Q7718 ski jumping
+Q4117409 slalom skiing
+Q172226 ski
+Q181388 sled
+Q177275 bobsleigh
+Q273285 luge
+Q11015 snooker
+Q178131 snowboarding
+Q133201 squash
+Q159992 surfing
+Q3930 table tennis
+Q847 tennis
+Q240502 racket
+Q10980 triathlon
+Q83462 weightlifting
+Q11417 martial arts
+Q32112 boxing
+Q11420 judo
+Q11419 karate
+Q178678 kickboxing
+Q114466 mixed martial arts
+Q36389 taekwondo
+Q42486 wrestling
+Q327223 freestyle wrestling
+Q389654 Greco-Roman wrestling
+Q40561 sumo
+Q3479346 wushu
+Q12132 calendar
+Q210953 solar calendar
+Q194235 lunisolar calendar
+Q185688 lunar calendar
+Q2012 Mayan calendarium
+Q254101 Egyptian calendar
+Q134032 Chinese calendar
+Q13788 Japanese calendar
+Q44722 Hebrew calendar
+Q28892 Islamic calendar
+Q12138 Gregorian calendar
+Q11184 Julian calendar
+Q1383171 perpetual calendar
+Q19828 leap year
+Q1536 Coordinated Universal Time
+Q36669 daylight saving time
+Q575 night
+Q52643 daytime
+Q12143 time zone
+Q874572 universal time
+Q194230 leap second
+Q41825 day of the week
+Q130 Friday
+Q131 Saturday
+Q132 Sunday
+Q108 January
+Q110 March
+Q120 June
+Q123 September
+Q126 December
+Q1075 color
+Q23445 black
+Q1088 blue
+Q47071 brown
+Q180778 cyan
+Q3133 green
+Q42519 grey
+Q3276756 magenta
+Q39338 orange
+Q429220 pink
+Q3257809 purple
+Q3142 red
+Q943 yellow
+Q23444 white
+Q166902 primary color
+Q221656 brightness
+Q27673 colorfulness
+Q374259 color vision
+Q900581 gloss
+Q372948 hue

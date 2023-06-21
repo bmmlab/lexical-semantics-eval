@@ -1,0 +1,899 @@
+Q8425 society
+Q177634 community
+Q80083 humanities
+Q11024 communication
+Q11028 information
+Q815726 solidarity
+Q928786 area studies
+Q37732 demography
+Q16387 information science
+Q875377 Mandate of Heaven
+Q165650 media studies
+Q505605 open society
+Q1110684 regulatory college
+Q955824 learned society
+Q769620 social action
+Q214693 social capital
+Q553270 social cohesion
+Q1641112 social formation
+Q211606 social structure
+Q190553 sociobiology
+Q4830453 business
+Q8134 economics
+Q39680 macroeconomics
+Q39072 microeconomics
+Q28877 good
+Q7406919 service
+Q166656 supply and demand
+Q159810 economy
+Q4116214 accounting
+Q8137 capital
+Q783794 company
+Q167037 corporation
+Q8142 currency
+Q4916 euro
+Q8146 Japanese yen
+Q25224 pound sterling
+Q39099 renminbi
+Q178843 rupee
+Q4917 United States dollar
+Q41207 coin
+Q47433 banknote
+Q22687 bank
+Q80042 cheque
+Q3196867 debt
+Q161380 credit card
+Q189539 loan
+Q170924 interest
+Q12638 gross domestic product
+Q28161 labour economics
+Q54128 domestic worker
+Q83405 factory
+Q43015 finance
+Q8148 industry
+Q11451 agriculture
+Q385378 construction
+Q14373 fishing
+Q38112 forestry
+Q36963 hunting
+Q187939 manufacturing
+Q44497 mining
+Q12353044 oil refinery
+Q49389 tourism
+Q27686 hotel
+Q42767 whaling
+Q35865 inflation
+Q161081 deflation
+Q43183 insurance
+Q4290 investment
+Q2920921 management
+Q37654 market
+Q39809 marketing
+Q1368 money
+Q43637 monopoly
+Q44454 moral hazard
+Q6422240 property
+Q126793 retail
+Q11315 shopping center
+Q180846 supermarket
+Q11691 stock exchange
+Q13677 New York Stock Exchange
+Q82059 NASDAQ
+Q171240 London Stock Exchange
+Q217475 Tokyo Stock Exchange
+Q8161 tax
+Q645011 corporate tax
+Q179222 income tax
+Q52389 tariff
+Q601401 trade
+Q282049 career
+Q656365 employment
+Q41171 unemployment
+Q125054 ALDI
+Q312 Apple Inc.
+Q35476 AT&T
+Q487907 Bank of America
+Q54078 IKEA
+Q319642 Chevron Corporation
+Q156238 ExxonMobil
+Q54173 General Electric
+Q95 Google
+Q37156 IBM
+Q18224 Maersk
+Q38076 McDonald’s
+Q2283 Microsoft
+Q160746 Nestlé
+Q210047 Petrobras
+Q212405 Procter & Gamble
+Q154950 Shell
+Q41187 Sony
+Q483551 Walmart
+Q14660 flag
+Q44595 cannibalism
+Q82821 tradition
+Q47223 birthday
+Q464458 Eid al-Fitr
+Q251868 Halloween
+Q4618 carnival
+Q41662 Ramadan
+Q8434 education
+Q975085 primary education
+Q14623204 high school education
+Q189004 college
+Q207137 curriculum
+Q133500 learning
+Q3914 school
+Q37226 teacher
+Q27318 test
+Q3918 university
+Q159595 distance education
+Q136822 higher education
+Q189329 liberal arts education
+Q182250 e-learning
+Q162633 academy
+Q48282 student
+Q188823 scholarship
+Q132834 madrasa
+Q126807 kindergarten
+Q187685 doctoral thesis
+Q217577 diploma
+Q187073 Bologna Process
+Q7922 pedagogy
+Q199657 reading
+Q9842 primary school
+Q184644 conservatory
+Q7075 library
+Q22806 national library
+Q435 Library of Alexandria
+Q856544 Library of Ashurbanipal
+Q623578 National Library of Australia
+Q131454 Library of Congress
+Q213678 Vatican Library
+Q477675 National Diet Library
+Q212805 digital library
+Q387956 Library 2.0
+Q199655 library science
+Q5868084 history of libraries
+Q385994 special library
+Q28564 public library
+Q380829 private library
+Q1076099 school library
+Q3318834 prison library
+Q720920 bookmobile
+Q884233 library for the blind
+Q378014 University of al-Qarawiyyin
+Q173959 Al-Azhar University
+Q194445 Cairo University
+Q951305 University of Cape Town
+Q586904 Federal University of Rio de Janeiro
+Q222738 National Autonomous University of Mexico
+Q391028 University of British Columbia
+Q194223 University of Buenos Aires
+Q180865 University of Toronto
+Q131252 University of Chicago
+Q161562 California Institute of Technology
+Q193727 Johns Hopkins University
+Q49108 Massachusetts Institute of Technology
+Q41506 Stanford University
+Q168751 Duke University
+Q192334 University of North Carolina at Chapel Hill
+Q213439 University of Virginia
+Q230492 University of Michigan
+Q168756 University of California, Berkeley
+Q174710 University of California, Los Angeles
+Q49113 Ivy League
+Q13371 Harvard University
+Q49112 Yale University
+Q21578 Princeton University
+Q49114 Brown University
+Q49088 Columbia University
+Q49115 Cornell University
+Q49116 Dartmouth College
+Q49117 University of Pennsylvania
+Q336264 Kyoto University
+Q7842 University of Tokyo
+Q1145306 University of Calcutta
+Q948720 Indian Institute of Science
+Q622358 Indian Institutes of Technology
+Q46026 Indian Institutes of Management
+Q495015 Fudan University
+Q15568 University of Hong Kong
+Q683580 Nanjing University
+Q16952 Peking University
+Q16955 Tsinghua University
+Q197543 Zhejiang University
+Q131262 University of Bologna
+Q186285 University of Copenhagen
+Q219694 Complutense University of Madrid
+Q165980 University of Vienna
+Q156598 Leiden University
+Q209344 Sapienza University of Rome
+Q308963 University of Salamanca
+Q11942 ETH Zürich
+Q209842 University of Paris
+Q214654 Sorbonne
+Q1144549 Pierre and Marie Curie University
+Q55044 Ludwig Maximilian University of Munich
+Q152087 Humboldt University of Berlin
+Q50662 Goethe University Frankfurt
+Q151510 Heidelberg University
+Q35794 University of Cambridge
+Q34433 University of Oxford
+Q170027 University of London
+Q31519 Charles University
+Q189441 Jagiellonian University
+Q13164 Moscow State University
+Q27621 Saint Petersburg State University
+Q84151 Taras Shevchenko National University of Kyiv
+Q127990 Australian National University
+Q326343 Central Tibetan Administration
+Q8333 Federal Bureau of Investigation
+Q622188 Hells Angels
+Q80919 KGB
+Q127784 MS chavalas
+Q34216 Mossad
+Q1458155 Sicilian Mafias
+Q183287 yakuza
+Q340195 African Development Bank
+Q7159 African Union
+Q295875 Anzus
+Q7172 Arab League
+Q674182 Arctic Council
+Q188822 Asian Development Bank
+Q170481 Asia-Pacific Economic Cooperation
+Q7768 ASEAN
+Q309195 Bank for International Settlements
+Q8874 Bolivarian Alliance for the Americas
+Q205995 Caribbean Community
+Q379850 Central Treaty Organization
+Q318693 Collective Security Treaty Organisation
+Q7779 Commonwealth of Independent States
+Q7785 Commonwealth of Nations
+Q182500 Community of Portuguese Language Countries
+Q217172 Cooperation Council for the Arab States of the Gulf
+Q789769 Council of the Baltic Sea States
+Q337456 East African Community
+Q193272 Economic Community of West African States
+Q225950 Economic Cooperation Organization
+Q473996 Eurasian Economic Community
+Q474548 Eurasian Union
+Q19771 G20
+Q1764511 G7
+Q133536 Geneva Conventions
+Q191384 International Bank for Reconstruction and Development
+Q848633 International Chamber of Commerce
+Q827525 International Development Association
+Q656801 International Finance Corporation
+Q472311 International Organization for Migration
+Q176815 Interparliamentary Union
+Q8475 Interpol
+Q41230 Islamic Development Bank
+Q123209 Latin Union
+Q38130 League of Nations
+Q7184 NATO
+Q181574 North American Free Trade Agreement
+Q7795 Organization of the Petroleum Exporting Countries
+Q41550 Organisation for Economic Cooperation and Development
+Q191703 Organisation of African Unity
+Q81299 Organization for Security and Co-operation in Europe
+Q123759 Organization of American States
+Q380340 Organization of the Black Sea Economic Cooperation
+Q461736 Paris Club
+Q485207 Shanghai Cooperation Organisation
+Q145700 South Asian Association for Regional Cooperation
+Q277252 Southeast Asia Treaty Organization
+Q816706 Southern African Development Community
+Q192177 Union for the Mediterranean
+Q4230 Union of South American Nations
+Q1065 United Nations
+Q41984 International Atomic Energy Agency
+Q7801 International Court of Justice
+Q47488 International Criminal Court
+Q7804 International Monetary Fund
+Q81066 United Nations Secretary-General
+Q7809 UNESCO
+Q740308 UNICEF
+Q386120 United Nations Industrial Development Organization
+Q220563 United Nations Secretariat
+Q37470 United Nations Security Council
+Q7164 World Bank
+Q320863 World Bank Group
+Q7817 World Health Organization
+Q7825 World Trade Organization
+Q13116 Benelux
+Q319014 Central European Free Trade Agreement
+Q42944 CERN
+Q191582 COMECON
+Q8908 Council of Europe
+Q8896 Council of the European Union
+Q212141 Economic and Monetary Union of the European Union
+Q8919 European Atomic Energy Community
+Q488981 European Bank for Reconstruction and Development
+Q161549 European Coal and Steel Community
+Q52847 European Economic Community
+Q192247 European Investment Bank
+Q8889 European Parliament
+Q458 European Union
+Q146165 Nordic Council
+Q332337 League of Corinth
+Q189946 Western European Union
+Q41644 Warsaw Pact
+Q208571 Agenda 21
+Q191866 AIESEC
+Q34490 Al-Qaeda
+Q180003 American National Standards Institute
+Q431534 Association des États Généraux des Étudiants de l'Europe
+Q127992 Association for Computing Machinery
+Q159486 Austrian Holocaust Memorial Service
+Q386730 Austrian Service Abroad
+Q184937 Bilderberg Group
+Q210108 BirdLife International
+Q852242 College of Cardinals
+Q152746 Deutsches Institut für Normung
+Q151991 European Southern Observatory
+Q214130 Fédération Aéronautique Internationale
+Q179412 Fédération Internationale de l'Automobile
+Q430371 International Motorcycling Federation
+Q48413 Free Software Foundation
+Q81307 Greenpeace
+Q326816 GUAM Organization for Democracy and Economic Development
+Q493302 Hizb ut-Tahrir
+Q744312 Hospitality Club
+Q131566 Institute of Electrical and Electronics Engineers
+Q229478 International Bureau of Weights and Measures
+Q653054 International Council of Museums
+Q273138 International Council on Monuments and Sites
+Q233611 International Hydrographic Organization
+Q201054 International Maritime Organization
+Q828490 International Mathematical Union
+Q15028 International Organization for Standardization
+Q7178 International Red Cross and Red Crescent Movement
+Q190193 International Society for Krishna Consciousness
+Q48268 International Union for Conservation of Nature
+Q33438 International Union of Pure and Applied Chemistry
+Q233398 Live Earth
+Q64611 Moro Islamic Liberation Front
+Q7191 Nobel Prize
+Q206811 PEN International
+Q170 Pirate Parties International
+Q323481 Programme for International Student Assessment
+Q381282 Pugwash Conferences on Science and World Affairs
+Q872181 scouting
+Q188307 The Salvation Army
+Q48663 Union Cycliste Internationale
+Q215613 Unrepresented Nations and Peoples Organization
+Q359 WikiLeaks
+Q749394 World Anti-Doping Agency
+Q283639 World Council of Churches
+Q1147477 World Heritage Committee
+Q37033 World Wide Web Consortium
+Q42970 Amnesty International
+Q187052 Human Rights Watch
+Q49330 Médecins Sans Frontières
+Q154330 Reporters Without Borders
+Q174240 Transparency International
+Q845773 Confédération Mondiale des Activités Subaquatiques
+Q659499 Court of Arbitration for Sport
+Q841054 European Club Association
+Q642949 European Olympic Committees
+Q6851 Fédération Internationale de Volleyball
+Q46199 FIBA
+Q102178 FIDE
+Q253414 FIFA
+Q379079 International Federation of Gymnastics
+Q190173 International Ice Hockey Federation
+Q40970 International Olympic Committee
+Q183288 National Olympic Committee
+Q844293 Olympic Council of Asia
+Q35572 UEFA
+Q7748 law
+Q5950118 civil law
+Q30216 common law
+Q146491 criminal law
+Q329777 appeal
+Q207946 arbitration
+Q8454 capital punishment
+Q191600 civil and political rights
+Q7755 constitution
+Q93288 contract
+Q12948581 copyright
+Q41487 court
+Q308922 damages
+Q2578557 equity
+Q176763 evidence
+Q22692 freedom of speech
+Q705178 guilt
+Q6495575 injunction
+Q105985 judiciary
+Q16533 judge
+Q4932206 jurisprudence
+Q185351 jurist
+Q5167661 justice
+Q40348 lawyer
+Q1404417 legal liability
+Q253623 patent
+Q35535 police
+Q780687 rights
+Q3237872 fundamental rights
+Q2526135 security
+Q196939 witness
+Q171251 administrative law
+Q665141 precedent
+Q131257 intellectual property
+Q4394526 international law
+Q1149275 property law
+Q670732 religious law
+Q7766927 statutory law
+Q854022 trust
+Q83267 crime
+Q365680 assault
+Q647578 copyright infringement
+Q157833 embezzlement
+Q6452087 extortion
+Q28813 fraud
+Q41397 genocide
+Q149086 homicide
+Q132821 murder
+Q844924 drug trafficking
+Q318296 kidnapping
+Q46952 organized crime
+Q45393 sea piracy
+Q34577 poaching
+Q47092 rape
+Q53706 robbery
+Q193518 sabotage
+Q673281 sexual assault
+Q184840 smuggling
+Q2727213 theft
+Q132781 torture
+Q124490 violence
+Q12519 Magna Carta
+Q127912 United States Declaration of Independence
+Q11698 United States Constitution
+Q169759 Declaration of the Rights of Man and of the Citizen
+Q40591 The Communist Manifesto
+Q7813 Universal Declaration of Human Rights
+Q457862 International Covenant on Economic, Social and Cultural Rights
+Q392119 International Covenant on Civil and Political Rights
+Q2146981 Nuremberg principles
+Q37038 advertising
+Q627603 cartoon
+Q1517374 history of radio
+Q11030 journalism
+Q11033 mass media
+Q38926 news
+Q41298 magazine
+Q133080 public relations
+Q40469 Associated Press
+Q130879 Reuters
+Q485240 Billboard
+Q180089 The Economist
+Q463198 Life
+Q312086 Mad
+Q5973845 National Geographic
+Q217305 The New Yorker
+Q33659 People
+Q150820 Playboy
+Q849759 Punch
+Q371820 Reader's Digest
+Q33511 Rolling Stone
+Q39379 Scientific American
+Q131478 Der Spiegel
+Q43297 Time
+Q154008 Vogue
+Q11032 newspaper
+Q183399 Financial Times
+Q12461 Le Monde
+Q183644 Pravda
+Q50008 The Times
+Q46807 The Times of India
+Q9684 The New York Times
+Q164746 The Wall Street Journal
+Q166032 The Washington Post
+Q168718 The Goon Show
+Q7098695 Grand Ole Opry
+Q967116 The Shadow
+Q24958 The War of the Worlds
+Q93204 documentary film
+Q166400 European Broadcasting Union
+Q123737 Emmy Award
+Q846662 game show
+Q170238 sitcom
+Q23739 soap opera
+Q15416 television program
+Q247869 60 Minutes
+Q1048856 All in the Family
+Q201052 American Idol
+Q208491 BBC World News
+Q178837 Disney Channel
+Q34316 Doctor Who
+Q79784 Friends
+Q1145764 Guiding Light
+Q29641 Gunsmoke
+Q181943 I Love Lucy
+Q1543066 Meet the Press
+Q16401 Monty Python's Flying Circus
+Q1247168 Roots
+Q155629 Sesame Street
+Q886 The Simpsons
+Q1092 Star Trek
+Q131144 Tom and Jerry
+Q1338655 The Tonight Show Starring Jimmy Fallon
+Q742103 The Twilight Zone
+Q1254874 television network
+Q13477 Al Jazeera
+Q169889 American Broadcasting Company
+Q49653 ARD
+Q9531 BBC
+Q43380 CBS
+Q207936 China Central Television
+Q48340 CNN
+Q19616 RAI
+Q220072 ITV
+Q13974 NBC
+Q215616 Public Broadcasting Service
+Q3884 Amazon
+Q58024 eBay
+Q355 Facebook
+Q40629 Myspace
+Q918 Twitter
+Q9366 Google Search
+Q37312 Internet Movie Database
+Q866 YouTube
+Q52 Wikipedia
+Q33506 museum
+Q217717 American Museum of Natural History
+Q160236 Metropolitan Museum of Art
+Q188740 Museum of Modern Art
+Q524249 National Museum of Anthropology
+Q131626 Smithsonian Institution
+Q6373 British Museum
+Q131617 Deutsches Museum
+Q132783 Hermitage Museum
+Q19675 Louvre Museum
+Q23402 Musée d'Orsay
+Q309388 Natural History Museum
+Q160112 Museo del Prado
+Q180788 National Gallery
+Q190804 Rijksmuseum
+Q51252 Uffizi
+Q182955 Vatican Museums
+Q213322 Victoria and Albert Museum
+Q540668 National Palace Museum
+Q653433 Tokyo National Museum
+Q837313 civics
+Q7163 politics
+Q29556 civil liberties
+Q1889 diplomacy
+Q121998 ambassador
+Q213283 diplomatic mission
+Q40231 election
+Q7278 political party
+Q7281 propaganda
+Q10931 revolution
+Q79896 separation of powers
+Q11204 legislature
+Q44918 rule of law
+Q42138 citizenship
+Q11206 constitutional law
+Q39825 census
+Q3510521 computer security
+Q189573 Golden Rule
+Q220596 habeas corpus
+Q189900 information security
+Q171995 individualism
+Q480498 impeachment
+Q166542 international relations
+Q628967 labor law
+Q186228 minimum wage
+Q46337 manifesto
+Q231002 nationality
+Q43812 passport
+Q309118 Politburo
+Q2483208 social security
+Q156595 self-determination
+Q160128 treason
+Q47217 civil disobedience
+Q1326430 social contract
+Q188961 decentralization
+Q191675 mixed economy
+Q178074 veto power
+Q170984 crown
+Q543 censorship
+Q484105 autonomy
+Q211017 e-government
+Q219825 National Convention
+Q155076 juridical person
+Q181648 foreign policy
+Q49617 The Internationale
+Q207892 public law
+Q152263 flash mob
+Q188213 state religion
+Q223625 curfew
+Q47988 identity document
+Q543654 Rathaus
+Q189603 public health
+Q331439 human overpopulation
+Q175331 demonstration
+Q179661 treatment
+Q159454 Socialist International
+Q72468 bureaucracy
+Q188844 volunteering
+Q118365 dictatorship of the proletariat
+Q47499 International Workers' Day
+Q1744607 class struggle
+Q191159 working class
+Q124757 riot
+Q180043 welfare
+Q640506 cabinet
+Q45382 coup d'état
+Q192914 cult of personality
+Q35798 executive branch
+Q7188 government
+Q35749 parliament
+Q166747 parliamentary system
+Q49892 presidential system
+Q49890 semi-presidential system
+Q31728 public administration
+Q546113 public policy
+Q130614 Roman Senate
+Q216227 state of emergency
+Q189760 voting
+Q182985 electoral system
+Q192451 welfare state
+Q56061 administrative territorial entity
+Q30059 arrondissement
+Q131401 caliphate
+Q133442 city-state
+Q133156 colony
+Q170156 confederation
+Q28575 county
+Q154547 duchy
+Q192611 electoral district
+Q189898 emirate
+Q48349 empire
+Q107390 federated state
+Q43702 federation
+Q15284 municipality
+Q179671 nation state
+Q123705 neighborhood
+Q188800 personal union
+Q217405 police state
+Q208500 principality
+Q164142 protectorate
+Q34876 province
+Q208164 puppet state
+Q50686 single-party state
+Q3624078 sovereign state
+Q7275 state
+Q179164 unitary state
+Q210980 virtual community
+Q203764 activism
+Q6199 anarchism
+Q6229 authoritarianism
+Q189445 bicameral legislature
+Q6206 capitalism
+Q209158 Christian democracy
+Q6186 communism
+Q7169 conservatism
+Q1194747 constitutionalism
+Q188843 cosmopolitanism
+Q179352 despotism
+Q188958 egalitarianism
+Q6223 fascism
+Q204886 federalism
+Q1661415 green politics
+Q7257 ideology
+Q7260 imperialism
+Q189746 Islamism
+Q181800 Juche
+Q155059 leninism
+Q6216 liberalism
+Q178598 libertarianism
+Q7264 Marxism
+Q190656 multiculturalism
+Q6235 nationalism
+Q7310 Nazism
+Q186240 ostracism
+Q6241 patriotism
+Q194236 separatism
+Q121254 social democracy
+Q7272 socialism
+Q189280 democratic socialism
+Q180902 socialist realism
+Q192447 Utopian socialism
+Q322294 statism
+Q128135 totalitarianism
+Q42388 Zionism
+Q184558 absolute monarchy
+Q7167 colonialism
+Q41614 constitutional monarchy
+Q7174 democracy
+Q171174 direct democracy
+Q192125 liberal democracy
+Q188759 representative democracy
+Q317 dictatorship
+Q219934 enlightened absolutism
+Q182034 hegemony
+Q191244 kleptocracy
+Q185681 matriarchy
+Q178079 meritocracy
+Q116 monarch
+Q7269 monarchy
+Q191031 ochlocracy
+Q79751 oligarchy
+Q181339 patriarchy
+Q189724 planned economy
+Q131708 plutocracy
+Q7270 republic
+Q4198907 parliamentary republic
+Q190044 technocracy
+Q44405 theocracy
+Q83204 triumvirate
+Q181217 Bey
+Q65997 caliph
+Q183318 dictator
+Q166382 emir
+Q484079 Führer
+Q132050 governor
+Q205706 Grand Duke
+Q48352 head of state
+Q181888 Khan
+Q30185 mayor
+Q169180 ombudsman
+Q30461 president
+Q14212 prime minister
+Q2747456 prince
+Q600751 prosecutor
+Q170305 satrap
+Q184299 Shah
+Q43292 Sultan
+Q44356 tsar
+Q180095 tyrant
+Q175240 vizier
+Q217197 European sovereign-debt crisis
+Q219817 French Directory
+Q173100 Glasnost
+Q193034 Leviathan
+Q6743 May 1968 protests in France
+Q836386 Orange Revolution
+Q193547 Reign of Terror
+Q205302 simony
+Q182817 Velvet Revolution
+Q181865 civil society
+Q178706 institution
+Q194166 consortium
+Q43229 organization
+Q163740 nonprofit organization
+Q728646 partnership
+Q276548 secret society
+Q2715623 social network
+Q133311 tribe
+Q269770 boarding school
+Q160645 orphanage
+Q40357 prison
+Q205398 social work
+Q130819 human population control
+Q8452 abortion
+Q366 corruption
+Q169940 deforestation
+Q169207 discrimination
+Q8461 racism
+Q93200 sexism
+Q100159 euthanasia
+Q168247 famine
+Q7181 globalisation
+Q8458 human rights
+Q221719 one-child policy
+Q58734 pollution
+Q131123 air pollution
+Q10294 poverty
+Q131201 sustainable development
+Q8463 slavery
+Q49773 social movement
+Q2855609 environmentalism
+Q7252 feminism
+Q30103 minority group
+Q841628 social stratification
+Q484416 caste
+Q219517 Dalit
+Q187588 social class
+Q177826 clergy
+Q241588 middle class
+Q132603 proletariat
+Q21201 sociology
+Q161733 criminology
+Q188907 etiquette
+Q36442 political science
+Q1510761 social change
+Q623971 social control
+Q874405 social group
+Q34749 social science
+Q185467 socialization
+Q264965 subculture
+Q454 peace
+Q198 war
+Q1056901 casualty
+Q334516 declaration of war
+Q57346 defensive wall
+Q633339 desertion
+Q191503 duel
+Q57821 fortification
+Q130596 laws of war
+Q131647 medal
+Q177266 militarism
+Q744593 military–industrial complex
+Q1196123 military uniform
+Q178197 mercenary
+Q2287072 operational level of war
+Q58848 pacifism
+Q179637 prisoner of war
+Q131572 refugee
+Q217901 capitulation
+Q135010 war crime
+Q154605 total war
+Q715625 martial law
+Q163698 psychological warfare
+Q207320 paramilitary
+Q208485 scorched earth
+Q45635 casus belli
+Q41691 demilitarized zone
+Q380782 commander-in-chief
+Q210392 killed in action
+Q194181 war reparations
+Q208383 ceasefire
+Q645883 military operation
+Q234497 special forces
+Q322348 arms race
+Q8473 military
+Q580750 conscription
+Q2351849 military education and training
+Q163059 military logistics
+Q192386 military science
+Q219087 military strategy
+Q207645 military tactics
+Q772547 armed forces
+Q61883 air force
+Q4508 navy
+Q37726 army
+Q29171 infantry
+Q47315 cavalry
+Q178561 battle
+Q273976 blockade
+Q650711 combat
+Q831663 military campaign
+Q2001676 military offensive
+Q188055 siege
+Q15627509 military organization
+Q21662260 command and control
+Q169534 division
+Q6382533 battalion
+Q6813432 staff
+Q56019 military rank
+Q111837 marshal
+Q83460 general
+Q132851 admiral
+Q189290 military officer
+Q104680 colonel
+Q983927 major
+Q19100 captain
+Q186024 lieutenant
+Q157696 sergeant
+Q158668 private
+Q4991371 soldier
+Q707995 seaman
+Q8465 civil war
+Q766875 ethnic conflict
+Q467011 invasion
+Q124734 rebellion
+Q7283 terrorism
+Q471145 aerial warfare
+Q843941 anti-aircraft warfare
+Q316936 anti-tank warfare
+Q568312 armored warfare
+Q429245 conventional warfare
+Q165950 espionage
+Q80895 guerrilla warfare
+Q876274 naval warfare
+Q201948 sniper
+Q241059 trench warfare

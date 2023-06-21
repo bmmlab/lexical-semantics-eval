@@ -1,0 +1,800 @@
+technology 
+engineering 
+artificial intelligence
+biotechnology 
+cloning 
+GMO 
+genetic engineering
+nanotechnology 
+nuclear technology
+transhumanism 
+control engineering
+standardization 
+disruptive innovation
+transportation engineering
+construction engineering
+petroleum engineering
+naval architecture
+innovation 
+technophobia 
+microtechnology 
+technical drawing
+automation 
+technological convergence
+science studies
+science and technology studies
+high tech
+engineering management
+food engineering
+technological change
+human reliability
+technological determinism
+municipal or urban engineering
+earthquake engineering
+coastal management
+ceramic engineering
+engineering ethics
+agricultural engineering
+aerospace engineering
+biomedical engineering
+civil engineering
+electrical engineering
+industrial engineering
+military engineering
+nuclear engineering
+software engineering
+agricultural science
+agronomy 
+domestication 
+farm 
+farmer 
+Green Revolution
+artificial selection
+kolkhoz 
+barn 
+granary 
+grain elevator
+stable 
+greenhouse 
+combine harvester
+cultivar 
+fertilizer 
+gardening 
+harvest 
+insecticide 
+irrigation 
+pesticide 
+herbicide 
+plant breeding
+tillage 
+winnowing 
+animal husbandry
+beekeeping 
+livestock 
+breed 
+poultry 
+garden 
+crop 
+cotton 
+hemp 
+hay 
+weed 
+dairy 
+extensive farming
+fish farming
+industrial agriculture
+intensive farming
+orchard 
+organic agriculture
+permaculture 
+sericulture 
+subsistence agriculture
+sustainable agriculture
+urban agriculture
+agricultural policy
+bitumen 
+adobe 
+suspension bridge
+reinforced concrete
+moat 
+mud 
+bulldozer 
+mortar 
+plaster 
+tile 
+building material
+foundation 
+computer numerical control 
+stucco 
+breakwater 
+building 
+architectural engineering
+building code
+infrastructure 
+structural engineering
+nail 
+brick 
+cement 
+concrete 
+masonry 
+scaffold 
+arch 
+ceiling 
+column 
+dome 
+door 
+facade 
+floor 
+roof 
+room 
+stairs 
+wall 
+window 
+harbor 
+lighthouse 
+pier 
+office 
+warehouse 
+apartment 
+barracks 
+house 
+pagoda 
+palace 
+penthouse apartment
+pyramid 
+skyscraper 
+tower 
+high-rise building
+villa 
+hut 
+igloo 
+basement 
+bathroom 
+bedroom 
+dining room
+garage 
+kitchen 
+living room
+pantry 
+tent 
+yurt 
+urban planning
+urban design
+campus 
+city block
+downtown 
+ghetto 
+industrial zone
+park 
+street 
+square 
+zoning 
+dam 
+Hoover Dam
+Three Gorges Dam 
+bridge 
+Akashi Kaikyō Bridge 
+Bang Na Expressway 
+Brooklyn Bridge
+Danyang–Kunshan Grand Bridge 
+Fehmarn Belt Fixed Link
+George Washington Bridge 
+Golden Gate Bridge 
+Great Belt Fixed Link
+Hong Kong–Zhuhai–Macau Bridge 
+Lake Pontchartrain Causeway 
+London Bridge
+Øresund Bridge
+Russky Bridge
+Tower Bridge
+tunnel 
+Channel Tunnel
+Seikan Tunnel
+industrial robot
+mass production
+mechanization 
+waste 
+landfill 
+recycling 
+waste management
+woodworking 
+geothermal energy
+hydroelectricity 
+nuclear power
+solar energy
+solar power
+renewable energy
+wind power
+candle 
+windmill 
+hydropower 
+electricity generation
+power station
+cooling tower
+solar cell
+turbine 
+wind turbine
+electrical grid
+electric power transmission 
+electric power distribution 
+fossil fuel
+coal 
+gasoline 
+kerosene 
+natural gas
+petroleum 
+microwave oven
+pasteurization 
+refrigerator 
+soap 
+stove 
+scuba set
+vacuum flask
+laundering 
+sanitation 
+sewerage 
+sewage treatment
+water purification
+aqueduct 
+plumbing 
+pumping station
+water tower
+well 
+explosive material
+dynamite 
+metallurgy 
+plastic 
+rubber 
+adhesive 
+ore 
+paper 
+papyrus 
+lumber 
+petrochemical product
+metalworking 
+blacksmith 
+die casting
+drilling 
+extrusion 
+laser cutting
+machine press
+quenching 
+rolling 
+soldering 
+welding 
+mechanical engineering
+machine 
+centrifuge 
+engine 
+electric motor
+internal combustion engine 
+jet engine
+steam engine
+robot 
+simple machine
+inclined plane
+lever 
+pulley 
+screw 
+wedge 
+wheel 
+wheel and axle 
+robotics 
+system 
+crane 
+axle 
+bearing 
+clutch 
+cogwheel 
+worm drive
+electrical cable
+chain 
+rope 
+net 
+twine 
+fastener 
+nut 
+knot 
+rivet 
+washer 
+kinematic pair
+lock 
+key 
+pipe 
+gasket 
+spring 
+chainsaw 
+cotton gin
+cultivator 
+irrigation sprinkler
+lawn mower
+sewing machine
+tractor 
+air conditioning
+clothes dryer
+coffeemaker 
+dishwasher 
+oven 
+sink 
+electric stove
+toilet 
+vacuum cleaner
+washing machine
+tool 
+Archimedes' screw
+axe 
+hammer 
+saw 
+chisel 
+clamp 
+lathe 
+plane 
+sandpaper 
+scissors 
+screwdriver 
+broom 
+ruler 
+ladder 
+toothbrush 
+drill 
+anvil 
+iron 
+eraser 
+harrow 
+hoe 
+machete 
+pitchfork 
+plough 
+rake 
+roller 
+scythe 
+sickle 
+shovel 
+watering can
+camera 
+eyeglasses 
+laser 
+lens 
+microscope 
+prism 
+telescope 
+holography 
+optical fiber
+photodetector 
+optical illusion
+albedo 
+depth of field 
+photodiode 
+camera obscura
+periscope 
+anti-reflective coating
+diffraction grating
+focal length
+focus 
+Fresnel lens
+mirror 
+polarizer 
+Rayleigh scattering
+dispersion 
+binoculars 
+interferometry 
+catadioptric system
+reflecting telescope
+refracting telescope
+electronics 
+alternating current
+audio amplifier
+operational amplifier
+circuit design
+direct current
+electronic amplifier
+oscilloscope 
+relay 
+signal processing
+mechatronics 
+electronic component
+antenna 
+battery 
+capacitor 
+diode 
+light-emitting diode
+flat-panel display
+incandescent light bulb 
+inductor 
+integrated circuit
+cavity magnetron
+resistor 
+semiconductor 
+transformer 
+transistor 
+vacuum tube
+waveguide 
+cathode ray tube 
+printed circuit board 
+electrical connector
+loudspeaker 
+power supply
+switch 
+circuit breaker
+fuse 
+wire 
+flip-flop 
+thyristor 
+atomic clock
+celestial navigation
+clock 
+compass 
+dead reckoning
+Global Positioning System 
+gyroscope 
+pendulum 
+radar 
+sonar 
+sundial 
+navigation 
+sextant 
+watch 
+azimuth 
+sidereal time
+astrolabe 
+water clock
+satellite navigation system 
+hourglass 
+information technology
+abacus 
+calculator 
+computing 
+data 
+expert system
+internationalization and localization 
+computer science
+algorithm 
+compiler 
+data compression
+data structure
+error detection and correction
+numerical integration
+search engine
+cryptography 
+authentication 
+encryption 
+password 
+computer programming
+programming paradigm
+functional programming
+object-oriented programming
+structured programming
+computer 
+booting 
+compact disc
+ENIAC 
+hard disk drive 
+motherboard 
+central processing unit 
+random-access memory
+dynamic random-access memory 
+read-only memory
+peripheral 
+user interface
+computer keyboard
+computer monitor
+liquid-crystal display
+mouse 
+touchscreen 
+software 
+computer program
+database 
+data warehouse
+graphical user interface 
+malware 
+open-source software
+spreadsheet 
+word processor
+web browser
+virtual reality
+operating system
+Berkeley Software Distribution 
+Linux 
+Macintosh operating systems 
+Microsoft Windows
+MS-DOS 
+Multics 
+OpenVMS 
+Unix 
+programming language
+Ada 
+assembly language
+BASIC 
+C 
+C++ 
+COBOL 
+Fortran 
+Java 
+JavaScript 
+Lisp 
+PHP 
+Python 
+Structured Query Language 
+computer network
+Ethernet 
+router 
+Wi-Fi 
+Internet 
+email 
+Transmission Control Protocol 
+World Wide Web 
+Hypertext Transfer Protocol 
+HyperText Markup Language 
+Internet protocol suite 
+web search engine 
+website 
+wiki 
+radio broadcasting
+communications satellite
+photography 
+printing 
+printer 
+printing press
+publishing 
+radio communications
+amateur radio
+radio station
+telecommunication 
+telegraphy 
+telephone 
+television 
+cable television
+satellite television
+typewriter 
+video recording
+video camera
+videotape 
+recording medium
+floppy disk
+magnetic tape
+memory card
+optical disc
+mail 
+postage stamp
+courier 
+mobile device
+mobile phone
+photocopier 
+social media
+blog 
+sound recording process 
+microphone 
+speech synthesis
+coding theory
+data transmission
+Forward error correction 
+modulation 
+video game console 
+Atacama Large Millimeter Array
+European Space Agency 
+Great Observatories program 
+Herschel Space Observatory 
+Hubble Space Telescope 
+International Space Station 
+James Webb Space Telescope
+Moon landing
+National Aeronautics and Space Administration 
+Apollo space program 
+Apollo 11
+rocket 
+artificial satellite
+Soyuz 
+spaceflight 
+Space Shuttle
+space station
+Spitzer Space Telescope 
+Very Large Telescope 
+Wilkinson Microwave Anisotropy Probe
+astronaut 
+launch vehicle
+rocket engine
+space capsule
+spaceport 
+space probe
+space suit
+Baikonur Cosmodrome
+China National Space Administration
+Japan Aerospace Exploration Agency
+Kennedy Space Center 
+geosynchronous orbit
+Sputnik 1
+Voyager program
+Proton 
+Saturn V
+Cerro Tololo Inter-American Observatory
+Mauna Kea Observatories 
+Mount Wilson Observatory 
+Palomar Observatory
+Jet Propulsion Laboratory 
+ion thruster
+astronautics 
+Vostok programme
+Vostok 1
+leather 
+silk 
+wool 
+cargo 
+belt conveyor
+elevator 
+escalator 
+intermodal container
+logistics 
+passenger 
+pipeline transport
+public transport
+rush hour
+transport 
+travel 
+vehicle 
+Airbus 
+aircraft 
+airline 
+airliner 
+airplane 
+airport 
+airship 
+aviation 
+balloon 
+Bombardier Aerospace
+Boeing 
+cargo aircraft
+Embraer 
+Hartsfield–Jackson Atlanta International Airport
+helicopter 
+kite 
+parachute 
+Tupolev 
+unmanned aerial vehicle 
+barge 
+boat 
+canoe 
+caravel 
+container ship
+cruise ship
+ferry ship
+hovercraft 
+junk 
+port 
+raft 
+rowing boat
+sail 
+sailing 
+ship 
+tanker ship
+watercraft 
+express train
+locomotive 
+steam locomotive
+London Underground
+maglev train
+Moscow Metro
+New York City Subway
+Paris Métro
+rail transport
+railway signal
+railway 
+train 
+railway station
+Trans-Siberian railway
+tram 
+rapid transit
+autorickshaw 
+bicycle 
+bus 
+trolleybus 
+bus station
+carriage 
+motorcycle 
+road 
+controlled-access highway
+saddle 
+stirrup 
+traffic 
+traffic collision
+traffic sign
+trail 
+truck 
+van 
+motor car
+automotive industry
+electric car
+taxi 
+Ford Motor Company 
+General Motors
+Honda 
+Hyundai Motor Company 
+Nissan 
+Groupe PSA
+Renault 
+Suzuki 
+Toyota 
+Volkswagen 
+Ford Model T 
+Volkswagen Beetle
+Toyota Corolla
+VAZ-2101 
+weapon 
+chariot 
+stealth technology
+tank 
+torpedo 
+war elephant
+ammunition 
+cartridge 
+gunpowder 
+arrow 
+bullet 
+caliber 
+body armor
+bulletproof vest
+combat helmet
+helmet 
+chainmail 
+plate armor
+shield 
+bomb 
+cluster munition
+improvised explosive device 
+hand grenade
+land mine
+missile 
+Greek fire
+Molotov cocktail
+napalm 
+nunchaku 
+bayonet 
+battle axe
+dagger 
+épée 
+katana 
+knife 
+rapier 
+sabre 
+spear 
+sword 
+tomahawk 
+club 
+firearm 
+assault rifle
+AK-47 
+pistol 
+machine gun
+Uzi 
+rifle 
+artillery 
+battering ram
+cannon 
+howitzer 
+mortar 
+combat aircraft
+bomber 
+fighter 
+attack aircraft
+battleship 
+aircraft carrier
+dreadnought 
+dromon 
+galley 
+submarine 
+capital ship
+ship of the line
+trireme 
+warship 
+ballista 
+boomerang 
+bow 
+catapult 
+crossbow 
+musket 
+shotgun 
+sling 
+weapon of mass destruction
+biological weapon
+chemical weapon
+nuclear weapon
+thermonuclear weapon

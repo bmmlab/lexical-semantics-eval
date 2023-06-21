@@ -1,0 +1,800 @@
+anthropology 
+culture 
+festival 
+holiday 
+physical anthropology
+race 
+cultural anthropology
+linguistic anthropology
+social anthropology
+people 
+ethnology 
+ethnic group
+ethnography 
+indigenous people
+Bantu people
+Basque people
+San people
+Germanic peoples
+Indigenous Australians
+indigenous peoples of the Americas 
+Cherokee 
+Inuit 
+Jewish people
+Kurds 
+Maasai 
+Mongols 
+Romani 
+Slavs 
+Tutsi 
+Arabs 
+Austronesian people
+Berbers 
+Creole 
+Han Chinese people 
+Malayali 
+Māori 
+Proto-Indo-Europeans 
+Semitic people
+Turks 
+Uyghur people
+kinship 
+family 
+household 
+nuclear family
+extended family
+stepfamily 
+affinity 
+clan 
+concubinage 
+consanguineous 
+orphan 
+pet 
+spouse 
+parent 
+godparent 
+sibling 
+twin 
+grandchild 
+interpersonal relationship
+casual sex
+intimate relationship
+friendship 
+cohabitation 
+monogamy 
+bigamy 
+polygamy 
+dating 
+courtship 
+romance 
+engagement 
+wedding 
+dowry 
+marriage 
+civil marriage
+civil union
+marriage of convenience 
+family planning
+parturition 
+surrogacy 
+childlessness 
+parenting 
+LGBT parenting
+foster care
+adoption 
+sociology of the family
+divorce 
+infidelity 
+widowhood 
+incest 
+domestic violence
+cooking 
+cuisine 
+food 
+drink 
+vitamin 
+meal 
+breakfast 
+lunch 
+dinner 
+dessert 
+cooking oil
+olive oil
+palm oil
+fast food
+restaurant 
+vegetarianism 
+vegetable 
+root vegetable
+tuber 
+fruit 
+pumpkin 
+blackberry 
+apricot 
+date 
+pomegranate 
+milk 
+butter 
+margarine 
+cream 
+cheese 
+blue cheese
+Cheddar cheese
+mozzarella 
+Parmesan cheese
+coconut milk
+ice cream
+soy milk
+tofu 
+yogurt 
+bread 
+cereal 
+flour 
+candy 
+caramel 
+chocolate 
+honey 
+nut 
+hazelnut 
+walnut 
+egg 
+meat 
+bacon 
+beef 
+chicken meat
+ham 
+hamburger 
+hot dog
+lamb meat
+pork meat
+lard 
+offal 
+sausage 
+seafood 
+fish as food 
+condiment 
+herb 
+sauce 
+spice 
+Pimpinella anisum
+basil 
+Piper nigrum
+Elettaria cardamomum
+cinnamon 
+fennel 
+Allium sativum
+Zingiber officinale
+horseradish plant
+Lavandula 
+Cymbopogon 
+liquorice 
+Mentha 
+Allium cepa
+parsley 
+saffron 
+chutney 
+fish sauce
+jam 
+ketchup 
+mayonnaise 
+mustard 
+paprika 
+pesto 
+soy sauce
+tartar sauce
+vinegar 
+cake 
+curry 
+fondue 
+French-fried potatoes
+kebab 
+noodle 
+pasta 
+pastry 
+pie 
+pizza 
+porridge 
+salad 
+samosa 
+sandwich 
+soup 
+stew 
+sushi 
+drinking water
+iced tea
+juice 
+orange juice
+lemonade 
+soft drink
+cola 
+Coca-Cola 
+energy drink
+tonic water
+tea 
+green tea
+black tea
+coffee 
+espresso 
+Turkish coffee
+hot chocolate
+maté 
+alcoholic beverage
+Liquor 
+beer 
+brandy 
+cider 
+gin 
+liqueur 
+rum 
+sake 
+tequila 
+vodka 
+whisky 
+wine 
+red wine
+white wine
+sparkling wine
+cocktail 
+Martini 
+Mojito 
+sangria 
+belt 
+hijab 
+button 
+cloak 
+clothing 
+undergarment 
+dress 
+glove 
+hat 
+necktie 
+trousers 
+shoe 
+scarf 
+shirt 
+skirt 
+swimsuit 
+sock 
+hook and loop fastener
+zipper 
+beard 
+brassiere 
+cosmetics 
+perfume 
+jewelry 
+mask 
+tattooing 
+bathtub 
+bed 
+bench 
+cabinet 
+chair 
+commode 
+couch 
+wardrobe 
+desk 
+fireplace 
+furniture 
+home appliance
+table 
+textile 
+bedding 
+carpet 
+curtain 
+pillow 
+kitchenware 
+cutlery 
+fork 
+spoon 
+chopsticks 
+plate 
+human sexuality
+man 
+woman 
+heterosexuality 
+homosexuality 
+sexual intercourse
+safe sex
+fertility 
+kiss 
+sexual attraction
+sexual orientation
+bisexuality 
+foreplay 
+oral sex
+orgasm 
+combined oral contraceptive pill
+condom 
+masturbation 
+prostitution 
+pornography 
+childhood 
+neonate 
+baby 
+child 
+boy 
+girl 
+youth 
+adolescence 
+adult 
+old age
+psychology 
+clinical psychology
+cognitive psychology
+evolutionary psychology
+personality psychology
+psychology of religion 
+psychotherapy 
+genius 
+hypnosis 
+libido 
+phobia 
+pessimism 
+perception 
+social psychology
+Stockholm syndrome
+cognition 
+leadership 
+creativity 
+power 
+optimism 
+human nature
+imagination 
+crying 
+hypocrisy 
+Oedipus complex
+sense 
+memory 
+Analytical psychology
+behaviorism 
+developmental psychology
+Gestalt psychology
+humanistic psychology
+psychoanalysis 
+attention 
+amnesia 
+consciousness 
+sleep 
+dream 
+instinct 
+mind 
+mood 
+temperament 
+personality 
+motivation 
+stereotype 
+thinking 
+behavior 
+emotion 
+anger 
+anxiety 
+compassion 
+courage 
+curiosity 
+disgust 
+doubt 
+envy 
+fear 
+guilt 
+happiness 
+hatred 
+hope 
+jealousy 
+love 
+lust 
+haughtiness 
+sadness 
+shame 
+surprise 
+humour 
+pleasure 
+suffering 
+aggression 
+altruism 
+authority 
+betrayal 
+bullying 
+charisma 
+competition 
+conformity 
+egocentrism 
+empathy 
+forgiveness 
+honor 
+lie 
+privacy 
+prejudice 
+punishment 
+respect 
+shyness 
+trust 
+language 
+constructed language
+dialect 
+dictionary 
+grammar 
+adjective 
+adverb 
+conjunction 
+case 
+noun 
+pronoun 
+sentence 
+syntax 
+verb 
+linguistics 
+comparative linguistics
+etymology 
+historical linguistics
+phonetics 
+literacy 
+morphology 
+philology 
+pronunciation 
+rhetoric 
+translation 
+word 
+phoneme 
+consonant 
+vowel 
+syllable 
+writing 
+diacritic 
+orthography 
+writing system
+name 
+phonology 
+semantics 
+semiotics 
+symbol 
+language family
+Afro-Asiatic 
+Semitic 
+Altaic 
+Austroasiatic 
+Austronesian 
+Dravidian 
+Eskimo-Aleut 
+Indo-European
+Germanic 
+Iranian 
+Romance languages
+Slavic 
+Khoisan 
+Niger–Congo 
+Nilo-Saharan 
+Sino-Tibetan 
+Ibero-Caucasian 
+Kra–Dai 
+Tungusic 
+Turkic
+Uralic 
+Uto-Aztecan 
+alphabet 
+letter 
+Braille 
+Arabic alphabet
+Chinese characters
+cuneiform 
+Cyrillic script
+Devanagari 
+Egyptian hieroglyphs
+Georgian scripts
+Greek alphabet
+Hangul 
+Latin script
+Phoenician 
+runes 
+Rosetta Stone
+International Phonetic Alphabet 
+Morse code
+syllabary 
+Ancient Greek
+Aramaic 
+Arabic 
+Bengali 
+Chinese 
+Danish 
+Egyptian 
+English 
+Old English
+Esperanto 
+French 
+German 
+Greek 
+Gujarati 
+Hebrew 
+Hindustani 
+Hindi 
+Italian 
+Japanese 
+Javanese 
+Korean 
+Latin 
+Mandarin Chinese
+Marathi 
+Min Chinese
+Polish 
+Portuguese 
+Persian 
+Russian 
+Sanskrit 
+Spanish 
+Swahili 
+Syriac 
+Tamil 
+Tagalog 
+Telugu 
+Turkish 
+Punjabi 
+Ukrainian 
+Vietnamese 
+Wu Chinese
+Yue Chinese
+Burmese 
+Hungarian 
+Quechua 
+Thai 
+Akkadian 
+Amharic 
+Berber 
+Coptic 
+Somali 
+Indonesian 
+Malagasy 
+Malay 
+Khmer 
+Armenian 
+Assamese 
+Urdu 
+Nepali 
+Odia 
+Pali 
+Sindhi 
+Catalan 
+Romanian 
+Dutch 
+Swedish 
+Yiddish 
+Kurdish 
+Pashto 
+Bulgarian 
+Czech 
+Serbo-Croatian 
+Kannada 
+Malayalam 
+Zulu 
+Azerbaijani 
+Kazakh 
+Uzbek 
+sign language
+recreation 
+entertainment 
+game 
+amusement park
+gambling 
+casino 
+dice 
+lottery 
+Roulette 
+poker 
+blackjack 
+slot machine
+leisure 
+party 
+play 
+puzzle 
+crossword 
+sudoku 
+toy 
+aquarium 
+zoo 
+board game
+backgammon 
+chess 
+draughts 
+Cluedo 
+go 
+Monopoly 
+Scrabble 
+Pachisi 
+xiangqi 
+mancala 
+marble 
+playing card
+video game
+Pokémon 
+Pong 
+arcade game machine 
+card game
+contract bridge
+darts 
+dominoes 
+doll 
+flying disc
+Lego 
+Rubik's Cube
+Slinky 
+Barbie 
+yo-yo 
+sport 
+ball game
+ball 
+stadium 
+swimming pool
+Olympic Games
+Paralympic Games
+Summer Olympic Games 
+Winter Olympic Games 
+doping in sport 
+winter sport
+esports 
+American football
+National Football League 
+Super Bowl
+Australian rules football 
+baseball 
+Major League Baseball 
+World Series
+basketball 
+National Basketball Association 
+cricket 
+Cricket World Cup 
+curling 
+floorball 
+association football
+FIFA World Cup 
+goalkeeper 
+UEFA European Championship 
+Premier League
+UEFA Champions League 
+handball 
+hockey 
+field hockey
+ice hockey
+National Hockey League 
+lacrosse 
+polo 
+rugby 
+rugby league
+rugby sevens
+rugby union
+volleyball 
+beach volleyball
+athletics 
+decathlon 
+discus throw
+high jump
+hurdling 
+javelin throw
+long jump
+running 
+marathon 
+pole vault
+shot put
+ice skating
+figure skating
+speed skating
+roller skating
+skateboarding 
+canoeing 
+diving 
+rowing 
+swimming 
+water polo
+angling 
+archery 
+auto racing
+Formula One
+NASCAR 
+motorcycle sport
+badminton 
+bodybuilding 
+boules 
+petanque 
+ten-pin bowling
+cue sports
+cycling 
+mountain bike
+time trial
+Tour de France 
+equestrianism 
+dressage 
+horse racing
+rodeo 
+show jumping
+fencing 
+foil 
+sabre fencing
+golf 
+gymnastics 
+rhythmic gymnastics
+floor exercise
+somersault 
+trampoline 
+vault 
+modern pentathlon
+mountaineering 
+orienteering 
+shooting sport
+skiing 
+alpine skiing
+biathlon 
+Nordic skiing
+ski jumping
+slalom skiing
+ski 
+sled 
+bobsleigh 
+luge 
+snooker 
+snowboarding 
+squash 
+surfing 
+table tennis
+tennis 
+racket 
+triathlon 
+weightlifting 
+martial arts
+boxing 
+judo 
+karate 
+kickboxing 
+mixed martial arts 
+taekwondo 
+wrestling 
+freestyle wrestling
+Greco-Roman wrestling
+sumo 
+wushu 
+calendar 
+solar calendar
+lunisolar calendar
+lunar calendar
+Mayan calendarium
+Egyptian calendar
+Chinese calendar
+Japanese calendar
+Hebrew calendar
+Islamic calendar
+Gregorian calendar
+Julian calendar
+perpetual calendar
+leap year
+Coordinated Universal Time 
+daylight saving time 
+night 
+daytime 
+time zone
+universal time
+leap second
+day of the week
+Friday 
+Saturday 
+Sunday 
+January 
+March 
+June 
+September 
+December 
+color 
+black 
+blue 
+brown 
+cyan 
+green 
+grey 
+magenta 
+orange 
+pink 
+purple 
+red 
+yellow 
+white 
+primary color
+brightness 
+colorfulness 
+color vision
+gloss 
+hue 

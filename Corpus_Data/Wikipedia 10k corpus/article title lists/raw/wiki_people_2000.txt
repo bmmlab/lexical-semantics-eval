@@ -1,0 +1,1999 @@
+Q104183 Lillian Gish
+Q103949 Buster Keaton
+Q104340 Harold Lloyd
+Q104109 Mary Pickford
+Q229232 Gloria Swanson
+Q232404 Asta Nielsen
+Q100937 Fred Astaire
+Q16390 Humphrey Bogart
+Q34012 Marlon Brando
+Q94041 James Cagney
+Q882 Charlie Chaplin
+Q203819 Claudette Colbert
+Q93957 Gary Cooper
+Q40475 Joan Crawford
+Q71206 Bette Davis
+Q36949 Robert De Niro
+Q83359 James Dean
+Q19155 Henry Fonda
+Q41142 Jane Fonda
+Q71243 Clark Gable
+Q11637 Judy Garland
+Q49001 Whoopi Goldberg
+Q83410 Cary Grant
+Q2263 Tom Hanks
+Q56016 Katharine Hepburn
+Q73089 Gene Kelly
+Q3925 Grace Kelly
+Q4616 Marilyn Monroe
+Q64450 Marx Brothers
+Q39792 Jack Nicholson
+Q108366 Gregory Peck
+Q94002 Barbara Stanwyck
+Q102462 James Stewart
+Q873 Meryl Streep
+Q34851 Elizabeth Taylor
+Q182580 Shirley Temple
+Q71275 Spencer Tracy
+Q40531 John Wayne
+Q202878 Mae West
+Q83338 Robin Williams
+Q16397 Bruce Lee
+Q9570 Amitabh Bachchan
+Q3111264 Pran
+Q37001 Toshirō Mifune
+Q36268 Brigitte Bardot
+Q106255 Jean-Paul Belmondo
+Q4605 Sarah Bernhardt
+Q106529 Alain Delon
+Q129092 Fernandel
+Q2737 Louis de Funès
+Q23842 Jean Gabin
+Q168359 Jean Marais
+Q150662 Gérard Philipe
+Q151973 Richard Burton
+Q123351 Michael Caine
+Q4573 Sean Connery
+Q166389 Daniel Day-Lewis
+Q42786 Audrey Hepburn
+Q65932 Anthony Hopkins
+Q704385 Edmund Kean
+Q129429 Vivien Leigh
+Q55245 Laurence Olivier
+Q103876 Peter O'Toole
+Q177984 Peter Sellers
+Q199943 Adriano Celentano
+Q56009 Gina Lollobrigida
+Q43252 Sophia Loren
+Q55469 Marcello Mastroianni
+Q43247 Ingrid Bergman
+Q5443 Greta Garbo
+Q471740 Armen Dzhigarkhanyan
+Q717810 Yevgeny Leonov
+Q380250 Innokenty Smoktunovsky
+Q376335 Mikhail Ulyanov
+Q4612 Marlene Dietrich
+Q153018 Maximilian Schell
+Q449037 Alvin Ailey
+Q231923 Marian Anderson
+Q711073 Frederick Ashton
+Q295420 Mikhail Baryshnikov
+Q217764 Maurice Béjart
+Q944176 Carlo Blasis
+Q42402 Andrea Bocelli
+Q1320382 Erik Bruhn
+Q150651 George Carlin
+Q170726 Enrico Caruso
+Q62558 Cyd Charisse
+Q362106 Boris Christoff
+Q139637 David Copperfield
+Q130853 Plácido Domingo
+Q483512 Isadora Duncan
+Q435304 Fanny Elssler
+Q314312 Michel Fokine
+Q231776 Margot Fonteyn
+Q367653 Gregory Hines
+Q131545 Harry Houdini
+Q231316 Tamara Karsavina
+Q213712 Rudolf Laban
+Q231345 Jenny Lind
+Q194363 Vaslav Nijinsky
+Q233951 Birgit Nilsson
+Q84217 Rudolf Nureyev
+Q37615 Luciano Pavarotti
+Q151874 Anna Pavlova
+Q312320 Marius Petipa
+Q233718 Leontyne Price
+Q353019 Jerome Robbins
+Q240890 Renata Scotto
+Q235517 Beverly Sills
+Q203990 Marie Taglioni
+Q264400 Maria Tallchief
+Q177302 Phidias
+Q47163 Vitruvius
+Q130531 Hieronymus Bosch
+Q102272 Jan van Eyck
+Q7814 Giotto
+Q838 Andrei Rublev
+Q301 El Greco
+Q83155 Jacques-Louis David
+Q33477 Eugène Delacroix
+Q313701 François Mansart
+Q41554 Nicolas Poussin
+Q5580 Albrecht Dürer
+Q104884 Caspar David Friedrich
+Q48319 Hans Holbein the Younger
+Q151759 Karl Friedrich Schinkel
+Q123150 Francesco Borromini
+Q42207 Caravaggio
+Q160538 Gian Lorenzo Bernini
+Q17169 Giovanni Bellini
+Q5669 Sandro Botticelli
+Q7793 Donato Bramante
+Q182664 Canaletto
+Q5822 Piero della Francesca
+Q5681 Andrea Mantegna
+Q5811 Masaccio
+Q5592 Michelangelo
+Q177692 Andrea Palladio
+Q5597 Raphael
+Q5571 Andrea del Sarto
+Q9319 Tintoretto
+Q47551 Titian
+Q9440 Paolo Veronese
+Q762 Leonardo da Vinci
+Q150679 Anthony van Dyck
+Q5599 Peter Paul Rubens
+Q5598 Rembrandt
+Q41264 Johannes Vermeer
+Q297838 Jusepe de Ribera
+Q297 Diego Velázquez
+Q93284 Marc Chagall
+Q5912 Marcel Duchamp
+Q7836 René Magritte
+Q5588 Frida Kahlo
+Q173223 Mary Cassatt
+Q46408 Georgia O'Keeffe
+Q37571 Jackson Pollock
+Q160149 Mark Rothko
+Q5603 Andy Warhol
+Q217434 Grant Wood
+Q44007 Paul Klee
+Q34661 Gustav Klimt
+Q41406 Edvard Munch
+Q154448 Victor Vasarely
+Q23380 Jean Auguste Dominique Ingres
+Q355751 Marie-Antoine Carême
+Q35548 Paul Cézanne
+Q46373 Edgar Degas
+Q37693 Paul Gauguin
+Q40599 Édouard Manet
+Q5589 Henri Matisse
+Q296 Claude Monet
+Q39931 Pierre-Auguste Renoir
+Q156386 Henri Rousseau
+Q82445 Henri de Toulouse-Lautrec
+Q34013 Georges Seurat
+Q154340 Francis Bacon
+Q171344 William Hogarth
+Q159758 J. M. W. Turner
+Q1470 M. C. Escher
+Q5582 Vincent van Gogh
+Q151803 Piet Mondrian
+Q61064 Wassily Kandinsky
+Q130777 Kazimir Malevich
+Q172911 Ilya Repin
+Q208993 Nicholas Roerich
+Q5577 Salvador Dalí
+Q5432 Francisco de Goya
+Q152384 Joan Miró
+Q5593 Pablo Picasso
+Q30755 Auguste Rodin
+Q37562 Donatello
+Q131171 Imhotep
+Q134165 Oscar Niemeyer
+Q559852 Walter Burley Griffin
+Q715701 William Le Baron Jenney
+Q180374 Frank Gehry
+Q5604 Frank Lloyd Wright
+Q159612 Richard Meier
+Q243240 Louis Sullivan
+Q46868 I. M. Pei
+Q5600 Mimar Sinan
+Q151794 Kenzō Tange
+Q82840 Alvar Aalto
+Q4724 Le Corbusier
+Q25328 Antoni Gaudí
+Q49744 Victor Horta
+Q295929 Inigo Jones
+Q84312 Richard Neutra
+Q190148 Renzo Piano
+Q170373 Christopher Wren
+Q60694 Günter Behnisch
+Q76726 Peter Behrens
+Q61071 Walter Gropius
+Q76730 Erich Mendelsohn
+Q64412 Frei Otto
+Q41508 Ludwig Mies van der Rohe
+Q57481 Hans Scharoun
+Q469439 Shitao
+Q333453 Raja Ravi Varma
+Q200798 Utagawa Hiroshige
+Q5586 Katsushika Hokusai
+Q48514 Sesshū Tōyō
+Q5670 Abu Nuwas
+Q79822 Adam Mickiewicz
+Q7200 Alexander Pushkin
+Q216466 Alejo Carpentier
+Q38337 Alexandre Dumas
+Q215868 Alice Walker
+Q6711 Allen Ginsberg
+Q207817 Amir Khosrow
+Q5685 Anton Chekhov
+Q493 Arthur Rimbaud
+Q2793 Brothers Grimm
+Q193608 Carl Sandburg
+Q5686 Charles Dickens
+Q1541 Cicero
+Q186335 Dashiell Hammett
+Q42 Douglas Adams
+Q33772 Du Fu
+Q16867 Edgar Allan Poe
+Q360079 Eino Leino
+Q4441 Emily Dickinson
+Q47293 Erich Maria Remarque
+Q23434 Ernest Hemingway
+Q93354 F. Scott Fitzgerald
+Q905 Franz Kafka
+Q991 Fyodor Dostoyevsky
+Q140412 John Donne
+Q5878 Gabriel García Márquez
+Q5683 Geoffrey Chaucer
+Q19185 George Bernard Shaw
+Q3335 George Orwell
+Q107000 Mirza Ghalib
+Q42511 Herbert George Wells
+Q5673 Hans Christian Andersen
+Q41042 Harold Pinter
+Q44403 Heinrich Heine
+Q36661 Henrik Ibsen
+Q170509 Henry James
+Q187765 Henry Miller
+Q25973 Hermann Hesse
+Q70991 Hildegard of Bingen
+Q262816 Ilf and Petrov
+Q34981 Isaac Asimov
+Q310630 Ivan Vazov
+Q892 J. R. R. Tolkien
+Q160534 Jack Kerouac
+Q45765 Jack London
+Q43347 Rumi
+Q6882 James Joyce
+Q36322 Jane Austen
+Q218698 Jerome K. Jerome
+Q5879 Johann Wolfgang von Goethe
+Q39212 John Steinbeck
+Q105756 John Updike
+Q41166 Jonathan Swift
+Q909 Jorge Luis Borges
+Q103285 José Martí
+Q37060 José Saramago
+Q33977 Jules Verne
+Q7011 Kalidasa
+Q188093 Langston Hughes
+Q7243 Leo Tolstoy
+Q38082 Lewis Carroll
+Q7071 Li Bai
+Q5679 Lord Byron
+Q7199 Marcel Proust
+Q7245 Mark Twain
+Q39803 Mario Vargas Llosa
+Q5676 Matsuo Bashō
+Q12706 Maxim Gorky
+Q5682 Miguel de Cervantes
+Q835 Mikhail Bulgakov
+Q687 Molière
+Q81731 Murasaki Shikibu
+Q7176 Najib Mahfouz
+Q69339 Nathaniel Hawthorne
+Q43718 Nikolai Gogol
+Q214622 Nikos Kazantzakis
+Q337373 Olaf Stapledon
+Q35900 Omar Khayyám
+Q34189 Pablo Neruda
+Q1401 Petrarch
+Q171091 Philip K. Dick
+Q7241 Rabindranath Tagore
+Q76483 Rainer Maria Rilke
+Q193236 Gabriele D'Annunzio
+Q835808 Brontë sisters
+Q123078 Robert A. Heinlein
+Q170302 Saadi
+Q44306 Salman Rushdie
+Q17892 Sappho
+Q83059 Saul Bellow
+Q132805 Thomas Hardy
+Q37030 Thomas Mann
+Q35155 Thomas Pynchon
+Q72334 Toni Morrison
+Q134180 Truman Capote
+Q12807 Umberto Eco
+Q535 Victor Hugo
+Q43736 Yasunari Kawabata
+Q134456 Yukio Mishima
+Q313330 Qu Yuan
+Q43423 Aesop
+Q118992 Menander
+Q40939 Aeschylus
+Q43353 Aristophanes
+Q48305 Euripides
+Q6240 Hafez
+Q6691 Homer
+Q6197 Horace
+Q7198 Ovid
+Q41523 Plutarch
+Q7235 Sophocles
+Q1398 Virgil
+Q82778 Pliny the Elder
+Q1067 Dante Alighieri
+Q43459 Ferdowsi
+Q312458 Jami
+Q312551 Kabir
+Q234908 Nezami Ganjavi
+Q312954 Rudaki
+Q1402 Giovanni Boccaccio
+Q503340 Ali-Shir Nava'i
+Q692 William Shakespeare
+Q4302 Chrétien de Troyes
+Q234816 Christine de Pizan
+Q849 François Villon
+Q178379 Fuzûlî
+Q312976 Tulsidas
+Q170800 Pedro Calderón de la Barca
+Q590 Luís de Camões
+Q747 Pierre Corneille
+Q40946 Daniel Defoe
+Q270275 Gavrila Derzhavin
+Q213355 John Dryden
+Q183266 Samuel Johnson
+Q79759 John Milton
+Q41568 Michel de Montaigne
+Q131018 François Rabelais
+Q742 Jean Racine
+Q165257 Lope de Vega
+Q155845 Chinua Achebe
+Q37327 Samuel Beckett
+Q41513 William Blake
+Q38757 Bertolt Brecht
+Q40640 Ray Bradbury
+Q180377 Raymond Chandler
+Q35064 Agatha Christie
+Q47087 Arthur C. Clarke
+Q35610 Arthur Conan Doyle
+Q25161 Roald Dahl
+Q168728 Robert Frost
+Q81447 Aldous Huxley
+Q34743 Rudyard Kipling
+Q55767 Astrid Lindgren
+Q9327 Guy de Maupassant
+Q80596 Arthur Miller
+Q36591 Vladimir Nabokov
+Q34660 J. K. Rowling
+Q47152 Mary Shelley
+Q41488 Wole Soyinka
+Q1512 Robert Louis Stevenson
+Q81438 Walt Whitman
+Q30875 Oscar Wilde
+Q101638 Mary Wollstonecraft
+Q40909 Virginia Woolf
+Q40213 William Butler Yeats
+Q302910 Ngugi wa Thiong’o
+Q43293 J. M. Coetzee
+Q47619 Nadine Gordimer
+Q183492 Margaret Atwood
+Q80900 Pearl S. Buck
+Q181667 Washington Irving
+Q2754 Jaroslav Hašek
+Q37767 T. S. Eliot
+Q184935 Mihai Eminescu
+Q38392 William Faulkner
+Q244390 Ken Kesey
+Q133855 Guillaume Apollinaire
+Q216980 Konstantinos P. Cavafy
+Q502 Stendhal
+Q44183 William Golding
+Q39829 Stephen King
+Q181659 Ursula K. Le Guin
+Q123469 Sinclair Lewis
+Q4985 Herman Melville
+Q173540 Margaret Mitchell
+Q182870 Mario Puzo
+Q163366 Ezra Pound
+Q79904 J. D. Salinger
+Q75612 Isaac Bashevis Singer
+Q102513 Harriet Beecher Stowe
+Q49074 Kurt Vonnegut
+Q178106 William Carlos Williams
+Q184440 Jorge Amado
+Q484292 Chinghiz Aitmatov
+Q484141 Muhammad Iqbal
+Q134798 Haruki Murakami
+Q80095 Kenzaburō Ōe
+Q241248 Orhan Pamuk
+Q23114 Lu Xun
+Q47737 Kahlil Gibran
+Q1031 France Prešeren
+Q179695 Ismail Kadare
+Q82925 Joseph Conrad
+Q81219 Sándor Petőfi
+Q41502 Henryk Sienkiewicz
+Q134958 Taras Shevchenko
+Q80440 Anna Akhmatova
+Q862 Joseph Brodsky
+Q46602 Ivan Bunin
+Q191598 Nikolay Karamzin
+Q46599 Mikhail Lermontov
+Q132964 Vladimir Mayakovsky
+Q208003 Nikolay Nekrasov
+Q41223 Boris Pasternak
+Q34474 Aleksandr Solzhenitsyn
+Q192279 Aleksey Nikolaevich Tolstoy
+Q42831 Ivan Turgenev
+Q9711 Honoré de Balzac
+Q501 Charles Baudelaire
+Q182804 Karen Blixen
+Q43444 Gustave Flaubert
+Q4583 Anne Frank
+Q41408 Federico García Lorca
+Q47484 André Gide
+Q40826 Knut Hamsun
+Q46706 Eugène Ionesco
+Q44519 Selma Lagerlöf
+Q1403 Luigi Pirandello
+Q22670 Friedrich Schiller
+Q7724 August Strindberg
+Q16409 Tristan Tzara
+Q504 Émile Zola
+Q220078 Kingsley Amis
+Q178698 W. H. Auden
+Q192069 Enid Blyton
+Q217619 Anthony Burgess
+Q201732 Robert Graves
+Q82083 John Keats
+Q9204 C. S. Lewis
+Q205739 Alan Moore
+Q79025 Walter Scott
+Q213447 John Millington Synge
+Q45546 William Wordsworth
+Q82409 Samuel Taylor Coleridge
+Q93343 Percy Bysshe Shelley
+Q200867 Gustav Holst
+Q192114 Jon Lord
+Q212089 Alan Parsons
+Q528781 Pancho Vladigerov
+Q13894 Richard Strauss
+Q207717 Guillaume Dufay
+Q179277 Giovanni da Palestrina
+Q1339 Johann Sebastian Bach
+Q7302 George Frideric Handel
+Q53068 Claudio Monteverdi
+Q1340 Antonio Vivaldi
+Q7349 Joseph Haydn
+Q254 Wolfgang Amadeus Mozart
+Q185040 Mily Balakirev
+Q255 Ludwig van Beethoven
+Q1151 Hector Berlioz
+Q56158 Georges Bizet
+Q164004 Alexander Borodin
+Q7294 Johannes Brahms
+Q81752 Anton Bruckner
+Q1268 Frédéric Chopin
+Q208546 César Cui
+Q7298 Antonín Dvořák
+Q80621 Edvard Grieg
+Q41309 Franz Liszt
+Q7304 Gustav Mahler
+Q46096 Felix Mendelssohn
+Q132682 Modest Petrovich Mussorgsky
+Q93227 Nikolai Rimsky-Korsakov
+Q9726 Gioacchino Rossini
+Q7312 Franz Schubert
+Q7351 Robert Schumann
+Q48173 Bedřich Smetana
+Q83309 Johann Strauss II
+Q1146602 Gilbert and Sullivan
+Q7315 Pyotr Ilyich Tchaikovsky
+Q7317 Giuseppe Verdi
+Q1511 Richard Wagner
+Q448644 Harold Arlen
+Q83326 Béla Bartók
+Q4700 Claude Debussy
+Q275900 Joe Hisaishi
+Q49481 Sergei Prokofiev
+Q7311 Giacomo Puccini
+Q1178 Maurice Ravel
+Q154770 Arnold Schoenberg
+Q80135 Dmitri Shostakovich
+Q45682 Jean Sibelius
+Q7314 Igor Stravinsky
+Q152505 Leonard Bernstein
+Q1110560 Umm Kulthum
+Q512 Vladimir Vysotsky
+Q234891 Yo-Yo Ma
+Q66075 Niccolò Paganini
+Q103774 Ravi Shankar
+Q18233 ABBA
+Q41076 Mariah Carey
+Q12003 Cher
+Q115962 David Coverdale
+Q104372 Doris Day
+Q190151 Bruce Dickinson
+Q185151 Ronnie James Dio
+Q5105 Celine Dion
+Q2831 Michael Jackson
+Q2808 Elton John
+Q1744 Madonna
+Q409 Bob Marley
+Q215359 Dean Martin
+Q14441 Liza Minnelli
+Q205721 Joni Mitchell
+Q40912 Frank Sinatra
+Q4636 Barbra Streisand
+Q714 Stevie Wonder
+Q42775 Johnny Cash
+Q72984 Bing Crosby
+Q464241 Faith Hill
+Q508202 George Jones
+Q654716 Peter, Paul and Mary
+Q229430 Reba McEntire
+Q180453 Dolly Parton
+Q206181 Hank Williams
+Q544387 Ray Charles
+Q125121 Aretha Franklin
+Q188969 B. B. King
+Q153172 Vangelis
+Q235077 Jerry Goldsmith
+Q185928 Henry Mancini
+Q23848 Ennio Morricone
+Q269094 Richard Rodgers
+Q319396 Miklós Rózsa
+Q350704 Max Steiner
+Q131285 John Williams
+Q5950 James Brown
+Q44570 John Lee Hooker
+Q202937 Stevie Ray Vaughan
+Q5608 Eminem
+Q6078 Dr. Dre
+Q6107 Tupac Shakur
+Q1779 Louis Armstrong
+Q93341 Miles Davis
+Q123829 George Gershwin
+Q200131 Antônio Carlos Jobim
+Q103651 Glenn Miller
+Q128746 Irving Berlin
+Q313270 Jerome Kern
+Q215120 Cole Porter
+Q180975 Andrew Lloyd Webber
+Q1631 Édith Piaf
+Q156347 Lata Mangeshkar
+Q80510 Alla Pugacheva
+Q156815 Mohammed Rafi
+Q1207860 Zhou Xuan
+Q27593 AC/DC
+Q111074 John Barry
+Q1299 The Beatles
+Q1203 John Lennon
+Q2599 Paul McCartney
+Q5921 Chuck Berry
+Q5383 David Bowie
+Q48187 Eric Clapton
+Q190076 Joe Cocker
+Q144622 Phil Collins
+Q332032 Alice Cooper
+Q101505 Deep Purple
+Q45354 The Doors
+Q392 Bob Dylan
+Q175195 Peter Gabriel
+Q484918 Simon & Garfunkel
+Q5928 Jimi Hendrix
+Q1514 Janis Joplin
+Q15920 Metallica
+Q185147 Gary Moore
+Q11649 Nirvana
+Q133151 Ozzy Osbourne
+Q2306 Pink Floyd
+Q180861 Roger Waters
+Q303 Elvis Presley
+Q15862 Queen
+Q15869 Freddie Mercury
+Q229375 Linda Ronstadt
+Q47670 Black Sabbath
+Q1225 Bruce Springsteen
+Q11036 The Rolling Stones
+Q189599 Keith Richards
+Q128121 Mick Jagger
+Q131814 Tina Turner
+Q396 U2
+Q127330 Frank Zappa
+Q2331 Led Zeppelin
+Q44200 Billy the Kid
+Q43963 Jack the Ripper
+Q80048 Al Capone
+Q187447 Pablo Escobar
+Q25089 Woody Allen
+Q55171 Pedro Almodóvar
+Q55163 Robert Altman
+Q7546 Ingmar Bergman
+Q53009 Bernardo Bertolucci
+Q51545 Luis Buñuel
+Q616886 Ken Burns
+Q42574 James Cameron
+Q51492 Frank Capra
+Q83158 Jean Cocteau
+Q43203 Clint Eastwood
+Q56094 Francis Ford Coppola
+Q56014 George Cukor
+Q8704 Walt Disney
+Q48765 Stanley Donen
+Q51127 Carl Theodor Dreyer
+Q8003 Sergei Eisenstein
+Q44426 Rainer Werner Fassbinder
+Q7371 Federico Fellini
+Q51114 John Ford
+Q51525 Miloš Forman
+Q313256 Bob Fosse
+Q53001 Jean-Luc Godard
+Q72579 Samuel Goldwyn
+Q25078 Terry Gilliam
+Q51123 D. W. Griffith
+Q7374 Alfred Hitchcock
+Q51575 John Huston
+Q72717 Elia Kazan
+Q55407 Raj Kapoor
+Q26372 Takeshi Kitano
+Q2001 Stanley Kubrick
+Q8006 Akira Kurosawa
+Q19504 Fritz Lang
+Q55260 David Lean
+Q160726 Ang Lee
+Q28941 Frank Lloyd
+Q38222 George Lucas
+Q51559 Sidney Lumet
+Q55965 Auguste and Louis Lumière
+Q51583 Joseph L. Mankiewicz
+Q463883 Frances Marion
+Q152272 Georges Méliès
+Q55207 Nikita Mikhalkov
+Q189526 Brian De Palma
+Q271284 Alan Parker
+Q51552 Roman Polanski
+Q51522 Sydney Pollack
+Q299419 Carlo Ponti
+Q55415 Leni Riefenstahl
+Q8873 Satyajit Ray
+Q50713 Jean Renoir
+Q295855 Carlos Saura
+Q41148 Martin Scorsese
+Q72291 David O. Selznick
+Q317574 Mack Sennett
+Q53004 Vittorio De Sica
+Q299194 Aaron Sorkin
+Q8877 Steven Spielberg
+Q49484 Konstantin Stanislavski
+Q179497 Oliver Stone
+Q3772 Quentin Tarantino
+Q853 Andrei Tarkovsky
+Q438472 Irving Thalberg
+Q53045 Giuseppe Tornatore
+Q53002 François Truffaut
+Q133730 Lars von Trier
+Q13888 Luchino Visconti
+Q55193 Dziga Vertov
+Q472520 Hal B. Wallis
+Q55411 Wim Wenders
+Q24829 Orson Welles
+Q51547 Billy Wilder
+Q59821 Robert Wise
+Q51495 William Wyler
+Q364342 Darryl F. Zanuck
+Q187364 Robert Zemeckis
+Q55430 Zhang Yimou
+Q175121 Marcus Licinius Crassus
+Q177854 Lorenzo de' Medici
+Q140692 Samuel Crompton
+Q193042 Thomas Newcomen
+Q57423 John Jacob Astor I
+Q320109 Jamsetji Tata
+Q484265 Andrew Carnegie
+Q223766 P. T. Barnum
+Q2916122 James Buchanan Duke
+Q47213 Warren Buffett
+Q8768 Henry Ford
+Q124462 Meyer Guggenheim
+Q189081 Howard Hughes
+Q54168 J. P. Morgan
+Q318591 J. Paul Getty
+Q294931 William Randolph Hearst
+Q160278 John D. Rockefeller
+Q382109 Leland Stanford
+Q313721 Cornelius Vanderbilt
+Q447716 Madam C. J. Walker
+Q262367 George Westinghouse
+Q45661 Coco Chanel
+Q336520 Alan Sugar
+Q468364 Dhirubhai Ambani
+Q43969 Muhammad Yunus
+Q181282 Enzo Ferrari
+Q319648 Ray Kroc
+Q497827 Sam Walton
+Q298547 Mukesh Ambani
+Q170419 Carlos Slim
+Q92764 Sergey Brin
+Q194419 Richard Branson
+Q5284 Bill Gates
+Q19837 Steve Jobs
+Q53944 Rupert Murdoch
+Q317521 Elon Musk
+Q4934 Larry Page
+Q193368 Ted Turner
+Q55800 Oprah Winfrey
+Q36215 Mark Zuckerberg
+Q7331 Ibn Battuta
+Q42838 Leif Erikson
+Q133060 Willem Barents
+Q85642 John Cabot
+Q174432 Pedro Álvares Cabral
+Q7321 Jacques Cartier
+Q7322 Christopher Columbus
+Q7326 Hernán Cortés
+Q36517 Francis Drake
+Q201510 Juan Sebastián Thepickle
+Q7328 Vasco da Gama
+Q1496 Ferdinand Magellan
+Q185974 Juan Ponce de León
+Q44741 Francisco Pizarro
+Q6101 Marco Polo
+Q60040 Hernando de Soto
+Q42188 Abel Tasman
+Q47674 Amerigo Vespucci
+Q7333 Zheng He
+Q127641 Vitus Bering
+Q7324 James Cook
+Q6694 Alexander von Humboldt
+Q48373 David Livingstone
+Q171421 Henry Morton Stanley
+Q926 Roald Amundsen
+Q1615 Neil Armstrong
+Q7327 Yuri Gagarin
+Q182642 John Glenn
+Q33817 Edmund Hillary
+Q80732 Tenzing Norgay
+Q868 Aristotle
+Q8018 Augustine of Hippo
+Q4604 Confucius
+Q41980 Democritus
+Q59180 Diogenes of Sinope
+Q43216 Epicurus
+Q179785 Gorgias
+Q28959 Han Fei Zi
+Q41155 Heraclitus
+Q9333 Laozi
+Q152919 Li Si
+Q188903 Mencius
+Q125551 Parmenides
+Q859 Plato
+Q134189 Plotinus
+Q2054 Seneca
+Q351345 Shang Yang
+Q913 Socrates
+Q36303 Thales
+Q216072 Xunzi
+Q171303 Zeno of Citium
+Q132157 Zeno of Elea
+Q47739 Zhuangzi
+Q4295 Peter Abelard
+Q39837 Averroes
+Q102851 Boethius
+Q37388 Francis Bacon
+Q36330 Giordano Bruno
+Q528415 Hasdai Crescas
+Q190089 Duns Scotus
+Q127398 Moshe ben Maimon
+Q154751 Nicholas of Cusa
+Q9438 Thomas Aquinas
+Q378462 Wang Yangming
+Q43936 William of Ockham
+Q9397 Zhu Xi
+Q82049 George Berkeley
+Q12735 John Amos Comenius
+Q9191 René Descartes
+Q448 Denis Diderot
+Q34787 Friedrich Engels
+Q43499 Erasmus
+Q154959 Hugo Grotius
+Q9235 Georg Wilhelm Friedrich Hegel
+Q37621 Thomas Hobbes
+Q37160 David Hume
+Q125249 William James
+Q9312 Immanuel Kant
+Q6512 Søren Kierkegaard
+Q34628 Gotthold Ephraim Lessing
+Q9353 John Locke
+Q50020 John Stuart Mill
+Q15975 Montesquieu
+Q9358 Friedrich Nietzsche
+Q6527 Jean-Jacques Rousseau
+Q76521 Max Scheler
+Q76576 Friedrich Schleiermacher
+Q38193 Arthur Schopenhauer
+Q144535 Herbert Spencer
+Q35802 Benedictus de Spinoza
+Q185832 Emmanuel Swedenborg
+Q9068 Voltaire
+Q152388 Theodor W. Adorno
+Q160640 Raymond Aron
+Q27645 Mikhail Bakunin
+Q7197 Simone de Beauvoir
+Q42156 Henri Bergson
+Q205162 Isaiah Berlin
+Q84423 Martin Buber
+Q34670 Albert Camus
+Q57188 Ernst Cassirer
+Q192348 Benedetto Croce
+Q184226 Gilles Deleuze
+Q130631 Jacques Derrida
+Q131805 John Dewey
+Q48226 Ralph Waldo Emerson
+Q76422 Ludwig Feuerbach
+Q102585 Johann Gottlieb Fichte
+Q60028 Gottlob Frege
+Q559957 Yan Fu
+Q76356 Hans-Georg Gadamer
+Q76357 Jürgen Habermas
+Q48301 Martin Heidegger
+Q58586 Edmund Husserl
+Q184980 Thomas Kuhn
+Q296249 Imre Lakatos
+Q193871 Marshall McLuhan
+Q212639 Maurice Merleau-Ponty
+Q131117 Maria Montessori
+Q81244 Karl Popper
+Q5749 Pierre-Joseph Proudhon
+Q172544 John Rawls
+Q33760 Bertrand Russell
+Q9364 Jean-Paul Sartre
+Q131149 Henry David Thoreau
+Q140694 Alexis de Tocqueville
+Q185085 Miguel de Unamuno
+Q183372 Alfred North Whitehead
+Q9391 Ludwig Wittgenstein
+Q360135 Kang Youwei
+Q142999 Eusebius of Caesarea
+Q26825 Herodotos
+Q2039 Titus Livius
+Q172198 Ammianus Marcellinus
+Q2161 Tacitus
+Q41683 Thucydides
+Q9372 Sima Qian
+Q129772 Xenophon
+Q154938 Bede
+Q9294 Ibn Khaldun
+Q328782 Rashid-al-Din Hamadani
+Q161841 Edward Gibbon
+Q77184 Leopold von Ranke
+Q5738 Adolphe Thiers
+Q185105 Fernand Braudel
+Q44272 Michel Foucault
+Q719787 Christopher Hill
+Q25351 Theodor Mommsen
+Q706931 A. J. P. Taylor
+Q59112 Barbara W. Tuchman
+Q548462 Frederick Jackson Turner
+Q13526 Thomas Robert Malthus
+Q13575 François Quesnay
+Q160270 David Ricardo
+Q9381 Adam Smith
+Q47426 Milton Friedman
+Q62835 Hermann Heinrich Gossen
+Q9317 John Maynard Keynes
+Q5752 Peter Kropotkin
+Q131112 Paul Krugman
+Q128736 John Forbes Nash
+Q152452 Gunnar Myrdal
+Q179493 Bertil Ohlin
+Q102454 Paul Samuelson
+Q58031 Werner Sombart
+Q295673 William Vickrey
+Q104804 Mesrop Mashtots
+Q189725 Panini
+Q185375 Mikhail Bakhtin
+Q9049 Noam Chomsky
+Q156201 Roman Jakobson
+Q13230 Ferdinand de Saussure
+Q179109 Roland Barthes
+Q156268 Pierre Bourdieu
+Q12718 Auguste Comte
+Q15948 Émile Durkheim
+Q75812 Norbert Elias
+Q220008 Anthony Giddens, Baron Giddens
+Q314471 Erving Goffman
+Q355237 Bruno Latour
+Q57238 Niklas Luhmann
+Q312843 Robert K. Merton
+Q203913 Talcott Parsons
+Q319816 Pitirim Sorokin
+Q9387 Max Weber
+Q312837 C. Wright Mills
+Q9045 Chanakya
+Q1399 Niccolò Machiavelli
+Q42544 Thomas More
+Q191850 Tommaso Campanella
+Q165792 Edmund Burke
+Q83003 Antonio Gramsci
+Q126462 Thomas Paine
+Q7231 Rosa Luxemburg
+Q9061 Karl Marx
+Q77161 Hans Morgenthau
+Q60025 Hannah Arendt
+Q152393 Alfred Adler
+Q310741 Gordon Allport
+Q153753 Albert Bandura
+Q353133 Raymond Cattell
+Q58632 Hans Eysenck
+Q313931 Albert Ellis
+Q58074 Erik Erikson
+Q76881 Gustav Fechner
+Q315916 Leon Festinger
+Q9215 Sigmund Freud
+Q57085 Erich Fromm
+Q184746 Jane Goodall
+Q683246 Donald O. Hebb
+Q60024 Hermann von Helmholtz
+Q76509 Karl Jaspers
+Q41532 Carl Jung
+Q77106 Kurt Lewin
+Q23357 Abraham Maslow
+Q28876 David McClelland
+Q670658 George Armitage Miller
+Q42985 Ivan Pavlov
+Q123190 Jean Piaget
+Q191004 Carl Rogers
+Q84172 Otto Rank
+Q290285 Stanley Schachter
+Q213195 B. F. Skinner
+Q310694 Benjamin Spock
+Q309765 Edward mierda
+Q217477 John B. Watson
+Q75814 Wilhelm Wundt
+Q180819 Lev Vygotsky
+Q128126 Claude Lévi-Strauss
+Q180099 Margaret Mead
+Q61078 Walter Benjamin
+Q434813 Clement Greenberg
+Q57656 Erwin Panofsky
+Q201538 Edward Said
+Q9181 Abraham
+Q70899 Adam
+Q171724 Daniel
+Q41370 David
+Q133507 Elijah
+Q191787 Ezra
+Q81989 Gabriel
+Q188794 Isaiah
+Q289957 Jacob
+Q145746 Joseph
+Q9077 Moses
+Q81422 Noah
+Q37085 Solomon
+Q345 Virgin Mary
+Q302 Jesus
+Q44015 John the Apostle
+Q40662 John the Baptist
+Q9200 Paul the Apostle
+Q33923 Peter
+Q106026 Arius
+Q44024 Athanasios of Alexandria
+Q44258 Basil of Caesarea
+Q43706 John Chrysostom
+Q188883 Clement of Alexandria
+Q44079 Cyril of Alexandria
+Q51884 John of Damascus
+Q239925 Saints Cyril and Methodius
+Q44011 Gregory of Nazianzus
+Q185073 Nestorius
+Q44269 Saint Nicholas
+Q379587 Patriarch Nikon of Moscow
+Q191734 Gregory of Nyssa
+Q170472 Origen
+Q42887 Clement I
+Q42827 Gregory I
+Q23873 John XXIII
+Q43954 Leo I
+Q16975 Paul VI
+Q43720 Pius IX
+Q313070 Jacobus Arminius
+Q107473 Karl Barth
+Q76326 Dietrich Bonhoeffer
+Q37577 John Calvin
+Q199894 Thomas Cranmer
+Q235069 Mary Baker Eddy
+Q213550 Billy Graham
+Q189937 John Knox
+Q76325 Philipp Melanchthon
+Q335171 Menno Simons
+Q47102 Joseph Smith
+Q278825 Charles Spurgeon
+Q213393 John Wesley
+Q123034 Huldrych Zwingli
+Q43689 Ambrose
+Q676555 Francis of Assisi
+Q43746 Bonaventure
+Q236326 Columba
+Q190388 John of the Cross
+Q48438 Saint George
+Q43977 Jan Hus
+Q182123 Irenaeus
+Q44248 Jerome
+Q44281 Ignatius of Loyola
+Q44265 Benedict of Nursia
+Q174929 Tertullian
+Q210735 Tomás de Torquemada
+Q173893 John Wycliffe
+Q163900 Francis Xavier
+Q180123 Fatimah
+Q9458 Muhammad
+Q39619 Alī ibn Abī Tālib
+Q112128 Husayn ibn Ali
+Q170046 Ja'far al-Sadiq
+Q241026 Muhammad al-Bukhari
+Q140124 Muslim ibn al-Hajjaj
+Q293571 Al-Nawawi
+Q294281 Al-Shafi'i
+Q312299 Malik ibn Anas
+Q194442 Ahmad ibn Hanbal
+Q190896 Abu Hanifa
+Q491558 Ibn Taymiyyah
+Q363513 Judah Loew ben Bezalel
+Q279359 Vilna Gaon
+Q310821 Akiva ben Joseph
+Q26456 Rashi
+Q319062 Baal Shem Tov
+Q9546 Al-Ghazali
+Q46420 Ibn Arabi
+Q9441 Gautama Buddha
+Q310913 Thích Nhất Hạnh
+Q17293 14th Dalai Lama
+Q171195 Nāgārjuna
+Q231582 Padmasambhava
+Q187172 Bodhidharma
+Q345012 Huineng
+Q1194206 Huiyuan
+Q335293 Kumārajīva
+Q197778 Zhiyi
+Q28988 Ananda
+Q379814 Mahāmaudgalyāyana
+Q320142 Śāriputra
+Q316343 Vasubandhu
+Q318064 Dōgen
+Q222227 Kūkai
+Q29049 Kanada
+Q574355 Kapila
+Q231680 Patanjali
+Q715607 Valmiki
+Q330521 Vyasa
+Q771686 Basava
+Q774847 Kumārila Bhaṭṭa
+Q1771062 Gaudapada
+Q335371 Madhvacharya
+Q870262 Chaitanya Mahaprabhu
+Q1741798 Ramanuja
+Q180967 Adi Shankara
+Q192207 Aurobindo Ghosh
+Q288441 Ramana Maharshi
+Q234898 A. C. Bhaktivedanta Swami Prabhupada
+Q183126 Ramakrishna
+Q47478 Swami Vivekananda
+Q312549 Paramahansa Yogananda
+Q104273 Báb
+Q101054 Baháʼu'lláh
+Q83322 Guru Nanak
+Q312967 Guru Gobind Singh
+Q35811 Zoroaster
+Q39978 Nostradamus
+Q43989 Grigori Rasputin
+Q8423 Cyrus the Great
+Q103960 Semiramis
+Q7192 Qin Shi Huangdi
+Q37151 Sun Tzu
+Q8589 Ashoka
+Q188541 Chandragupta Maurya
+Q184462 Croesus
+Q36359 Hammurabi
+Q185126 Mithridates VI of Pontus
+Q159888 Queen of Sheba
+Q44387 Darius I of Persia
+Q7210 Emperor Gaozu of Han
+Q81794 Akhenaten
+Q635 Cleopatra
+Q174367 Djoser
+Q129234 Hatshepsut
+Q40930 Nefertiti
+Q573606 Ptahhotep
+Q168261 Ptolemy I Soter
+Q1523 Ramesses II
+Q157899 Thutmose III
+Q12154 Tutankhamon
+Q157918 Seti I
+Q1429 Antoninus Pius
+Q1405 Augustus
+Q1409 Caligula
+Q8413 Constantine the Great
+Q1423 Domitian
+Q1048 Julius Caesar
+Q1430 Marcus Aurelius
+Q1413 Nero
+Q46696 Theodosius I
+Q1407 Tiberius
+Q1425 Trajan
+Q36724 Attila
+Q172353 Pyrrhus
+Q184176 Seleucus I Nicator
+Q8409 Alexander the Great
+Q130650 Philip II of Macedon
+Q187982 Alcibiades
+Q117253 Demosthenes
+Q80398 Pericles
+Q133337 Solon
+Q102371 Alaric I
+Q68880 Arminius
+Q184634 Boudica
+Q178953 Vercingetorix
+Q36456 Hannibal
+Q41833 Basil II
+Q41852 Heraclius
+Q41866 Justinian I
+Q31755 Leo III the Syrian
+Q41610 Manuel I Komnenos
+Q334923 Abu Bakr
+Q131002 Harun al-Rashid
+Q181154 Muawiyah I
+Q8467 Umar ibn Al-Khattāb
+Q37731 Usman ibn Affan
+Q175138 Batu Khan
+Q177320 Hulagu Khan
+Q8462 Timur
+Q486088 Ulugh Beg
+Q7523 Kublai Khan
+Q720 Genghis Khan
+Q7519 Ögedei Khan
+Q34503 Mehmed the Conqueror
+Q83100 Osman I
+Q8581 Saladin
+Q188634 Matthias Corvinus
+Q192264 Simeon I of Bulgaria
+Q177903 Stephen I of Hungary
+Q43715 Vlad III
+Q83476 Alfred the Great
+Q57798 Edward I of England
+Q102140 Henry II of England
+Q129308 John, King of England
+Q42305 Richard I of England
+Q37594 William the Conqueror
+Q3044 Charlemagne
+Q28984 Chlothar I
+Q82339 Clovis I
+Q43974 Louis the Pious
+Q8058 Louis XI of France
+Q34428 Philip II of France
+Q130969 Philip IV of France
+Q154936 Arnulf of Carinthia
+Q150712 Charles the Fat
+Q150620 Henry I the Fowler
+Q155669 Charles IV
+Q71231 Charles the Bald
+Q79789 Frederick I
+Q130221 Frederick II, Holy Roman Emperor
+Q60094 Henry IV
+Q43915 Otto I the Great
+Q57124 Sigismund
+Q164823 Girolamo Savonarola
+Q191103 Lucrezia Borgia
+Q108316 Alexander VI
+Q134646 Boniface VIII
+Q133063 Gregory VII
+Q128076 Innocent III
+Q53436 Bolesław I the Brave
+Q54049 Władysław II Jagiełło
+Q53435 Mieszko I
+Q174044 Alexander Nevsky
+Q171185 Ivan III of Russia
+Q1058572 Sviatoslav I of Kiev
+Q14974 Vladimir the Great
+Q105105 Theoderic the Great
+Q587697 Afonso I of Portugal
+Q134128 Cnut the Great
+Q12860 Ferdinand II of Aragon
+Q182897 Henry the Navigator
+Q45859 Isabella I of Castile
+Q150735 Lothair I
+Q179577 Atahualpa
+Q141791 Moctezuma II
+Q43527 Sitting Bull
+Q178903 Alexander Hamilton
+Q23 George Washington
+Q11813 James Madison
+Q11806 John Adams
+Q11812 Thomas Jefferson
+Q171349 Abbas the Great
+Q797848 Babur
+Q486188 Humayun
+Q171411 Oda Nobunaga
+Q171977 Tokugawa Ieyasu
+Q187550 Toyotomi Hideyoshi
+Q8597 Akbar
+Q485547 Aurangzeb
+Q83672 Shah Jahan
+Q170514 Mehmed IV
+Q494660 Selim I
+Q199633 Selim III
+Q8474 Suleiman the Magnificent
+Q81506 Charles I of England
+Q7207 Elizabeth I of England
+Q38370 Henry VIII of England
+Q79972 James VI and I
+Q82674 Mary I of England
+Q131412 Mary, Queen of Scots
+Q104190 Robert Walpole
+Q129987 William III of England
+Q128902 William Pitt the Younger
+Q47365 Marie Antoinette
+Q166056 Cardinal Mazarin
+Q26702 Cardinal Richelieu
+Q131552 Catherine de' Medici
+Q129857 Francis I of France
+Q936976 Henry IV of France
+Q7742 Louis XIV of France
+Q7738 Louis XV of France
+Q7732 Louis XVI of France
+Q32500 Charles V, Holy Roman Emperor
+Q150611 Ferdinand I, Holy Roman Emperor
+Q76555 Joseph II, Holy Roman Emperor
+Q150494 Leopold I, Holy Roman Emperor
+Q131706 Maria Theresa of Austria
+Q150726 Maximilian I
+Q83159 Clement VII
+Q80516 Julius II
+Q53454 John III Sobieski
+Q52940 Sigismund III Vasa
+Q7731 Alexis of Russia
+Q170172 Boris Godunov
+Q36450 Catherine II of Russia
+Q130752 Elizabeth of Russia
+Q7996 Ivan IV Vasilyevich
+Q8479 Peter the Great
+Q52934 Charles XII of Sweden
+Q153586 Christian IV of Denmark
+Q33550 Frederick II of Prussia
+Q34417 Philip II of Spain
+Q170467 Philip V of Spain
+Q78454 William the Silent
+Q41178 Haile Selassie I
+Q48231 Idi Amin
+Q186525 Julius Nyerere
+Q179825 Abdelkader El Djezairi
+Q42013 Anwar Sadat
+Q39524 Gamal Abdel Nasser
+Q19878 Muammar Gaddafi
+Q182781 Muhammad Ali of Egypt
+Q19825 Cecil John Rhodes
+Q184945 Hastings Banda
+Q164535 Mobutu Sese Seko
+Q8023 Nelson Mandela
+Q10707 Robert Mugabe
+Q27695 Shaka Zulu
+Q1254 Kofi Annan
+Q8620 Kwame Nkrumah
+Q154545 Léopold Sédar Senghor
+Q939 Pedro I of Brazil
+Q156774 Pedro II of Brazil
+Q8619 Pierre Trudeau
+Q57402 Daniel Ortega
+Q11256 Fidel Castro
+Q182276 El pepe
+Q150688 Porfirio Díaz
+Q152534 Alfredo Stroessner
+Q368 Augusto Pinochet
+Q40933 Eva Perón
+Q8440 Hugo Chávez
+Q134160 José de San Martín
+Q440 Salvador Allende
+Q8605 Simón Bolívar
+Q207 George W. Bush
+Q23685 Jimmy Carter
+Q1124 Bill Clinton
+Q9916 Dwight D. Eisenhower
+Q11817 Andrew Jackson
+Q9640 Lyndon B. Johnson
+Q9696 John F. Kennedy
+Q66107 Henry Kissinger
+Q91 Abraham Lincoln
+Q127417 Douglas MacArthur
+Q11815 James Monroe
+Q9588 Richard Nixon
+Q76 Barack Obama
+Q11891 James K. Polk
+Q9960 Ronald Reagan
+Q83396 Eleanor Roosevelt
+Q8007 Franklin Delano Roosevelt
+Q33866 Theodore Roosevelt
+Q11613 Harry S Truman
+Q34296 Woodrow Wilson
+Q47842 Empress Dowager Cixi
+Q17410 Zhou Enlai
+Q15029 Hu Jintao
+Q16574 Chiang Kai-shek
+Q185152 Puyi
+Q16977 Deng Xiaoping
+Q8573 Sun Yat-sen
+Q5816 Mao Zedong
+Q14356 Park Chung-hee
+Q34479 Hirohito
+Q41117 Kim Il-sung
+Q174231 Emperor Meiji
+Q179871 Eisaku Satō
+Q157451 Heydar Aliyev
+Q57394 Nursultan Nazarbayev
+Q82918 Saparmurat Niyazov
+Q128245 Mohammad Reza Pahlavi
+Q1149 Indira Gandhi
+Q1047 Jawaharlal Nehru
+Q9455 Vallabhbhai Patel
+Q191375 Sheikh Mujibur Rahman
+Q1480 Corazon Aquino
+Q1463 Ferdinand Marcos
+Q36014 Ho Chi Minh
+Q181383 Mahathir Mohamad
+Q39464 Pol Pot
+Q44819 Suharto
+Q76127 Sukarno
+Q131248 Lee Kuan Yew
+Q34413 Benazir Bhutto
+Q160554 Mohammad Ali Jinnah
+Q5152 Mustafa Kemal Atatürk
+Q37610 David Ben-Gurion
+Q134817 Abdul Hamid II
+Q1316 Saddam Hussein
+Q174791 Mahmud II
+Q42992 Golda Meir
+Q43063 Franz Ferdinand
+Q130834 Francis II, Holy Roman Emperor
+Q51056 Franz Joseph I of Austria
+Q45662 Klemens von Metternich
+Q150543 Alexander Dubček
+Q53783 Enver Hoxha
+Q629702 Leonid Kuchma
+Q9161 Josip Broz Tito
+Q885 Józef Piłsudski
+Q444 Lech Wałęsa
+Q80504 Nicolae Ceaușescu
+Q47139 Slobodan Milošević
+Q36233 Václav Havel
+Q2042 Charles de Gaulle
+Q2038 François Mitterrand
+Q7771 Louis Philippe I
+Q517 Napoleon
+Q7721 Napoleon III
+Q352 Adolf Hitler
+Q2607 Erich Honecker
+Q2514 Willy Brandt
+Q2518 Helmut Kohl
+Q2492 Konrad Adenauer
+Q8442 Otto von Bismarck
+Q41749 Joseph Goebbels
+Q2677 Wilhelm II
+Q150652 Wilhelm I of Germany
+Q989 John Paul II
+Q83171 Alexander II of Russia
+Q34453 Boris Yeltsin
+Q151929 Eduard Shevardnadze
+Q855 Joseph Stalin
+Q765165 Leonid Brezhnev
+Q30487 Mikhail Gorbachev
+Q130734 Nicholas I of Russia
+Q40787 Nicholas II of Russia
+Q35314 Nikita Khrushchev
+Q82006 Benjamin Disraeli
+Q129006 Clement Attlee
+Q9685 Diana, Princess of Wales
+Q9682 Elizabeth II
+Q7416 Margaret Thatcher
+Q9439 Queen Victoria
+Q160852 William Ewart Gladstone
+Q8016 Winston Churchill
+Q12665 Robert Baden-Powell, 1st Baron Baden-Powell
+Q151394 António de Oliveira Salazar
+Q23559 Benito Mussolini
+Q166092 Camillo Benso di Cavour
+Q152306 Carl Gustaf Emil Mannerheim
+Q52927 Charles XIV John of Sweden
+Q1267 Dag Hammarskjöld
+Q29179 Francisco Franco
+Q133009 Gro Harlem Brundtland
+Q19943 Juan Carlos I.
+Q12967 Leopold II of Belgium
+Q319645 Christian Michelsen
+Q539 Giuseppe Garibaldi
+Q153832 Alcide De Gasperi
+Q311440 António Guterres
+Q450675 Francis
+Q10304982 Jair Bolsonaro
+Q3099714 Justin Trudeau
+Q15031 Xi Jinping
+Q3052772 Emmanuel Macron
+Q567 Angela Merkel
+Q1058 Narendra Modi
+Q53844829 Giuseppe Conte
+Q132345 Shinzō Abe
+Q7747 Vladimir Putin
+Q180589 Boris Johnson
+Q22686 Donald Trump
+Q185476 Flavius Aetius
+Q125414 Pompey
+Q2253 Scipio Africanus
+Q483783 Sulla
+Q152428 Eugene of Savoy
+Q154232 Alexander Suvorov
+Q76430 Carl von Clausewitz
+Q34836 Ulysses S Grant
+Q170596 T. E. Lawrence
+Q165557 Robert E. Lee
+Q151414 George Marshall
+Q83235 Horatio Nelson
+Q14060 Erwin Rommel
+Q179910 Võ Nguyên Giáp
+Q131691 Arthur Wellesley, 1st Duke of Wellington
+Q124617 Georgy Zhukov
+Q214473 Steve Biko
+Q202155 Thomas Sankara
+Q34211 Yasser Arafat
+Q36740 Aung San Suu Kyi
+Q1001 Mahatma Gandhi
+Q38823 Ruhollah Khomeini
+Q1317 Osama bin Laden
+Q7226 Joan of Arc
+Q44279 Oliver Cromwell
+Q184623 Georges Danton
+Q1394 Vladimir Lenin
+Q318461 Vasil Levski
+Q9554 Martin Luther
+Q37103 Florence Nightingale
+Q294136 Emilia Plater
+Q80492 Gavrilo Princip
+Q44197 Maximilien Robespierre
+Q83406 Spartacus
+Q30547 Mother Teresa
+Q33391 Leon Trotsky
+Q82457 William Wallace
+Q49086 Simon Wiesenthal
+Q5809 Che Guevara
+Q192278 Pancho Villa
+Q192245 Susan B. Anthony
+Q79969 Emma Goldman
+Q19673 Al Gore
+Q107082 Mary Harris Jones
+Q38203 Helen Keller
+Q8027 Martin Luther King Jr.
+Q41921 Rosa Parks
+Q465335 Elizabeth Cady Stanton
+Q105180 Sojourner Truth
+Q102870 Harriet Tubman
+Q43303 Malcolm X
+Q11826 Al-Biruni
+Q8739 Archimedes
+Q180109 Apollonius of Perga
+Q202001 Archytas
+Q11359 Aryabhata
+Q178217 Diofantos
+Q43182 Eratosthenes
+Q8747 Euclid
+Q185150 Eudoxus of Cnidus
+Q159905 Hipparchus
+Q5264 Hippocrates
+Q11903 Hypatia
+Q211783 Pappus of Alexandria
+Q34943 Ptolemy
+Q10261 Pythagoras
+Q1265657 Su Song
+Q11104 Ibn al-Haytham
+Q213385 Bhāskara II
+Q9038 Al-Khwarizmi
+Q302835 Nasir al-Din al-Tusi
+Q8011 Avicenna
+Q202943 Brahmagupta
+Q8763 Fibonacci
+Q167852 Jabir ibn Hayyan
+Q192706 William Gilbert
+Q169234 Rhazes
+Q470531 Takakazu Seki
+Q36620 Tycho Brahe
+Q619 Nicolaus Copernicus
+Q148109 Subrahmanyan Chandrasekhar
+Q307 Galileo Galilei
+Q47434 Edmund Halley
+Q14277 William Herschel
+Q43027 Edwin Hubble
+Q8963 Johannes Kepler
+Q160187 Ole Rømer
+Q410 Carl Sagan
+Q46830 Robert Hooke
+Q39599 Christiaan Huygens
+Q58720 Mikhail Vassilyevich Lomonosov
+Q935 Isaac Newton
+Q675 André-Marie Ampère
+Q43476 Amedeo Abogado
+Q122986 Johann Jakob Balmer
+Q122701 William Thomson, 1st Baron Kelvin
+Q41269 Henri Becquerel
+Q155794 Hans Bethe
+Q7085 Niels Bohr
+Q84296 Ludwig Boltzmann
+Q58978 Max Born
+Q133747 William Henry Bragg
+Q131733 Henry Cavendish
+Q80884 James Chadwicc
+Q172466 Steven Chu
+Q7186 Marie Curie
+Q37463 Pierre Curie
+Q41284 John Dalton
+Q277579 James Dewar
+Q131721 Johannes Diderik van der Waals
+Q47480 Paul Dirac
+Q937 Albert Einstein
+Q8750 Michael Faraday
+Q8753 Enrico Fermi
+Q39246 Richard Feynman
+Q187966 Léon Foucault
+Q187241 Augustin-Jean Fresnel
+Q17714 Stephen Hawking
+Q40904 Werner Heisenberg
+Q8962 James Prescott Joule
+Q60052 Gustav Kirchhoff
+Q133267 Lev Landau
+Q169577 Ernest Lawrence
+Q41688 Hendrik Lorentz
+Q93996 Ernst Mach
+Q9095 James Clerk Maxwell
+Q56189 Lise Meitner
+Q127234 Albert A. Michelson
+Q130975 Robert A. Millikan
+Q176206 Pieter van Musschenbroek
+Q1585 Georg Simon Ohm
+Q132537 Robert Oppenheimer
+Q65989 Wolfgang Pauli
+Q9021 Max Planck
+Q60429 C. V. Raman
+Q35149 Wilhelm Röentgen
+Q997 Andrei Sakharov
+Q9130 Erwin Schrödinger
+Q77078 Arnold Sommerfeld
+Q699541 Geoffrey Ingram Taylor
+Q6733 Edward Teller
+Q47285 J. J. Thomson
+Q25820 Thomas Young
+Q366471 Yakov Zeldovich
+Q44412 Hans Christian Ørsted
+Q172840 Murray Gell-Mann
+Q333724 Wallace Carothers
+Q536469 George FitzGerald
+Q78520 Victor Francis Hess
+Q184592 Gerard 't Hooft
+Q71023 Alfred Kastler
+Q57063 Philipp Lenard
+Q323267 Osborne Reynolds
+Q311567 Johannes Rydberg
+Q185914 Michael Servetus
+Q16581 Josef Stefan
+Q193655 John Hasbrouck Van Vleck
+Q155790 Eugene Wigner
+Q171034 Robert Wilson
+Q80956 Svante August Arrhenius
+Q151911 Jöns Jacob Berzelius
+Q131761 Humphry Davy
+Q43393 Robert Boyle
+Q103835 Peter Debye
+Q153185 Joseph Louis Gay-Lussac
+Q153243 Josiah Willard Gibbs
+Q57065 Otto Hahn
+Q102822 Jacobus Henricus van 't Hoff
+Q7487 Dorothy Hodgkin
+Q39607 Antoine Laurent de Lavoisier
+Q16571 Justus von Liebig
+Q9106 Dmitri Mendeleev
+Q159636 Joseph Priestley
+Q115490 Tadeusz Reichstein
+Q9123 Ernest Rutherford
+Q102830 Frederick Soddy
+Q48983 Linus Pauling
+Q208858 Gilbert N. Lewis
+Q57075 Fritz Haber
+Q151564 Frederick Sanger
+Q316371 Vladimir Ivanovich Vernadsky
+Q232316 Robert Burns Woodward
+Q76606 Carl Bosch
+Q154824 Norman Borlaug
+Q150526 Santiago Ramón y Cajal
+Q123280 Francis Crick
+Q184366 Thomas Henry Huxley
+Q82122 Jean-Baptiste de Lamarck
+Q43522 Antoni van Leeuwenhoek
+Q1043 Carl Linnaeus
+Q78496 Konrad Lorenz
+Q37970 Gregor Mendel
+Q160627 Alfred Russel Wallace
+Q83333 James D. Watson
+Q208230 Claude Bernard
+Q28738 Casimir Funk
+Q93128 William Harvey
+Q37193 Robert Koch
+Q83428 Paracelsus
+Q529 Louis Pasteur
+Q200101 Jonas Salk
+Q170267 Andreas Vesalius
+Q182882 John James Audubon
+Q229264 Georges-Louis Leclerc, Comte de Buffon
+Q181685 Nicolas Carnot
+Q100948 Rachel Carson
+Q83233 Jacques Cousteau
+Q1035 Charles Darwin
+Q37064 Alexander Fleming
+Q8778 Galen
+Q48246 Ernst Haeckel
+Q40852 Edward Jenner
+Q318960 Richard Leakey
+Q133544 John Logie Baird
+Q949 John Bardeen
+Q76687 Georg Bednorz
+Q34286 Alexander Graham Bell
+Q40224 Carl Benz
+Q71004 Emile Berliner
+Q76766 Gerd Binnig
+Q57384 Wernher von Braun
+Q168468 David Brewster
+Q35820 Wright brothers
+Q335039 Nolan Bushnell
+Q21901 Josephine Cochrane
+Q469938 Christopher Cockerell
+Q131405 Louis Daguerre
+Q983493 Raymond Vahan Damadian
+Q12674 Rudolf Diesel
+Q189147 George Eastman
+Q8743 Thomas Alva Edison
+Q297469 Leo Fender
+Q354863 Lee de Forest
+Q34969 Benjamin Franklin
+Q102289 Buckminster Fuller
+Q192496 Robert Fulton
+Q546175 Gordon Gould
+Q2120396 Wilson Greatbatch
+Q8958 Johannes Gutenberg
+Q360359 Elias Howe
+Q310833 Joseph Marie Jacquard
+Q588120 Robert Jarvik
+Q1373386 Philippe Kahn
+Q28900 John George Kemeny
+Q182031 Jack Kilby
+Q7509 Stephanie L. Kwolek
+Q92862 Jaron Lanier
+Q28978 Ignacy Łukasiewicz
+Q36488 Guglielmo Marconi
+Q719357 Cyrus McCormick
+Q92766 Robert Metcalfe
+Q75698 Samuel Finley Breese Morse
+Q23810 Alfred Nobel
+Q241735 Robert Noyce
+Q150910 Charles Algernon Parsons
+Q908166 Roy J. Plunkett
+Q163415 William Shockley
+Q1373431 Alan Shugart
+Q312011 Isaac Singer
+Q9036 Nikola Tesla
+Q183631 Ernest Walton
+Q9041 James Watt
+Q76707 Wilhelm Eduard Weber
+Q280930 Eli Whitney
+Q162900 Charles Thomson Rees Wilson
+Q122366 Daniel Bernoulli
+Q122392 Jacob Bernoulli
+Q214544 Bonaventura Cavalieri
+Q153232 Jean le Rond d'Alembert
+Q7604 Leonhard Euler
+Q75655 Pierre de Fermat
+Q9047 Gottfried Wilhelm Leibniz
+Q1290 Blaise Pascal
+Q124115 Niels Henrik Abel
+Q157642 Vladimir Arnold
+Q180217 Stefan Banach
+Q207718 Isaac Barrow
+Q134661 George Boole
+Q76420 Georg Cantor
+Q274639 Élie Cartan
+Q8814 Augustin-Louis Cauchy
+Q76556 Richard Dedekind
+Q29193 Johann Peter Gustav Lejeune Dirichlet
+Q61047 Gotthold Eisenstein
+Q216723 Ronald Fisher
+Q8772 Joseph Fourier
+Q7091 Évariste Galois
+Q6722 Carl Friedrich Gauss
+Q77141 Alexander Grothendieck
+Q41390 Kurt Gödel
+Q164425 Jacques Hadamard
+Q11887 William Rowan Hamilton
+Q184337 G.H. Hardy
+Q168401 Charles Hermite
+Q41585 David Hilbert
+Q76564 Carl Gustav Jacob Jacobi
+Q76641 Felix Klein
+Q153224 Andrey Kolmogorov
+Q80222 Joseph-Louis Lagrange
+Q44481 Pierre-Simon Laplace
+Q129199 Nikolai Ivanovich Lobachevsky
+Q101740 Benoit Mandelbrot
+Q164374 Pierre Louis Moreau de Maupertuis
+Q206832 Gaspard Monge
+Q17455 John von Neumann
+Q7099 Emmy Noether
+Q117346 Grigori Perelman
+Q81082 Henri Poincaré
+Q168452 Jean-Victor Poncelet
+Q83163 Srinivasa Ramanujan
+Q42299 Bernhard Riemann
+Q560847 Jim Simons
+Q57103 Karl Weierstraß
+Q71029 Hermann Weyl
+Q314308 John Vincent Atanasoff
+Q46633 Charles Babbage
+Q80 Tim Berners-Lee
+Q92624 Dan Bricklin
+Q92765 Seymour Cray
+Q7637 Ward Cunningham
+Q8556 Edsger W. Dijkstra
+Q92614 Douglas Engelbart
+Q192145 Herman Hollerith
+Q92627 Gary Kildall
+Q17457 Donald Knuth
+Q7259 Ada Lovelace
+Q45575 Dennis M. Ritchie
+Q7439 Richard Stallman
+Q34253 Linus Torvalds
+Q7251 Alan Turing
+Q92604 Niklaus Wirth
+Q483382 Steve Wozniak
+Q60093 Konrad Zuse
+Q236939 Christiane Amanpour
+Q310900 Robert Fisk
+Q471546 John Pilger
+Q3518399 Arun Shourie
+Q766913 Ed Bradley
+Q919527 Tom Brokaw
+Q31073 Walter Cronkite
+Q271324 Hedda Hopper
+Q374610 David McCullough
+Q353935 Edward R. Murrow
+Q173417 Joseph Pulitzer
+Q733027 Dan Rather
+Q1368995 Geraldo Rivera
+Q579324 John Stossel
+Q83807 Ed Sullivan
+Q325487 Mike Wallace
+Q231417 Barbara Walters
+Q3097952 Walter Winchell
+Q312782 Bob Woodward
+Q319351 Roger Bannister
+Q1189 Usain Bolt
+Q52604 Bob Beamon
+Q184556 Sergei Bubka
+Q188502 Sebastian Coe
+Q310989 Dick Fosbury
+Q171500 Haile Gebrselassie
+Q311289 Eric Heiden
+Q232008 Stefka Kostadinova
+Q209390 Jackie Joyner-Kersee
+Q452605 Rafer Johnson
+Q6319 Yelena Isinbayeva
+Q312684 Sawao Katō
+Q131237 Carl Lewis
+Q28947 Kip Keino
+Q345673 Bobby Morrow
+Q52620 Edwin Moses
+Q101942 Paavo Nurmi
+Q52651 Jesse Owens
+Q237276 Lilia Podkopayeva
+Q31083 Wilma Rudolph
+Q231983 Babe Didrikson Zaharias
+Q52589 Emil Zátopek
+Q11485 Jean-Claude Killy
+Q1956 Hermann Maier
+Q9586 Annemarie Moser-Pröll
+Q530 Ingemar Stenmark
+Q10068 Lindsey Vonn
+Q927916 Jim Brown
+Q44473 O. J. Simpson
+Q505423 Jerry Rice
+Q716029 Johnny Unitas
+Q1390341 Lin Dan
+Q363540 Peter Gade
+Q179051 lew alcindor
+Q435891 Sergei Belov
+Q190152 Larry Bird
+Q182455 Wilt Chamberlain
+Q193020 Tim Duncan
+Q134183 Magic Johnson
+Q41421 Michael Jordan
+Q209982 Dražen Petrović
+Q242185 Bill Russell
+Q297750 Arvydas Sabonis
+Q215777 Hank Aaron
+Q552828 Ty Cobb
+Q357444 Lou Gehrig
+Q561852 Willie Mays
+Q221048 Jackie Robinson
+Q213812 Babe Ruth
+Q189408 Ole Einar Bjørndalen
+Q221001 Jacques Anquetil
+Q155010 Gino Bartali
+Q219912 Fausto Coppi
+Q109255 Bernard Hinault
+Q105542 Miguel Induráin
+Q103756 Eddy Merckx
+Q36107 Muhammad Ali
+Q734339 Henry Armstrong
+Q313686 Jack Dempsey
+Q188362 Rocky Marciano
+Q273206 Joe Louis
+Q335872 Ingemar Johansson
+Q316706 Sugar Ray Robinson
+Q335798 Sugar Ray Leonard
+Q41314 Bobby Fischer
+Q28614 Garry Kasparov
+Q313591 Don Bradman
+Q616068 W. G. Grace
+Q9488 Sachin
+Q467676 Reiner Klimke
+Q271360 Luciana Aymarr
+Q381138 Dhyan Chand
+Q2159796 Robin Cousins
+Q729950 Scott Hamilton
+Q204205 Sonja Henie
+Q235254 Michelle Kwan
+Q232999 Tara Lipinski
+Q28943 Axel Paulsen
+Q233812 Irina Rodnina
+Q365626 Ben Hogan
+Q437526 Bobby Jones
+Q9424 Jack Nicklaus
+Q9434 Arnold Palmer
+Q469721 Gary Player
+Q232711 Annika Sörenstam
+Q950128 Lee Trevino
+Q10993 Tiger Woods
+Q33228 Nadia Comăneci
+Q221575 Olga Korbut
+Q22102 Larisa Latynina
+Q314032 Li Ning
+Q299095 Vitaly Scherbo
+Q231516 Ludmilla Tourischeva
+Q209518 Wayne Gretzky
+Q380267 Valeri Kharlamov
+Q358519 Gordie Howe
+Q456688 Bobby Hull
+Q316249 Mario Lemieux
+Q505412 Sergei Makarov
+Q348017 Bobby Orr
+Q325138 Maurice Richard
+Q316864 Vladislav Tretiak
+Q171312 Mario Andretti
+Q2069 Juan Manuel Fangio
+Q10494 Alain Prost
+Q9671 Michael Schumacher
+Q10490 Ayrton Senna
+Q3188 Jackie Stewart
+Q217505 Bjørn Dæhlie
+Q16849 Matti Nykänen
+Q449073 Ben Ainslie
+Q50893 Paul Elvstrøm
+Q4457 Franz Beckenbauer
+Q10520 David Beckham
+Q68060 Gianluigi Buffon
+Q11584 Iker Casillas
+Q171583 Bobby Charlton
+Q17163 Johan Cruyff
+Q164546 Alfredo Di Stéfano
+Q162043 Eusébio
+Q44980 Alex Ferguson
+Q180642 Garrincha
+Q222086 Mia Hamm
+Q17515 Diego Maradona
+Q615 Lionel Messi
+Q43744 Gerd Müller
+Q4261 Michel Platini
+Q482931 Ferenc Puskás
+Q529207 Ronaldo
+Q11571 Cristiano Ronaldo
+Q12897 Pelé
+Q483629 Marco van Basten
+Q167828 Lev Yashin
+Q1835 Zinedine Zidane
+Q231513 Bonnie Blair
+Q318403 Johann Olav Koss
+Q221482 Jim Thorpe
+Q180748 Mark Spitz
+Q39562 Michael Phelps
+Q311332 Greg Louganis
+Q345360 Jan-Ove Waldner
+Q310526 Ivano Balić
+Q265646 Anja Andersen
+Q7407 Andre Agassi
+Q104506 Björn Borg
+Q202342 Margaret Court
+Q14286 Chris Evert
+Q1426 Roger Federer
+Q53554 Ricardo Alonso González
+Q11662 Steffi Graf
+Q54527 Billie Jean King
+Q105550 Rod Laver
+Q232831 Suzanne Lenglen
+Q16474 John McEnroe
+Q10132 Rafael Nadal
+Q54545 Martina Navratilova
+Q9446 Pete Sampras
+Q54684 Bill Tilden
+Q11459 Serena Williams
+Q472336 Karch Kiraly
+Q483437 Sepp Blatter
+Q82984 Pierre de Coubertin
+Q171166 Juan Antonio Samaranch
+Q41746 Achilles
+Q82732 Aeneas
+Q128176 Agamemnon
+Q161582 Andromeda
+Q165510 Argonauts
+Q45792 King Arthur
+Q130818 Atlas
+Q48328 Beowulf
+Q190103 Castor and Pollux
+Q128430 cyclops
+Q83496 Cerberus
+Q29372 Grendel
+Q11829 Hansel and Gretel
+Q122248 Heracles
+Q176758 Jason
+Q131651 Elektra
+Q165170 Europa
+Q131588 Ganymede
+Q164061 Helen of Troy
+Q174278 Medea
+Q160730 Medusa
+Q47231 Odysseus
+Q130890 Oedipus
+Q201261 Orion
+Q130832 Perseus
+Q107190 Peter Pan
+Q207535 Roland
+Q151480 sphinx
+Q150986 siren
+Q2695156 Batman
+Q11934 Mickey Mouse
+Q11831 Snow White
+Q79015 Superman
+Q744536 The Adventures of Tintin
+Q187002 Baba Yaga
+Q315796 Santa Claus
+Q15605357 Aladdin
+Q844 James Bond
+Q973053 The Cat in the Hat
+Q3266236 Count Dracula
+Q4653 Sherlock Holmes
+Q170241 Tarzan
+Q140527 The Three Musketeers
+Q188784 superhero

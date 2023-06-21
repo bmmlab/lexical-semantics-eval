@@ -1,0 +1,1098 @@
+Q420 biology
+Q441 botany
+Q431 zoology
+Q11398 biological classification
+Q3516404 systematics
+Q7432 species
+Q34740 genus
+Q35409 family
+Q36602 order
+Q37517 class
+Q38348 phylum
+Q36732 kingdom
+Q146481 domain
+Q1063 evolution
+Q43478 natural selection
+Q7162 genetics
+Q7430 DNA
+Q11053 RNA
+Q7187 gene
+Q178694 heredity
+Q3 life
+Q4 death
+Q231218 abiogenesis
+Q7193 microbiology
+Q7175 mycology
+Q483921 adaptation
+Q486420 genetic drift
+Q42918 mutation
+Q7205 paleontology
+Q171184 phylogenetics
+Q514 anatomy
+Q196113 camouflage
+Q7868 cell
+Q11078 endocrine system
+Q1059 immune system
+Q712378 organ
+Q40397 tissue
+Q9655 artery
+Q7873 blood
+Q11068 circulatory system
+Q1072 heart
+Q37187 red blood cell
+Q9609 vein
+Q42395 white blood cell
+Q9649 digestive system
+Q5982337 colon
+Q11090 small intestine
+Q9368 liver
+Q11083 large intestine
+Q9635 mouth
+Q561 human tooth
+Q9618 pancreas
+Q1029907 stomach
+Q483213 integumentary system
+Q9103 breast
+Q1074 skin
+Q81025 feather
+Q197204 fur
+Q28472 hair
+Q36864 nail
+Q188488 scale
+Q7060553 muscular system
+Q428914 myocyte
+Q1048687 skeletal muscle
+Q9404 nervous system
+Q1073 brain
+Q9620 nerve
+Q11101 sensory system
+Q821413 auditory system
+Q7362 ear
+Q1147588 gustatory system
+Q1054094 olfactory system
+Q7363 nose
+Q328835 somatosensory system
+Q558363 visual system
+Q7364 eye
+Q83500 intelligence
+Q160289 hearing
+Q124794 taste
+Q1541064 smell
+Q81938 pain
+Q162668 visual perception
+Q7895 reproductive system
+Q58 penis
+Q5880 vagina
+Q4620674 sex organ
+Q873072 clitoris
+Q9631 ovary
+Q9384 testicle
+Q7891 respiratory system
+Q7886 lung
+Q132390 gill
+Q7881 skeleton
+Q265868 bone
+Q9645 thorax
+Q713102 pelvis
+Q13147 skull
+Q482853 vertebral column
+Q9644 joint
+Q41301 epithelium
+Q25615 connective tissue
+Q7365 muscle organ
+Q203850 nervous tissue
+Q9377 kidney
+Q9382 urinary bladder
+Q1056194 plant cell
+Q128700 cell wall
+Q184453 bark
+Q13184 berry
+Q506 flower
+Q79932 pollen
+Q1364 fruit
+Q33971 leaf
+Q41500 root
+Q40763 seed
+Q216635 stoma
+Q190903 herbaceous plant
+Q14079 liana
+Q42295 shrub
+Q10884 tree
+Q134267 plant stem
+Q193472 trunk
+Q287 wood
+Q796482 epidermis
+Q375601 sclerenchyma
+Q207604 meristem
+Q968604 vascular tissue
+Q369429 vascular cambium
+Q193129 hypha
+Q326228 mycelium
+Q306540 Amylase alpha 1C
+Q206229 biomolecule
+Q910979 biological pigment
+Q191907 carotenoid
+Q43177 chlorophyll
+Q187526 melanin
+Q11358 carbohydrate
+Q80294 cellulose
+Q41534 starch
+Q11002 sugar
+Q127980 fat
+Q61476 fatty acid
+Q11367 lipid
+Q8054 protein
+Q8047 enzyme
+Q43041 hemoglobin
+Q8066 amino acid
+Q11364 hormone
+Q277954 estrogen
+Q1318776 testosterone
+Q70702 alkaloid
+Q127900 β-lactose
+Q161219 chitin
+Q174936 glycogen
+Q43656 cholesterol
+Q7202 molecular biology
+Q123619 nucleic acids
+Q132621 epinephrine
+Q192949 plant hormone
+Q9530 breathing
+Q103191 homeostasis
+Q1057 metabolism
+Q185557 excretion
+Q472287 respiration
+Q11990 reproduction
+Q2347178 development of the human body
+Q213713 developmental biology
+Q173432 asexual reproduction
+Q182353 sexual reproduction
+Q11995 human pregnancy
+Q290 sex
+Q43445 female organism
+Q44148 male organism
+Q12171 menstruation in humans
+Q83864 menstrual cycle
+Q177708 menopause
+Q9715 semen
+Q193603 ontogeny
+Q1146493 plant cuticle
+Q17147 egg
+Q33196 embryo
+Q26513 human fetus
+Q207254 imago
+Q129270 larva
+Q1066907 longevity
+Q33753 metamorphosis
+Q245998 microbial cyst
+Q381084 moulting
+Q258362 nymph
+Q101065 puberty
+Q170595 pupa
+Q177332 spore
+Q168525 tadpole
+Q2725616 plant reproduction
+Q189951 gametophyte
+Q134624 pollination
+Q725951 alternation of generations
+Q647173 sporophyte
+Q11978 digestion
+Q11982 photosynthesis
+Q167980 transpiration
+Q47041 biodiversity
+Q1823478 mutualism
+Q45767 competition
+Q59099 herbivore
+Q186517 parasitism
+Q170430 predation
+Q101998 biome
+Q159462 food chain
+Q52105 habitat
+Q183368 invasive species
+Q172861 ecological niche
+Q7150 ecology
+Q37813 ecosystem
+Q11394 Endangered
+Q123509 extinction
+Q206912 extremophiles
+Q2625603 population
+Q1053008 trophic level
+Q7239 organism
+Q729 animal
+Q1360 Arthropoda
+Q1359 Chelicerata
+Q10915 Chordata
+Q26214 Gnathostomata
+Q105146 Hexapoda
+Q43806 Invertebrata
+Q5185 Nematoda
+Q19159 Tetrapoda
+Q25241 Vertebrata
+Q19137 Acari
+Q1358 Arachnida
+Q19116 Opiliones
+Q19119 pseudoscorpion
+Q19125 scorpion
+Q19126 Solifugae
+Q1357 Araneae
+Q213383 Theraphosidae
+Q25364 Crustacea
+Q193418 Amphipoda
+Q188360 Branchiopoda
+Q40802 Brachyura
+Q4610 Decapoda
+Q29498 Euphausiacea
+Q1038113 Nephropidae
+Q182978 Malacostraca
+Q1390 insect
+Q184616 Trichoptera
+Q13676 Dermaptera
+Q388162 Siphonaptera
+Q6481228 louse
+Q131250 Mantodea
+Q205301 Mecoptera
+Q156438 Neuroptera
+Q231439 Myrmeleontidae
+Q188029 Phasmatodea
+Q203547 Plecoptera
+Q271623 Psocoptera
+Q327144 Strepsiptera
+Q185628 thrips
+Q22671 Coleoptera
+Q7415384 Curculionidae
+Q25327 Coccinellidae
+Q25420 Lampyridae
+Q27046 Carabidae
+Q193407 leaf beetle
+Q156954 Colorado potato beetle
+Q205295 Cerambycidae
+Q186946 Scarabaeidae
+Q25309 Blattodea
+Q546583 termite
+Q25312 Diptera
+Q130888 Drosophila melanogaster
+Q228241 Tabanidae
+Q166111 housefly
+Q7367 Culicidae
+Q205256 Tsetse fly
+Q26371 Hemiptera
+Q130778 Cicadidae
+Q27191 Heteroptera
+Q940337 Cimex lectularius
+Q270322 Gerridae
+Q183350 aphid
+Q22651 Hymenoptera
+Q7386 Formicidae
+Q7391 Anthophila
+Q25407 Bombus
+Q30034 Apis mellifera
+Q9458574 wasp
+Q28319 Lepidoptera
+Q11946202 butterfly
+Q59905 Papilionidae
+Q158717 Lycaenidae
+Q156449 Nymphalidae
+Q41559 Pieridae
+Q26764 Pieris brassicae
+Q232936 Hesperiidae
+Q1725788 moth
+Q134747 Bombyx mori
+Q45559 Geometridae
+Q157683 Sphingidae
+Q25375 Odonata
+Q230502 Zygoptera
+Q80066 Anisoptera
+Q167810 Orthoptera
+Q47328 Gryllidae
+Q83902 Caelifera
+Q199765 Gryllotalpidae
+Q727919 Tettigoniidae
+Q25441 Cnidaria
+Q171446 coral
+Q30178 jellyfish
+Q25326 Mollusca
+Q25368 Bivalvia
+Q40152 Octopoda
+Q81900 Teuthida
+Q1953597 slug
+Q308841 snail
+Q190701 Springtail
+Q25823 Myriapoda
+Q43447 centipede
+Q167367 Diplopoda
+Q19106 Pycnogonida
+Q10908 Amphibia
+Q4758 Caecilian
+Q53636 Anura
+Q53663 Caudata
+Q6408 Ranidae
+Q5113 bird
+Q100196 Archaeopteryx
+Q21695 Podicipedidae
+Q41994 Phoenicopterus
+Q43624 Trochilidae
+Q180691 mousebird
+Q9147 Spheniscidae
+Q179983 Pteroclidae
+Q19172 Tinamidae
+Q17189371 Phaethontidae
+Q188737 Accipiter
+Q2092297 eagle
+Q43489 Falco
+Q184858 New World vulture
+Q25332 Osprey
+Q168748 Secretarybird
+Q7556 Anatidae
+Q3736439 duck
+Q82562 Anserini
+Q34384 swan
+Q26617 Apodidae
+Q26125 Caprimulgiformes
+Q27244 Caprimulgidae
+Q25978 Charadriiformes
+Q28294 Alcidae
+Q205320 Buttonquail
+Q27589 Laridae
+Q26626 Scolopacidae
+Q205323 Stercorariidae
+Q875769 Sternidae
+Q18789 Ardeidae
+Q193833 ibis
+Q18700 Shoebill
+Q208488 Platalea
+Q28507 Ciconiidae
+Q43502 Raphus cucullatus
+Q10856 Columbidae
+Q191968 Passenger Pigeon
+Q183147 Meropidae
+Q26773 Hornbill
+Q25247 Eurasian Hoopoe
+Q26381 Cuculidae
+Q188660 Hoatzin
+Q213827 Turaco
+Q21659 Galliformes
+Q780 chicken
+Q201240 Tetraoninae
+Q171953 Numididae
+Q25432 Common Pheasant
+Q28358 Common Quail
+Q43794 Meleagris
+Q25557 Gruiformes
+Q25365 Gruidae
+Q21755 Otididae
+Q26623 Rallidae
+Q25341 Passeriformes
+Q194240 Passeri
+Q179333 birds-of-paradise
+Q25565 Corvidae
+Q43365 Corvus
+Q25307 Common Magpie
+Q171052 Laniidae
+Q188854 Pycnonotidae
+Q28486 Emberizidae
+Q160835 Fringillidae
+Q29858 Lark
+Q205943 Motacillidae
+Q200989 Muscicapidae
+Q25334 European Robin
+Q25393 common nightingale
+Q205857 Sittidae
+Q28922 Passeridae
+Q185237 Sturnidae
+Q208221 sunbird
+Q39861 Hirundinidae
+Q168473 tit
+Q26050 thrush
+Q208304 Troglodytidae
+Q19401 Phalacrocorax
+Q208492 Sulidae
+Q203472 Fregata
+Q19413 Pelecanus
+Q25934 Piciformes
+Q214137 Indicatoridae
+Q1325045 toucan
+Q25439 Picidae
+Q55805 albatross
+Q207767 Procellariidae
+Q193404 Storm petrel
+Q31431 Psittaciformes
+Q121221 Budgerigar
+Q31448 Cacatuidae
+Q201231 Casuarius
+Q93208 Emu
+Q43642 Apteryx
+Q452969 Dinornithiformes
+Q17592 common ostrich
+Q19171 Rhea
+Q25222 Strigiformes
+Q26012 Strigidae
+Q130933 Eurasian Eagle-owl
+Q129958 Little Owl
+Q27112 Tytonidae
+Q191469 trogon
+Q152 fish
+Q25371 Chondrichthyes
+Q130955 Acanthodii
+Q27207 Osteichthyes
+Q127282 Actinopterygii
+Q160830 Sarcopterygii
+Q130932 Placodermi
+Q201235 Electrophorus electricus
+Q206948 Lophiiformes
+Q42237 Mugilidae
+Q234014 flathead mullet
+Q145409 Arapaima gigas
+Q6495741 Batoidea
+Q190736 Pristidae
+Q41317 electric ray
+Q217458 Characiformes
+Q185215 piranha
+Q181871 sturgeon
+Q193389 Clupeiformes
+Q192662 Engraulidae
+Q27141 Clupeidae
+Q177879 Cypriniformes
+Q35047 Cyprinidae
+Q144534 common bream
+Q237800 Carassius
+Q81110 Common carp
+Q123141 goldfish
+Q76098 Grass Carp
+Q76280 tench
+Q178202 Poecilia reticulata
+Q128685 Anguilliformes
+Q216241 Gadiformes
+Q144700 Burbot
+Q202406 haddock
+Q127595 Perciformes
+Q3406 Cichlidae
+Q4468 Gobiidae
+Q217129 European seabass
+Q164327 swordfish
+Q239771 Echeneidae
+Q215185 Scombridae
+Q2346039 Thunnus
+Q59577 Pleuronectiformes
+Q217329 turbot
+Q184238 Salmonidae
+Q2258881 trout
+Q208777 Scorpaeniformes
+Q7372 shark
+Q129026 great white shark
+Q208490 Sphyrnidae
+Q188212 Galeocerdo cuvier
+Q80378 whale shark
+Q59576 Siluriformes
+Q159323 Wels catfish
+Q74363 Hippocampus
+Q201701 Tetraodontidae
+Q430 dinosaur
+Q14400 Allosaurus
+Q40621 Ankylosaurus
+Q14326 Apatosaurus
+Q14397 Brachiosaurus
+Q14330 Diplodocus
+Q14388 Stegosaurus
+Q14384 Triceratops
+Q14332 Tyrannosaurus
+Q14403 Velociraptor
+Q7377 mammal
+Q46212 aardvark
+Q47867 armadillo
+Q183383 Dermoptera
+Q25397 Manis
+Q231550 Scandentia
+Q28425 Chiroptera
+Q185230 Pteropodidae
+Q971343 Microchiroptera
+Q190691 vampire bat
+Q25306 Carnivora
+Q11788 Ursidae
+Q36341 Brown Bear
+Q33602 Ailuropoda melanoleuca
+Q33609 polar bear
+Q25324 Canidae
+Q144 dog
+Q8331 fox
+Q44299 coyote
+Q18498 Grey Wolf
+Q125525 jackal
+Q25265 Felidae
+Q146 house cat
+Q23907 cheetah
+Q35255 cougar
+Q35694 jaguar
+Q34706 leopard
+Q140 lion
+Q677014 Lynx
+Q19939 tiger
+Q42046 Hyaena
+Q80479 Herpestidae
+Q25437 Mustelidae
+Q147114 Procyonidae
+Q83244 Mephitidae
+Q185864 Viverridae
+Q160 Cetacea
+Q382441 marine mammal
+Q1865281 whale
+Q42196 Balaenoptera musculus
+Q215760 Delphinidae
+Q26843 orca
+Q132905 humpback whale
+Q10867 porpoise
+Q81214 Physeter macrocephalus
+Q28257 Erinaceidae
+Q6120 hedgehog
+Q25329 Artiodactyla
+Q192164 Ruminantia
+Q25497 Bovidae
+Q160042 African buffalo
+Q82728 Bison bison
+Q25894 antelope
+Q172923 Capra
+Q830 cattle
+Q190858 Gazella
+Q174296 Bos gaurus
+Q2934 goat
+Q132576 impala
+Q184004 Ovibos moschatus
+Q7368 sheep
+Q42710 water buffalo
+Q7609 wildebeest
+Q81091 Bison bonasus
+Q26547 Bos mutus
+Q7375 Camelus
+Q132922 Bactrian camel
+Q71516 dromedary
+Q23390 deer
+Q180404 Cervus canadensis
+Q35517 Alces alces
+Q79794 Red Deer
+Q39624 Rangifer tarandus
+Q42569 Lama glama
+Q15083 giraffe
+Q172886 Lama guanicoe
+Q34505 hippopotamus
+Q232866 Tayassuidae
+Q10798 Sus
+Q58697 Sus scrofa
+Q787 pig
+Q187943 Antilocapra americana
+Q167797 Vicugna vicugna
+Q25401 Lagomorpha
+Q46076 Lepus
+Q184067 Ochotona
+Q9394 rabbit
+Q25336 marsupial
+Q26332 Diprotodontia
+Q5070208 kangaroo
+Q36101 koala
+Q213333 Dasyuromorphia
+Q134964 Tasmanian devil
+Q21790 monotreme
+Q21824 Tachyglossidae
+Q15343 platypus
+Q25374 Odd-toed ungulate
+Q19707 Equus africanus asinus
+Q165115 Equidae
+Q726 horse
+Q34718 rhinoceros
+Q128001 Tapirus
+Q32789 zebra
+Q2274076 sloth
+Q30263 Pinnipedia
+Q26700 Otariidae
+Q25587 Phocidae
+Q40994 Odobenus rosmarus
+Q7380 primate
+Q1367 monkey
+Q102470 Hominoidea
+Q80174 Pan
+Q185939 gibbon
+Q36611 Gorilla
+Q41050 Orangutan
+Q5 human
+Q182968 Cercopithecidae
+Q159429 Papio
+Q177601 Macaca
+Q82265 Strepsirrhini
+Q185239 Galagidae
+Q37212 Lemuriformes
+Q60205 Tarsius
+Q26308 Proboscidea
+Q2372824 Elephantidae
+Q25431 Sirenia
+Q2388549 Procaviidae
+Q328082 Afrosoricida
+Q9324400 Macroscelididae
+Q2895685 Orycteropodidae
+Q10850 Rodentia
+Q131538 Hydrochoerus hydrochaeris
+Q187704 Myocastor coypus
+Q47542 beaver
+Q273071 Dipodidae
+Q108235 Gliridae
+Q79803 Cavia porcellus
+Q6573 Cricetinae
+Q131567 Marmota
+Q39275 Mus
+Q25916 Muridae
+Q26283 muskrat
+Q36396 rats
+Q9482 squirrel
+Q199251 Spermophilus
+Q41631 Soricidae
+Q104825 Talpidae
+Q10811 Reptilia
+Q530397 Alligator
+Q15879 Lacertilia
+Q37686 Chamaeleonidae
+Q4504 Varanus komodoensis
+Q207058 Gila monster
+Q2102 snake
+Q192056 adder
+Q45556 Boidae
+Q220475 Naja
+Q460286 Hydrophiinae
+Q223044 turtle
+Q486672 Chelonoidis niger
+Q219329 Sea turtle
+Q199458 Chelonia mydas
+Q120043 leatherback sea turtle
+Q192095 loggerhead sea turtle
+Q46360 Testudinidae
+Q163283 tuatara
+Q130869 Dimetrodon
+Q161095 Agnatha
+Q75713 hagfish
+Q756 plant
+Q80005 fern
+Q189808 liverwort
+Q25347 moss
+Q28114 Equisetum
+Q25314 angiosperms
+Q157211 Geranium
+Q5194627 Lilium
+Q145777 Convolvulaceae
+Q26229 Asparagales
+Q155874 Agave
+Q127134 Aloe
+Q156207 Gladiolus
+Q155941 Iridaceae
+Q101711 Convallaria majalis
+Q29465 Narcissus
+Q25308 Orchidaceae
+Q156317 Yucca
+Q27341 Alismatales
+Q48227 Araceae
+Q239835 Anthurium
+Q21737 Ericales
+Q975872 Ericaceae
+Q189393 Rhododendron
+Q156574 Theaceae
+Q212815 Camellia
+Q157115 Primulaceae
+Q21730 Asterales
+Q25400 Asteraceae
+Q59882 Chrysanthemum
+Q130918 Dahlia
+Q26158 Bellis perennis
+Q30024 Taraxacum
+Q171497 Helianthus annuus
+Q147552 Tagetes
+Q155802 Campanulaceae
+Q21754 Gentianales
+Q173756 Apocynaceae
+Q21904 Brassicales
+Q8314 Cucurbitaceae
+Q28502 Poales
+Q43238 Poaceae
+Q35922 Bambuseae
+Q21895 Rosales
+Q46299 Rosaceae
+Q39918 Prunus dulcis
+Q34687 Rosa
+Q156311 Ulmaceae
+Q131113 Ulmus
+Q21742 Lamiales
+Q53476 Lamiaceae
+Q155966 Oleaceae
+Q128887 Fraxinus
+Q157151 Salvia
+Q21887 Malpighiales
+Q156584 Euphorbiaceae
+Q208253 Euphorbia pulcherrima
+Q146095 Viola
+Q156551 Malvaceae
+Q157991 Adansonia
+Q21866 Myrtales
+Q156563 Myrtaceae
+Q45669 Eucalyptus
+Q21881 Fagales
+Q156064 Betulaceae
+Q25239 Alnus
+Q25243 Betula
+Q145889 Corylus
+Q158513 Carpinus
+Q145977 Fagaceae
+Q129324 Castanea
+Q25403 Fagus
+Q12004 Quercus
+Q216944 Juglandaceae
+Q26316 Sapindales
+Q34007 Anacardium occidentale
+Q14080 Arecaceae
+Q13187 Cocos nucifera
+Q207427 Nelumbo
+Q163025 Platanus
+Q159545 Cornus
+Q21878 Fabales
+Q44448 Fabaceae
+Q156579 Moraceae
+Q128550 Cedrus
+Q146911 Cupressus
+Q25350 Abies
+Q25662 Juniperus
+Q12024 Pinus
+Q26782 Picea
+Q89 apple
+Q37453 Prunus armeniaca
+Q37153 palta
+Q503 banana
+Q13180 Rubus subg. Rubus
+Q14677 Artocarpus altilis
+Q196 cherry
+Q81513 Citrus
+Q5122903 Kumquat
+Q500 Citrus ×limon
+Q13195 lime
+Q13191 orange
+Q36146 Ficus carica
+Q23425 Cucumis sativus
+Q13181 Vaccinium subg. Oxycoccus
+Q146661 Ribes rubrum
+Q146604 Ribes nigrum
+Q25292 Phoenix dactylifera
+Q7540 eggplant
+Q10978 grape
+Q320179 Psidium
+Q45757 Artocarpus heterophyllus
+Q13194 kiwifruit
+Q13182 Litchi chinensis
+Q169 mango
+Q44789 Morus
+Q37083 Olea europaea
+Q34887 Carica papaya
+Q13189 peach
+Q434 Pyrus
+Q1493 Ananas comosus
+Q13188 Punica granatum
+Q13158 Fragaria × ananassa
+Q38645 watermelon
+Q165437 beet
+Q157954 chard
+Q1807269 leek
+Q193498 onion
+Q81 carrot
+Q28298 celery
+Q132624 Cuminum cyminum
+Q23041430 globe artichoke
+Q2544599 Cichorium intybus
+Q178547 Cichorium endivia
+Q83193 lettuce
+Q156884 Rocket
+Q35051 white cabbage
+Q7537 Brassica oleracea var. botrytis
+Q47722 broccoli
+Q147202 kohlrabi
+Q7224565 Raphanus sativus
+Q158464 rutabaga
+Q3916957 turnip
+Q165199 chili pepper
+Q10998 potato
+Q23501 tomato
+Q145909 legume
+Q25237 pea
+Q379813 bean
+Q131342 broad bean
+Q11006 Glycine max
+Q42339 Phaseolus vulgaris
+Q37383 peanut
+Q28367 Asparagus officinalis
+Q83124 Manihot esculenta
+Q80531 Abelmoschus esculentus
+Q158015 Portulaca oleracea
+Q26297 Rumex acetosa
+Q37937 sweet potato
+Q11577 Hordeum vulgare
+Q11575 Zea mays
+Q12104 Avena sativa
+Q5090 rice
+Q12111 Sorghum
+Q15645384 wheat
+Q158767 Triticum spelta
+Q259438 millet
+Q12099 Secale cereale
+Q132734 Fagopyrum esculentum
+Q156344 Amaranthus
+Q139925 Chenopodium quinoa
+Q764 fungus
+Q83093 mushroom
+Q174726 Ascomycota
+Q174698 Basidiomycota
+Q215384 Zygomycota
+Q390456 Agaricus
+Q19740 Boletus edulis
+Q188749 Cantharellus cibarius
+Q186451 Pleurotus ostreatus
+Q320999 Lentinula edodes
+Q2690965 truffle
+Q131227 Amanita muscaria
+Q188643 Amanita phalloides
+Q19088 eukaryote
+Q10872 Archaea
+Q10876 bacteria
+Q25419 Escherichia coli
+Q10892 protist
+Q47051 prion
+Q808 virus
+Q15787 HIV
+Q37868 algae
+Q25367 plankton
+Q184138 Arabian horse
+Q489798 Andalusian horse
+Q620656 Appaloosa
+Q844058 Clydesdale horse
+Q388952 Friesian horse
+Q635926 Hackney horse
+Q217671 Lipizzaner
+Q1759281 Morgan horse
+Q1996502 palomino
+Q466602 American Quarter Horse
+Q467024 Standardbred
+Q210826 Thoroughbred
+Q188828 pony
+Q42604 Siamese
+Q42675 Manx
+Q897314 Brahman cattle
+Q737173 Hereford
+Q58903 Highland cattle
+Q58910 Holstein
+Q21102 beagle
+Q653 Chihuahua
+Q29099 Dachshund
+Q17504 Dalmatian
+Q5414 Great Dane
+Q38571 greyhound
+Q39017 retriever
+Q38280 German Shepherd dog
+Q39357 Shih Tzu
+Q38984 Terrier
+Q12147 health
+Q309252 physical fitness
+Q131191 body mass index
+Q219067 physical exercise
+Q162297 hygiene
+Q12174 obesity
+Q718113 weight loss
+Q123414 stress
+Q10737 suicide
+Q474191 diet
+Q645858 dietary supplement
+Q12167 malnutrition
+Q3184856 substance abuse
+Q12029 addiction
+Q15326 alcoholism
+Q182413 non-controlled substance abuse
+Q8386 drug
+Q79817 Cannabis
+Q1566 tobacco
+Q46452 opium
+Q317309 mental health
+Q332154 aging
+Q165947 hunger
+Q662860 smoking
+Q11190 medicine
+Q31207 health care
+Q39631 physician
+Q6500773 general practitioner
+Q121176 nursing
+Q774306 surgeon
+Q183605 blood transfusion
+Q159557 coma
+Q139720 persistent vegetative state
+Q12131 disability
+Q38404 autism
+Q10874 blindness
+Q133696 color blindness
+Q12133 deafness
+Q47715 Down syndrome
+Q183560 intellectual disability
+Q16917 hospital
+Q193078 injury
+Q68833 bone fracture
+Q574491 bruise
+Q170518 burn
+Q1350326 frostbite
+Q184753 wound
+Q68854 snakebite
+Q131130 anesthesia
+Q974135 chemotherapy
+Q177719 medical diagnosis
+Q105196 transplantation
+Q29483 palliative care
+Q180507 radiation therapy
+Q40821 surgery
+Q1353169 artificial organ
+Q12184 pandemic
+Q835153 physical examination
+Q41482 autopsy
+Q179991 biopsy
+Q82642 blood pressure
+Q886837 blood test
+Q476697 DNA profiling
+Q79785 electrocardiography
+Q212809 endoscopy
+Q796207 eye examination
+Q719444 lumbar puncture
+Q161238 magnetic-resonance imaging
+Q942976 Pap test
+Q191733 pulse
+Q77604 radiology
+Q179405 reflex
+Q842424 urinalysis
+Q40867 poison
+Q184651 toxin
+Q189389 aneurysm
+Q720026 brain damage
+Q166019 bleeding
+Q202837 cardiac arrest
+Q105688 hypoxia
+Q101991 inflammation
+Q12152 myocardial infarction
+Q767485 respiratory failure
+Q178061 shock
+Q12202 stroke
+Q179630 syndrome
+Q169872 symptom
+Q86 headache
+Q192995 vaccination
+Q134808 vaccine
+Q188504 alternative medicine
+Q81058 homeopathy
+Q539690 angiology
+Q10379 cardiology
+Q12128 dentistry
+Q133772 dental caries
+Q907359 dental restoration
+Q848390 root canal
+Q143925 toothache
+Q171171 dermatology
+Q842811 dietitian
+Q120569 gastroenterology
+Q10384 geriatrics
+Q103824 hematology
+Q101929 immunology
+Q83042 neurology
+Q80015 obstetrics and gynaecology
+Q162555 oncology
+Q161437 ophthalmology
+Q189553 otolaryngology
+Q123028 pediatrics
+Q614304 pharmacy
+Q35456 essential medicine
+Q12140 medication
+Q105186 pharmacist
+Q128406 pharmacology
+Q323936 pharmacokinetics
+Q12187 antibiotic
+Q12190 penicillin
+Q1142055 management of HIV/AIDS
+Q7867 psychiatry
+Q203337 pulmonology
+Q1981388 reproductive health
+Q7218 toxicology
+Q771035 traditional medicine
+Q376680 traumatology
+Q105650 urology
+Q170201 veterinary medicine
+Q12136 disease
+Q42982 allergy
+Q11081 Alzheimer's disease
+Q35869 asthma
+Q173022 bronchitis
+Q147778 liver cirrhosis
+Q199804 chronic obstructive pulmonary disease
+Q83030 dementia
+Q12206 diabetes
+Q41571 epilepsy
+Q156103 gastroenteritis
+Q11085 Parkinson's disease
+Q389735 cardiovascular disease
+Q131742 hepatitis
+Q41861 arterial hypertension
+Q48143 meningitis
+Q8277 multiple sclerosis
+Q12078 cancer
+Q128581 breast cancer
+Q188874 colorectal cancer
+Q29496 leukemia
+Q47912 lung cancer
+Q208414 lymphoma
+Q181257 prostate cancer
+Q192102 skin cancer
+Q180614 melanoma
+Q133212 tumor
+Q233309 brain tumor
+Q272002 foodborne illness
+Q154865 botulism
+Q852186 mushroom poisoning
+Q83319 typhoid fever
+Q326648 salmonellosis
+Q18123741 infectious disease
+Q170065 pathogen
+Q12198 sexually transmitted infection
+Q12199 HIV/AIDS
+Q101896 gonorrhea
+Q6473911 herpes simplex
+Q41083 syphilis
+Q129104 anthrax
+Q217519 bubonic plague
+Q44727 chickenpox
+Q12090 cholera
+Q12125 common cold
+Q30953 dengue fever
+Q134649 diphtheria
+Q129279 dysentery
+Q199615 encephalitis
+Q168805 gangrene
+Q51993 Ebola hemorrhagic fever
+Q652744 hand, foot and mouth disease
+Q2840 influenza
+Q160122 influenza A virus subtype H5N1
+Q36956 leprosy
+Q201989 Lyme disease
+Q12156 malaria
+Q79793 measles
+Q176741 mumps
+Q134859 pertussis
+Q12192 pneumonia
+Q12195 poliomyelitis
+Q39222 rabies
+Q103177 severe acute respiratory syndrome
+Q167178 scabies
+Q180266 scarlet fever
+Q12214 smallpox
+Q47790 tetanus
+Q12204 tuberculosis
+Q160649 typhus
+Q154874 yellow fever
+Q12135 mental disorder
+Q131755 bipolar disorder
+Q42844 major depressive disorder
+Q181032 neurosis
+Q202387 post-traumatic stress disorder
+Q170082 psychosis
+Q189643 delusion
+Q130741 hallucination
+Q41112 schizophrenia

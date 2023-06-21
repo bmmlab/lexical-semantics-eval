@@ -1,0 +1,1350 @@
+Q336 science
+Q101965 experiment
+Q483242 laboratory
+Q834028 laboratory equipment
+Q7860 nature
+Q193181 observation
+Q42240 scientific research
+Q46857 scientific method
+Q3239681 scientific theory
+Q901 scientist
+Q333 astronomy
+Q411 astrobiology
+Q943247 extinction
+Q181508 extraterrestrial life
+Q2028919 magnitude
+Q181505 astrometry
+Q740898 angular resolution
+Q618164 cosmic distance ladder
+Q165074 parallax
+Q1073340 photometry
+Q86394 Astronomical coordinate systems
+Q76287 declination
+Q13442 right ascension
+Q187646 celestial equator
+Q12134 celestial sphere
+Q1315 equinox
+Q79852 ecliptic
+Q43261 horizon
+Q145825 nadir
+Q123524 solstice
+Q842617 star chart
+Q82806 zenith
+Q40540 zodiac
+Q8928 constellation
+Q9256 Andromeda
+Q10576 Aquarius
+Q10586 Aquila
+Q9253 Ara
+Q10584 Aries
+Q10476 Auriga
+Q8667 Boötes
+Q8832 Camelopardalis
+Q8849 Cancer
+Q10452 Canes Venatici
+Q10538 Canis Major
+Q9305 Canis Minor
+Q10535 Capricornus
+Q10470 Carina
+Q10464 Cassiopeia
+Q8844 Centaurus
+Q10468 Cepheus
+Q8839 Cetus
+Q10425 Columba
+Q9285 Coma Berenices
+Q10413 Corona Australis
+Q10406 Corona Borealis
+Q10517 Corvus
+Q9282 Crater
+Q10542 Crux
+Q8921 Cygnus
+Q9302 Delphinus
+Q8675 Draco
+Q10438 Equuleus
+Q10433 Eridanus
+Q8923 Gemini
+Q10448 Hercules
+Q10578 Hydra
+Q10430 Lacerta
+Q8853 Leo
+Q10403 Leo Minor
+Q10446 Lepus
+Q10580 Libra
+Q10571 Lupus
+Q10443 Lynx
+Q10484 Lyra
+Q10428 Monoceros
+Q8906 Ophiuchus
+Q8860 Orion
+Q8864 Pegasus
+Q10511 Perseus
+Q8679 Pisces
+Q10409 Piscis Austrinus
+Q9251 Puppis
+Q10473 Pyxis
+Q10513 Sagitta
+Q8866 Sagittarius
+Q8865 Scorpius
+Q10529 Scutum
+Q8910 Serpens
+Q10525 Sextans
+Q10570 Taurus
+Q10565 Triangulum
+Q10422 Triangulum Australe
+Q8918 Ursa Major
+Q10478 Ursa Minor
+Q10521 Vela
+Q8842 Virgo
+Q10519 Vulpecula
+Q1074076 Chinese constellations
+Q1059392 Zhuque
+Q1072455 White Tiger
+Q125696 Black Tortoise
+Q515882 Azure Dragon
+Q6999 astronomical object
+Q487255 Centaurus A
+Q332674 Cygnus X-1
+Q12185 Eta Carinae
+Q23054 Halley's Comet
+Q13511 Hyades
+Q49957 Large Magellanic Cloud
+Q14041 Messier 87
+Q12965 Mira
+Q14275 Omega Centauri
+Q13903 Orion Nebula
+Q13423 Pleiades
+Q237284 Sagittarius A*
+Q3944 Local Group
+Q50028 Magellanic Clouds
+Q321 Milky Way
+Q2469 Andromeda Galaxy
+Q13724 Triangulum Galaxy
+Q544 Solar System
+Q525 Sun
+Q308 Mercury
+Q313 Venus
+Q2 Earth
+Q405 Moon
+Q111 Mars
+Q7548 Deimos
+Q7547 Phobos
+Q2179 asteroid belt
+Q596 Ceres
+Q319 Jupiter
+Q3123 Io
+Q3143 Europa
+Q3169 Ganymede
+Q3134 Callisto
+Q193 Saturn
+Q3303 Enceladus
+Q2565 Titan
+Q324 Uranus
+Q332 Neptune
+Q3359 Triton
+Q339 Pluto
+Q6604 Charon
+Q611 Eris
+Q604 Makemake
+Q601 Haumea
+Q427 Kuiper belt
+Q40864 Oort cloud
+Q73561 PSR B1257+12 B
+Q242309 51 Pegasi b
+Q3409 Sirius
+Q12189 Canopus
+Q12985 Arcturus
+Q12176 Alpha Centauri
+Q3427 Vega
+Q12126 Rigel
+Q13034 Procyon
+Q12183 Achernar
+Q12124 Betelgeuse
+Q12970 Capella
+Q12975 Altair
+Q12170 Aldebaran
+Q13008 Spica
+Q12166 Antares
+Q13028 Pollux
+Q13169 Fomalhaut
+Q12179 Deneb
+Q370994 RR Lyrae
+Q13102 Acrux
+Q13175 Beta Centauri
+Q13080 Algol
+Q13024 Delta Cephei
+Q12980 Polaris
+Q229318 3C 273
+Q10934 Crab Nebula
+Q184274 celestial mechanics
+Q141022 eclipse
+Q44235 lunar eclipse
+Q3887 solar eclipse
+Q120200 ephemeris
+Q2703 epoch
+Q166530 escape velocity
+Q208617 equatorial coordinate system
+Q223776 gravity assist
+Q83219 Kepler's laws of planetary motion
+Q190463 Lagrangian point
+Q2537 natural satellite
+Q4130 orbit
+Q192316 geostationary orbit
+Q663611 low Earth orbit
+Q272626 orbital elements
+Q208474 orbital eccentricity
+Q842433 orbital mechanics
+Q202746 occultation
+Q232976 two-body problem
+Q589 black hole
+Q72755 Schwarzschild radius
+Q40392 supermassive black hole
+Q11547 cosmic radiation
+Q204194 dark nebula
+Q318 galaxy
+Q204107 galaxy cluster
+Q1491746 galaxy group
+Q27521 supercluster
+Q656857 Great Attractor
+Q11282 H II region
+Q41872 interstellar medium
+Q272447 molecular cloud
+Q42372 nebula
+Q4169 outer space
+Q79833 solar wind
+Q168845 star cluster
+Q11276 globular cluster
+Q11387 open cluster
+Q736194 stellar association
+Q1648748 galaxy morphological classification
+Q190438 dwarf galaxy
+Q184348 elliptical galaxy
+Q190397 irregular galaxy
+Q192078 lenticular galaxy
+Q2488 spiral galaxy
+Q46587 active galactic nucleus
+Q221221 blazar
+Q83373 quasar
+Q217012 radio galaxy
+Q213930 Seyfert galaxy
+Q726611 starburst galaxy
+Q159653 absolute magnitude
+Q124313 apparent magnitude
+Q62832 observatory
+Q338 cosmology
+Q500699 age of the universe
+Q323 Big Bang
+Q15605 cosmic microwave background
+Q18343 dark energy
+Q79925 dark matter
+Q3535 formation and evolution of the Solar System
+Q1995140 galaxy formation and evolution
+Q179916 Hubble–Lemaître law
+Q3400 Solar Nebula
+Q13599969 nebular hypothesis
+Q76250 redshift
+Q1 universe
+Q221392 observable universe
+Q3863 asteroid
+Q3559 comet
+Q44559 extrasolar planet
+Q1022867 minor planet
+Q634 planet
+Q2199 dwarf planet
+Q121750 gas giant
+Q128207 terrestrial planet
+Q523 star
+Q101600 brown dwarf
+Q215913 circumstellar habitable zone
+Q22247 gamma-ray burst
+Q3270143 Hertzsprung–Russell diagram
+Q217030 metallicity
+Q206717 planetary system
+Q179600 spectral class
+Q6472 stellar evolution
+Q13632 planetary nebula
+Q16744 star formation
+Q3450 main sequence
+Q204903 protostar
+Q50081 red giant
+Q5875 giant star
+Q193599 supergiant
+Q6251 Wolf–Rayet star
+Q368442 compact star
+Q5871 white dwarf
+Q4202 neutron star
+Q1047034 stellar black hole
+Q6440 stellar kinematics
+Q6449 stellar magnetic field
+Q1057093 stellar nucleosynthesis
+Q6464 stellar rotation
+Q595871 star system
+Q50053 binary star
+Q3235978 circumstellar disk
+Q6243 variable star
+Q188593 cepheid variable
+Q6458 nova
+Q4360 pulsar
+Q3937 supernova
+Q133948 antioxidant
+Q104567 group 16
+Q133895 tricarboxylic acid cycle
+Q3686031 concentration
+Q101017 distillation
+Q78974 electronegativity
+Q170409 functional group
+Q191807 fluorescence
+Q162643 glycolytic process
+Q425597 hydroxide salt
+Q219567 hydrophobe
+Q133516 monosaccharide
+Q181898 polymerization
+Q176996 polymerase chain reaction
+Q193353 phlogiston
+Q134219 polysaccharides
+Q213185 stoichiometry
+Q54389 tritium
+Q192900 radionuclide
+Q146505 solvent
+Q485360 covalent radius
+Q484152 oxidation number
+Q188631 vulcanization
+Q161764 geochemistry
+Q167751 carbon cycle
+Q156698 eutrophication
+Q186693 phase diagram
+Q166879 Van der Waals radius
+Q19600 nonmetal
+Q178593 macromolecule
+Q191154 surfactant
+Q21006887 parts per million
+Q585302 noble metal
+Q187126 glycoprotein
+Q187689 oxidizing agent
+Q190453 Poisson's ratio
+Q176848 pyrolysis
+Q185098 electrophoresis
+Q107414 valence electron
+Q188666 adhesion
+Q190512 tear gas
+Q171407 valence
+Q193384 cosmic dust
+Q20826683 IUPAC nomenclature of chemistry
+Q185056 radical
+Q127950 isomer
+Q185870 group 11
+Q2329 chemistry
+Q397334 agricultural chemistry
+Q7094 biochemistry
+Q369472 computational chemistry
+Q7877 electrochemistry
+Q64403 electrolysis
+Q321355 environmental chemistry
+Q495304 forensic science
+Q11165 inorganic chemistry
+Q228736 materials science
+Q243455 medicinal chemistry
+Q243545 nuclear chemistry
+Q130399 Table of nuclides
+Q11351 organic chemistry
+Q237200 organometallic chemistry
+Q188651 photochemistry
+Q11372 physical chemistry
+Q750446 polymer chemistry
+Q188403 quantum chemistry
+Q39689 Alchemy
+Q44424 chemical bond
+Q62500 ionic bond
+Q127920 covalent bond
+Q191390 metallic bond
+Q169324 hydrogen bond
+Q245031 intermolecular force
+Q11369 molecule
+Q83588 chemical engineering
+Q207652 chemical industry
+Q36534 chemical reaction
+Q378751 acid–base reaction
+Q82264 catalysis
+Q182527 chemical equation
+Q189520 chemical equilibrium
+Q83147 chemical formula
+Q209082 chemical kinetics
+Q133235 combustion
+Q3196 fire
+Q13533728 metathesis
+Q373406 reaction mechanism
+Q82682 redox
+Q137056 corrosion
+Q503396 substitution reaction
+Q79529 chemical substance
+Q273499 chemical synthesis
+Q593644 chemist
+Q483948 conservation of mass
+Q474100 pyrotechnics
+Q127933 firework
+Q2346 analytical chemistry
+Q170050 chromatography
+Q180809 mass spectrometry
+Q483666 spectroscopy
+Q865545 absorption spectrum
+Q13553575 absorption spectroscopy
+Q214609 material
+Q42302 clay
+Q11469 glass
+Q42962 oil
+Q81163 polymer
+Q7946 mineral
+Q82658 gypsum
+Q11254 table salt
+Q7130787 silicates
+Q5283 diamond
+Q5309 graphite
+Q43010 quartz
+Q50690 oxide
+Q107429 peroxide
+Q36933 ozone
+Q181699 carbonate
+Q108200 chloride ion
+Q182168 nitrate ion
+Q172290 sulfate ion
+Q2182492 organic compound, having C-P covalent bound
+Q422789 organosilicon compound
+Q146439 silicone
+Q422785 organosulfur compound
+Q220410 thiol
+Q101487 ester
+Q103230 ethers
+Q43648 hydrocarbon
+Q19834818 aromatic compound
+Q159226 alkyne
+Q11344 chemical element
+Q6102450 list of chemical elements
+Q23809 atomic number
+Q3840065 atomic mass
+Q10693 periodic table
+Q101843 period
+Q11426 metal
+Q19557 alkali metal
+Q19563 alkaline earth metal
+Q19569 lanthanide
+Q19577 actinide
+Q19588 transition metal
+Q19596 metalloid
+Q19605 group 17
+Q19609 group 18
+Q108307 group 3
+Q189302 group 4
+Q193276 group 5
+Q193280 group 6
+Q191875 group 12
+Q189294 group 13
+Q106693 group 14
+Q106675 group 15
+Q191936 period 1
+Q207712 period 2
+Q211331 period 3
+Q556 hydrogen
+Q560 helium
+Q568 lithium
+Q569 beryllium
+Q618 boron
+Q623 carbon
+Q627 nitrogen
+Q629 oxygen
+Q650 fluorine
+Q654 neon
+Q658 sodium
+Q660 magnesium
+Q663 aluminium
+Q670 silicon
+Q674 phosphorus
+Q682 sulfur
+Q688 chlorine
+Q696 argon
+Q703 potassium
+Q706 calcium
+Q713 scandium
+Q716 titanium
+Q722 vanadium
+Q725 chromium
+Q731 manganese
+Q677 iron
+Q740 cobalt
+Q744 nickel
+Q753 copper
+Q758 zinc
+Q861 gallium
+Q867 germanium
+Q871 arsenic
+Q876 selenium
+Q879 bromine
+Q888 krypton
+Q895 rubidium
+Q938 strontium
+Q941 yttrium
+Q1038 zirconium
+Q1046 niobium
+Q1053 molybdenum
+Q1054 technetium
+Q1086 ruthenium
+Q1087 rhodium
+Q1089 palladium
+Q1090 silver
+Q1091 cadmium
+Q1094 indium
+Q1096 tin
+Q1099 antimony
+Q1100 tellurium
+Q1103 iodine
+Q1106 xenon
+Q1108 caesium
+Q1112 barium
+Q1801 lanthanum
+Q1385 cerium
+Q1386 praseodymium
+Q1388 neodymium
+Q1809 promethium
+Q1819 samarium
+Q1396 europium
+Q1832 gadolinium
+Q1838 terbium
+Q1843 dysprosium
+Q1846 holmium
+Q1849 erbium
+Q1853 thulium
+Q1855 ytterbium
+Q1857 lutetium
+Q1119 hafnium
+Q1123 tantalum
+Q743 tungsten
+Q737 rhenium
+Q751 osmium
+Q877 iridium
+Q880 platinum
+Q897 gold
+Q925 mercury
+Q932 thallium
+Q708 lead
+Q942 bismuth
+Q979 polonium
+Q999 astatine
+Q1133 radon
+Q671 francium
+Q1128 radium
+Q1121 actinium
+Q1115 thorium
+Q1109 protactinium
+Q1098 uranium
+Q1105 neptunium
+Q1102 plutonium
+Q1872 americium
+Q1876 curium
+Q1882 berkelium
+Q1888 californium
+Q1892 einsteinium
+Q1896 fermium
+Q1898 mendelevium
+Q1901 nobelium
+Q1905 lawrencium
+Q1226 rutherfordium
+Q1232 dubnium
+Q1234 seaborgium
+Q1249 bohrium
+Q1252 hassium
+Q1258 meitnerium
+Q1266 darmstadtium
+Q1272 roentgenium
+Q1278 copernicium
+Q1301 nihonium
+Q1302 flerovium
+Q1303 moscovium
+Q1304 livermorium
+Q1306 tennessine
+Q1307 oganesson
+Q11173 chemical compound
+Q11158 acid
+Q47512 acetic acid
+Q187045 orthoboric acid
+Q159683 citric acid
+Q2409 hydrochloric acid
+Q209569 hydrofluoric acid
+Q161249 DL-lactic acid
+Q83320 nitric acid
+Q184782 phosphoric acid
+Q4118 sulfuric acid
+Q427956 tannic acid
+Q485742 alkali
+Q11193 base
+Q190065 inorganic compound
+Q4087 ammonia
+Q1997 carbon dioxide
+Q2025 carbon monoxide
+Q283 water
+Q174211 organic compound
+Q49546 acetone
+Q156 alcohols
+Q101497 aldehydes
+Q41581 alkane
+Q81406 alkene
+Q188777 amide
+Q167198 amine
+Q2270 benzene
+Q134192 butane
+Q52858 ethane
+Q60235 caffeine
+Q134856 carboxylic acid
+Q960800 chlorofluorocarbon
+Q41576 cocaine
+Q153 ethanol
+Q151313 ethylene
+Q161210 formaldehyde
+Q122043 keto-D-fructose
+Q37525 glucose
+Q271026 haloalkane
+Q170744 ketone
+Q37129 methane
+Q14982 methanol
+Q28086552 (−)-nicotine
+Q130336 phenol
+Q131189 propane
+Q151324 propylene
+Q3273339 Syngas
+Q12370 salt
+Q190527 alum
+Q182329 ammonium nitrate
+Q191831 ammonium sulfate
+Q23767 calcium carbonate
+Q208451 calcium chloride
+Q288266 magnesium sulfate
+Q132298 potassium hydroxide
+Q177836 potassium nitrate
+Q179731 sodium bicarbonate
+Q190227 sodium carbonate
+Q2314 sodium chloride
+Q102769 sodium hydroxide
+Q184373 sodium nitrate
+Q425397 sodium metasilicate
+Q211737 sodium sulfate
+Q193521 titanium dioxide
+Q169336 mixture
+Q104541 aerosol
+Q181780 colloid
+Q178697 dispersion
+Q187634 emulsion
+Q215414 foam
+Q185744 gel
+Q5447188 solution
+Q26100 suspension
+Q255722 vapor
+Q37756 alloy
+Q182574 amalgam
+Q39782 brass
+Q34095 bronze
+Q45621 ceramic
+Q483269 cast iron
+Q243558 duralumin
+Q11427 steel
+Q172587 stainless steel
+Q206077 tablet
+Q269829 placebo
+Q8008 earth science
+Q42515 cartography
+Q4006 map
+Q8065 natural disaster
+Q7935 avalanche
+Q43059 drought
+Q8068 flood
+Q7944 earthquake
+Q8070 tsunami
+Q1664027 structure of Earth
+Q81659 fold
+Q736917 formation
+Q40614 fossil
+Q1069 geology
+Q55818 impact crater
+Q83296 lithosphere
+Q15316 Earth's crust
+Q47089 fault
+Q8063 rock
+Q43338 basalt
+Q83087 flint
+Q42045 igneous rock
+Q23757 limestone
+Q42278 magma
+Q47069 metamorphic rock
+Q82480 sedimentary rock
+Q83353 mineralogy
+Q7950 plate tectonics
+Q134783 stratigraphy
+Q12758989 stratum
+Q496325 thrust fault
+Q192880 pyroxenes
+Q178977 silicate class of minerals, class number 9
+Q170258 feldspar
+Q223197 kaolinite
+Q134583 talc
+Q114675 mica
+Q104085 asbestos
+Q103480 beryl
+Q43513 emerald
+Q127583 sapphire
+Q43088 ruby
+Q134985 topaz
+Q25381 amber
+Q82001 ivory
+Q43436 pearl
+Q163082 petrology
+Q191704 conglomerate
+Q133833 gravel
+Q41177 granite
+Q484924 tuff
+Q15315 schist
+Q40861 marble
+Q166409 gneiss
+Q36133 soil
+Q34679 sand
+Q13085 sandstone
+Q102078 bauxite
+Q184624 peat
+Q237883 quartzite
+Q207079 slate
+Q221378 oil shale
+Q131089 geodesy
+Q46255 geophysics
+Q6500960 Earth's magnetic field
+Q394352 inner core
+Q857867 outer core
+Q101949 mantle
+Q83371 seismology
+Q43521 geologic time scale
+Q4398 Pangaea
+Q55814 extinction event
+Q141118 Permian-Triassic extinction event
+Q55811 Cretaceous–Paleogene extinction event
+Q49367 ice age
+Q103910 Precambrian
+Q101313 phanerozoic
+Q75507 Paleozoic
+Q79064 Cambrian
+Q76402 Permian
+Q83222 Mesozoic
+Q47158 Triassic
+Q45805 Jurassic
+Q44626 Cretaceous
+Q102416 Cenozoic
+Q26185 Quaternary
+Q25445 Holocene
+Q52109 geomorphology
+Q80026 erosion
+Q623319 mesa
+Q747957 stack
+Q179177 weathering
+Q271669 landform
+Q8502 mountain
+Q46831 mountain range
+Q75520 plateau
+Q54050 hill
+Q39816 valley
+Q160091 plain
+Q465088 alluvial fan
+Q40080 beach
+Q150784 canyon
+Q107679 cliff
+Q193110 floodplain
+Q180537 meander
+Q43742 oasis
+Q695793 rapids
+Q34038 waterfall
+Q184368 cirque
+Q332784 esker
+Q45776 fjord
+Q179132 speleology
+Q35509 cave
+Q16817 karst
+Q42523 atoll
+Q39594 bay
+Q93352 coast
+Q134851 continental shelf
+Q11292 coral reef
+Q187223 lagoon
+Q119253 oceanic trench
+Q34763 peninsula
+Q93267 isthmus
+Q23442 island
+Q503269 seamount
+Q8072 volcano
+Q159954 caldera
+Q83471 geyser
+Q105131 hotspot
+Q104698 mid-ocean ridge
+Q109391 volcanic crater
+Q653139 volcanic plug
+Q534282 lava dome
+Q674775 submarine volcano
+Q151957 guyot
+Q215839 aeolian process
+Q25391 dune
+Q12284 canal
+Q131681 reservoir
+Q106259 polder
+Q13691 artificial island
+Q105190 levee
+Q188040 quarry
+Q2048319 ditch
+Q1130322 land reclamation
+Q8514 desert
+Q43262 tundra
+Q27590 heath
+Q4421 forest
+Q191086 jungle
+Q19756 mangrove
+Q69564 Environmental Zone Boreal
+Q1048194 tropical forest
+Q9444 rainforest
+Q177567 Amazon rainforest
+Q622896 temperate broadleaf and mixed forest
+Q1006733 grassland
+Q278512 Cerrado
+Q188869 field
+Q141501 Llanos
+Q7777019 meadow
+Q184382 Pampas
+Q30121 pasture
+Q194281 prairie
+Q66065 Sahel
+Q42320 Savanna
+Q123991 steppe
+Q170321 wetland
+Q166735 swamp
+Q1681353 bog
+Q13359600 raised bog
+Q941094 pedosphere
+Q282070 pedogenesis
+Q9161265 soil science
+Q3230 atmosphere of Earth
+Q287919 atmospheric chemistry
+Q216823 air mass
+Q81809 atmospheric pressure
+Q40609 aurora
+Q186310 halo
+Q308762 mirage
+Q1052 rainbow
+Q527 sky
+Q52139 climatology
+Q7937 climate
+Q7939 El Niño
+Q7942 global warming
+Q124095 Köppen climate classification
+Q167466 temperate climate
+Q135712 tropical climate
+Q25261 meteorology
+Q79757 barometer
+Q180600 humidity
+Q189796 weather front
+Q11663 weather
+Q8074 cloud
+Q185638 cirrus
+Q182311 cumulonimbus
+Q14189 cumulus
+Q37477 fog
+Q25257 precipitation
+Q40178 acid rain
+Q220604 black ice
+Q41097 dew
+Q4590598 frost
+Q161598 groundwater
+Q37602 hail
+Q7925 rain
+Q7561 snow
+Q24384 season
+Q1312 spring
+Q1313 summer
+Q1314 autumn
+Q1311 winter
+Q3117517 wet season
+Q146575 dry season
+Q2615451 atmospheric circulation
+Q177414 anticyclone
+Q79602 cyclone
+Q338589 Hadley cell
+Q1197111 polar vortex
+Q81054 storm
+Q205418 blizzard
+Q182878 dust storm
+Q33741 lightning
+Q205801 Saffir–Simpson hurricane wind scale
+Q2857578 thunderstorm
+Q8081 tornado
+Q8092 tropical cyclone
+Q8094 wind
+Q170464 Beaufort Scale
+Q202325 jet stream
+Q42967 monsoon
+Q81242 sea breeze
+Q160603 trade wind
+Q83169 hydrosphere
+Q493109 cryosphere
+Q52120 glaciology
+Q828861 firn
+Q35666 glacier
+Q23392 ice
+Q12599 ice sheet
+Q46966 ice shelf
+Q47568 iceberg
+Q213926 sea ice
+Q179918 permafrost
+Q42250 hydrology
+Q81041 Earth water cycle
+Q182468 hydrography
+Q4022 river
+Q47053 estuary
+Q43197 river delta
+Q165838 limnology
+Q23397 lake
+Q3253281 pond
+Q23384 tide
+Q43518 oceanography
+Q9430 ocean
+Q165 sea
+Q129558 ocean current
+Q125465 sea level
+Q463223 thermohaline circulation
+Q413 physics
+Q81915 allotropy
+Q1648751 Geiger–Marsden experiment
+Q54237 osmosis
+Q54505 quantum field theory
+Q199687 remote sensing
+Q179856 alpha decay
+Q81182 absolute zero
+Q182453 adiabatic process
+Q187536 butterfly effect
+Q178036 Brownian motion
+Q306786 beta decay
+Q188520 classical element
+Q170754 corona
+Q29539 density
+Q83327 electronvolt
+Q132560 electron microscope
+Q104934 fundamental interaction
+Q43116 elementary particle
+Q184207 ferromagnetism
+Q103585 graviton
+Q178185 heat engine
+Q155890 heavy water
+Q103135 hydrolysis
+Q178150 insulator
+Q162219 ionosphere of Earth
+Q160669 Mach number
+Q41472 Mohs scale of mineral hardness
+Q6915 magnetosphere
+Q53754 obsidian
+Q107715 physical quantity
+Q134574 pump
+Q40936 pH
+Q104225 precession
+Q176555 quantum computer
+Q72277 refraction
+Q102145 standard temperature and pressure
+Q8588 Schrödinger's cat
+Q125953 Tunguska event
+Q182154 time travel
+Q25428 voltage
+Q41364 wavelength
+Q7544 wormhole
+Q483538 enthalpy of vaporization
+Q179348 ballistic missile
+Q18373 gravitational constant
+Q2661322 vapor pressure
+Q161424 black body
+Q162908 electrolyte
+Q185243 gravitational lens
+Q483788 atomic radius
+Q5962 Boltzmann constant
+Q7100 biophysics
+Q12623 perpetual motion
+Q178828 dew point
+Q171516 Compton effect
+Q487005 thermal conductivity
+Q170731 solubility
+Q483769 ionization energy
+Q188533 Van Allen radiation belt
+Q177784 hydraulics
+Q177831 magnetic flux
+Q175974 Boyle's law
+Q172280 ideal gas
+Q161635 angular velocity
+Q178841 Foucault pendulum
+Q165800 geocentric model
+Q83481 apsis
+Q156424 metronome
+Q190120 water vapor
+Q178032 electromagnet
+Q177045 second law of thermodynamics
+Q37640 orbital period
+Q182925 fluorescent lamp
+Q179380 first law of thermodynamics
+Q179635 heat transfer
+Q179388 heat capacity
+Q124291 electrical conductor
+Q180254 adsorption
+Q103983 heliocentrism
+Q120688 St. Elmo's fire
+Q181404 Archimedes' principle
+Q180241 internal energy
+Q37547 astrophysics
+Q165939 reflection
+Q165848 wind wave
+Q28352 magnetic permeability
+Q3236003 hardness
+Q178668 atomism
+Q133673 spin
+Q18362 theoretical physics
+Q171594 semi-major axis
+Q181741 event horizon
+Q159190 amplitude
+Q9121 atom
+Q11379 eenergui
+Q35875 mass–energy equivalence
+Q11382 conservation of energy
+Q185674 field
+Q11402 force
+Q11412 gravity
+Q11415 strong interaction
+Q11418 weak interaction
+Q35758 matter
+Q25342 power
+Q18335 radiation
+Q186161 ionizing radiation
+Q107 space
+Q133327 spacetime
+Q11471 time
+Q202642 Planck time
+Q468999 Planck units
+Q11475 vacuum
+Q26383 atomic physics
+Q37147 atomic nucleus
+Q53860 atomic orbital
+Q210553 atomic theory
+Q719512 Auger effect
+Q420754 binding energy
+Q172948 Bohr model
+Q655904 bremsstrahlung
+Q53859 electron configuration
+Q193793 electron shell
+Q215328 excited state
+Q2333783 hydrogen-like atom
+Q1413102 hyperfine structure
+Q36496 ion
+Q274116 plum pudding model
+Q867448 principal quantum number
+Q853656 stimulated emission
+Q725417 molecular orbital
+Q898432 molecular orbital theory
+Q14620 optics
+Q586386 free-electron laser
+Q883038 Kerr effect
+Q105902 luminosity
+Q756033 nonlinear optics
+Q467054 photonics
+Q942347 physical optics
+Q193760 polarization
+Q174102 refractive index
+Q214781 condensed matter physics
+Q103382 amorphous solid
+Q715396 solid-state physics
+Q160398 crystallography
+Q43533 crystal
+Q895901 crystal structure
+Q898786 crystal system
+Q284256 crystallization
+Q185357 phase change
+Q104837 phase
+Q41716 boiling
+Q1003183 boiling point
+Q111059 critical point
+Q166583 condensation
+Q132814 evaporation
+Q108000 freezing
+Q190382 ionization
+Q106080 melting
+Q15318 melting temperature
+Q131800 sublimation
+Q106410 triple point
+Q11430 state of matter
+Q46202 Bose–Einstein condensate
+Q51368 degenerate matter
+Q11432 gas
+Q11435 liquid
+Q10251 plasma
+Q733096 quark–gluon plasma
+Q11438 solid
+Q106667 superfluidity
+Q849919 electromagnetic interaction
+Q184996 dielectric
+Q649803 oil drop experiment
+Q12725 electricity
+Q11421 magnet
+Q3294789 magnetism
+Q497166 metamaterial
+Q83213 photoelectric effect
+Q124131 superconductivity
+Q26336 electrostatics
+Q1111 electric charge
+Q83152 Coulomb's law
+Q46221 electric field
+Q173356 Gauss's law
+Q55451 electric potential
+Q172137 Lorentz force
+Q185329 electromotive force
+Q1266982 magnetomotive force
+Q988780 electromagnetic induction
+Q181465 Faraday's law of induction
+Q51501 Maxwell's equations
+Q177625 electromagnetic field
+Q12969754 electromagnetic radiation
+Q133139 electromagnetic spectrum
+Q4262 radio wave
+Q127995 microwave
+Q11388 infrared radiation
+Q76299 visible spectrum
+Q11391 ultraviolet radiation
+Q34777 X-ray
+Q11523 gamma ray
+Q208598 eddy current
+Q665093 magnetostatics
+Q11651 electric current
+Q51500 Ampère's circuital law
+Q11408 magnetic field
+Q242657 magnetic moment
+Q132629 electrical network
+Q108193 electrical resistivity
+Q25358 electrical resistance
+Q41591 Ohm's law
+Q854659 gain
+Q164399 capacitance
+Q177897 inductance
+Q179043 impedance
+Q193972 electric reactance
+Q187672 Kirchhoff's circuit laws
+Q41217 mechanics
+Q8424 aerodynamics
+Q193463 continuum mechanics
+Q128030 dynamics
+Q11476 kinematics
+Q471872 soil mechanics
+Q169019 statics
+Q271707 rheology
+Q170475 oscillation
+Q190070 harmonic oscillator
+Q11397 classical mechanics
+Q184876 frame of reference
+Q82580 friction
+Q837940 impulse
+Q122508 inertia
+Q46276 kinetic energy
+Q11423 mass
+Q165618 moment of inertia
+Q41273 momentum
+Q79782 motion
+Q11376 acceleration
+Q38433 Newton's laws of motion
+Q3711325 speed
+Q11465 velocity
+Q155640 potential energy
+Q107617 rotation
+Q161254 angular momentum
+Q178733 centrifugal force
+Q172881 centripetal force
+Q169973 Coriolis force
+Q134465 Newton's law of universal gravitation
+Q48103 torque
+Q25288 weight
+Q42213 work
+Q1080293 solid mechanics
+Q192005 elastic modulus
+Q507234 fatigue
+Q62932 elasticity
+Q170282 Hooke's law
+Q472074 plasticity
+Q569057 stiffness
+Q240553 strength of materials
+Q206175 stress
+Q172145 fluid mechanics
+Q181328 Bernoulli's principle
+Q6497624 buoyancy
+Q160329 convection
+Q163214 diffusion
+Q216320 fluid dynamics
+Q177807 hydrostatics
+Q201321 Navier–Stokes equations
+Q178932 Reynolds number
+Q170749 surface tension
+Q190132 turbulence
+Q128709 viscosity
+Q944 quantum mechanics
+Q238170 quantum chromodynamics
+Q234881 quantum electrodynamics
+Q215675 quantum entanglement
+Q175751 quantum tunneling
+Q44746 uncertainty principle
+Q131594 Pauli exclusion principle
+Q165498 Schrödinger equation
+Q2362761 wave function
+Q193068 wave–particle duality
+Q188715 statistical mechanics
+Q81197 nuclear physics
+Q25276 isotope
+Q11429 nuclear fission
+Q13082 nuclear fusion
+Q188589 tokamak
+Q641442 fusion power
+Q11448 radioactivity
+Q103517 alpha particle
+Q103531 beta particle
+Q18334 particle physics
+Q1621273 particle
+Q214634 cloud chamber
+Q18338 Standard Model
+Q33198 string theory
+Q736716 spontaneous symmetry breaking
+Q193442 supersymmetry
+Q130825 particle accelerator
+Q40605 Large Hadron Collider
+Q689863 synchrotron
+Q212871 synchrotron radiation
+Q944533 Tevatron
+Q177013 subatomic particle
+Q44363 fermion
+Q82586 lepton
+Q2225 electron
+Q3151 muon
+Q188392 tau
+Q2126 neutrino
+Q6718 quark
+Q6732 up quark
+Q6745 down quark
+Q6754 charm quark
+Q6763 strange quark
+Q6778 top quark
+Q6786 bottom quark
+Q101667 hadron
+Q159731 baryon
+Q2348 neutron
+Q2294 proton
+Q102742 meson
+Q43101 boson
+Q105580 gauge boson
+Q3299 gluon
+Q3198 photon
+Q402 Higgs boson
+Q211922 W or Z boson
+Q83197 antimatter
+Q182717 antiparticle
+Q3229 positron
+Q216121 antihydrogen
+Q107575 antiproton
+Q156530 antineutron
+Q43514 theory of relativity
+Q11452 general relativity
+Q11455 special relativity
+Q836595 length contraction
+Q154844 Michelson–Morley experiment
+Q44432 heat
+Q11466 temperature
+Q11473 thermodynamics
+Q161064 enthalpy
+Q45003 entropy
+Q191785 ideal gas law
+Q39552 pressure
+Q230937 state function
+Q334631 Gibbs free energy
+Q230875 thermodynamic state
+Q37172 wave
+Q82811 acoustics
+Q11461 sound
+Q124003 speed of sound
+Q162564 ultrasound
+Q133900 diffraction
+Q11652 frequency
+Q136980 interference
+Q9128 dummy]
+Q2111 speed of light
+Q179448 noise
+Q172858 resonance
+Q76436 Doppler effect
+Q12453 measurement
+Q2041172 measuring instrument
+Q216197 altimeter
+Q12458 micrometer
+Q167676 sensor
+Q188463 spectrometer
+Q181517 theodolite
+Q646 thermometer
+Q134566 weighing scale
+Q47574 unit of measurement
+Q232405 metric system
+Q12457 International System of Units
+Q394 metrology
+Q28390 degree
+Q33680 radian
+Q177612 steradian
+Q25343 square metre
+Q81292 acre
+Q35852 hectare
+Q81454 ångström
+Q1811 astronomical unit
+Q3710 foot
+Q218593 inch
+Q531 light-year
+Q11573 metre
+Q253276 mile
+Q93318 nautical mile
+Q12129 parsec
+Q482798 yard
+Q11574 second
+Q7727 minute
+Q25235 hour
+Q573 day
+Q23387 week
+Q5151 month
+Q577 year
+Q39911 decade
+Q36507 millennium
+Q178413 gallon
+Q11582 litre
+Q25250 volt
+Q47083 ohm
+Q39369 hertz
+Q131255 farad
+Q25406 coulomb
+Q163354 henry
+Q163343 tesla
+Q170804 weber
+Q25236 watt
+Q25272 ampere
+Q83216 candela
+Q484092 lumen
+Q179836 lux
+Q177974 standard atmosphere
+Q25269 joule
+Q12438 newton
+Q130964 small calorie
+Q44395 pascal
+Q11570 kilogram
+Q191118 tonne
+Q100995 pound
+Q48013 ounce
+Q483261 dalton
+Q128822 knot
+Q104946 amount of substance
+Q41509 mole
+Q8799 byte
+Q8805 bit
+Q192027 baud
+Q102573 becquerel
+Q190095 gray
+Q103246 sievert
+Q25267 degree Celsius
+Q42289 degree Fahrenheit
+Q11579 kelvin
+Q5329 decibel

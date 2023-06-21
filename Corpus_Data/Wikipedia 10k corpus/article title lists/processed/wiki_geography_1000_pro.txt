@@ -1,0 +1,1008 @@
+geography 
+capital 
+city 
+country 
+exploration 
+dependent territory
+border 
+rural area
+suburb 
+village 
+atlas 
+isolines 
+geodetic reference system
+geographic coordinate system
+latitude 
+longitude 
+geoid 
+globe 
+great circle
+map projection
+Mercator projection
+reference ellipsoid
+scale 
+cardinal direction
+north 
+east 
+south 
+west 
+Antarctic Circle
+Arctic Circle
+circle of latitude
+equator 
+meridian 
+North Pole
+prime meridian
+South Pole
+Tropic of Cancer
+Tropic of Capricorn
+continent 
+Africa 
+Americas 
+Antarctica 
+Asia 
+Australia 
+Eurasia 
+Europe 
+North America
+South America
+Arctic Ocean
+Baffin Bay
+Barents Sea
+Beaufort Sea
+Chukchi Sea
+East Siberian Sea
+Greenland Sea
+Hudson Bay
+Kara Sea
+Laptev Sea
+White Sea
+Atlantic Ocean
+Baltic Sea
+Gulf of Bothnia
+Bay of Biscay
+Gulf of Guinea
+Irish Sea
+Labrador Sea
+North Sea
+Norwegian Sea
+Sargasso Sea
+Black Sea
+Sea of Azov
+Caribbean Sea
+Gulf of Mexico
+Gulf of Saint Lawrence 
+Mediterranean Sea
+Adriatic Sea
+Aegean Sea
+Ionian Sea
+Ligurian Sea
+Sea of Marmara
+Tyrrhenian Sea
+Indian Ocean
+Andaman Sea
+Arabian Sea
+Bay of Bengal
+Persian Gulf
+Red Sea
+Timor Sea
+Pacific Ocean
+Arafura Sea
+Bering Sea
+Celebes Sea
+Coral Sea
+East China Sea
+Flores Sea
+Gulf of Alaska
+Gulf of California
+Gulf of Carpentaria
+Gulf of Thailand
+Java Sea
+Molucca Sea
+Philippine Sea
+Sea of Japan
+Sea of Okhotsk
+Solomon Sea
+South China Sea
+Sulu Sea
+Tasman Sea
+Yellow Sea
+Southern Ocean
+Amundsen Sea
+Great Australian Bight
+Ross Sea
+Scotia Sea
+Weddell Sea
+Bab-el-Mandeb 
+Bass Strait
+Bering Strait
+Bosporus 
+Cook Strait
+Davis Strait
+Denmark Strait
+Dardanelles 
+Strait of Dover
+Drake Passage
+English Channel
+Florida Strait
+Strait of Gibraltar
+Strait of Hormuz
+Hudson Strait
+Kattegat 
+Korea Strait
+Strait of Magellan
+Strait of Malacca
+Mozambique Channel
+Strait of Otranto
+Palk Strait
+Skagerrak 
+Sunda Strait
+Taiwan Strait
+Torres Strait
+Tsugaru Strait
+Yucatán Channel
+Øresund 
+Congo 
+Kasai River
+Ubangi River
+Limpopo River
+Niger River
+Benue River
+Nile 
+Blue Nile
+White Nile
+Orange River
+Senegal River
+Zambezi River
+Colorado River
+Columbia River
+Mackenzie River
+Mississippi River
+Missouri River
+Ohio River
+Rio Grande
+St. Lawrence River
+Yukon River
+Amazon 
+Madeira Rivel
+Rio Negro
+Tocantins River
+Magdalena River
+Orinoco River
+Paraná River
+Uruguay River
+São Francisco River
+Yangtze 
+Yellow River
+Mekong River
+Lena River
+Yenisey 
+Angara 
+Ob (river)
+Irtysh 
+Indus River
+Brahmaputra River
+Amur 
+Songhua River
+Euphrates 
+Amu Darya
+Ganges 
+Yamuna 
+Salween River
+Ural River
+Syr Dar
+Irrawaddy River
+Kolyma 
+Pearl River
+Tigris 
+Indigirka 
+Godavari River
+Krishna River
+Liao River
+Volga 
+Danube 
+Dnieper River
+Don (river)
+Pechora 
+Northern Dvina
+Rhine 
+Elbe 
+Vistula 
+Tagus river
+Daugava 
+Loire 
+Oder 
+African Great Lakes
+Lake Nyanza
+Lake Tanganyika
+Lake Malawi
+Lake Turkana
+Lake Albert
+Lake Mweru
+Lake Chad
+Great Lakes
+Lake Superior
+Lake Michigan
+Lake Huron
+Lake Erie
+Lake Ontario
+Great Bear Lake
+Great Slave Lake
+Lake Winnipeg
+Lake Nicaragua
+Lake Maracaibo
+Titicaca 
+Lake Vostok
+Caspian Sea
+Lake Baikal
+Lake Balkhash
+Issyk-Kul 
+Lake Urmia
+Lake Van
+Qinghai Lake
+Poyang Lake
+Aral Sea
+Dead Sea
+Lake Ladoga
+Lake Onega
+Vänern 
+Saimaa 
+Lake Peipus
+Kati Thanda–Lake Eyre
+Erie Canal
+Panama Canal
+Suez Canal
+Canary Islands
+Mascarene Islands
+Zanzibar Archipelago
+Greater Antilles
+Hispaniola 
+Lesser Antilles
+Greenland 
+Canadian Arctic Archipelago
+Queen Elizabeth Islands
+Ellesmere Island
+Banks Island
+Baffin Island
+Victoria Island
+Axel Heiberg Island
+Melville Island
+Southampton Island
+Prince of Wales Island 
+Newfoundland 
+Vancouver Island
+Easter Island
+Galapagos Islands
+Tierra del Fuego
+Marajó 
+Falkland Islands
+Malay archipelago
+Maluku Islands
+Luzon 
+Mindanao 
+Sunda Islands
+Borneo 
+Sumatra 
+Sulawesi 
+Java 
+Lesser Sunda Islands
+Timor 
+Honshu 
+Hokkaido 
+Sakhalin 
+Kyushu 
+Severnaya Zemlya
+New Siberian Islands
+Shikoku 
+Taiwan 
+British Isles
+Great Britain
+Ireland 
+Novaya Zemlya
+Spitsbergen 
+Sicily 
+Sardinia 
+Franz Josef Land
+Corsica 
+Zealand 
+Hawaiian Islands
+New Britain
+New Guinea
+North Island
+South Island
+Tasmania 
+Alexander Island
+horn of Africa
+Baja California Peninsula
+Alaska Peninsula
+Labrador Peninsula
+Yucatan Peninsula
+Indian subcontinent
+Arabian Peninsula
+Indochina 
+Korean Peninsula
+Malay Peninsula
+Chukchi Peninsula
+Kamchatka Peninsula
+Sinai Peninsula
+Taymyr Peninsula
+Balkans 
+Crimea 
+Iberian Peninsula
+Italian Peninsula
+Jutland 
+Kola 
+Scandinavian Peninsula
+Cape York Peninsula
+Antarctic Peninsula
+Atlas Mountains
+Drakensberg 
+Ethiopian Highlands
+Great Rift Valley
+American Cordillera
+Adirondack Mountains
+Appalachian Mountains
+Black Hills
+Bryce Canyon National Park 
+Canadian Shield
+Grand Canyon
+Great Plains
+Columbia Plateau
+Pacific Coast Ranges
+Sierra Nevada
+Rocky Mountains
+Andes 
+Altiplano 
+Brazilian Highlands
+Guiana Highlands
+Iranian plateau
+Zagros Mountains
+Hindu Kush
+Caucasus Mountains
+Tian Shan
+Alborz 
+Turan Depression
+North China Plain
+Tibetan Plateau
+Kunlun Mountains
+Yunnan-Guizhou Plateau
+Mongolian Plateau
+West Siberian Plain
+Central Siberian Plateau
+Altai Mountains
+Sayan Mountains
+Verkhoyansk Range
+Sikhote-Alin 
+Deccan Plateau
+Himalayas 
+Karakoram 
+Indo-Gangetic Plain
+Western Ghats
+Pontic Mountains
+Taurus mountains
+Najd - Saudi Arabia 
+Alps 
+Apennine Mountains
+Balkan Mountains
+Carpathian Mountains
+East European Plain
+North European Plain
+Pyrenees 
+Scandinavian Mountains
+Ural Mountains
+Great Dividing Range
+Southern Alps
+Transantarctic Mountains
+Aconcagua 
+Denali 
+K2 
+Mauna Loa
+Mount Elbrus
+Mount Etna
+Mount Everest
+Mount Kenya
+Mount Kilimanjaro
+Mount Kosciuszko
+Mount Logan
+Mount Olympus
+Mount Parnassus
+Mount St. Helens
+Mount Vesuvius
+Mount Whitney
+Vinson Massif
+Chile Rise
+East Pacific Rise
+Mid-Atlantic Ridge
+Pacific-Antarctic Ridge
+Central Indian Ridge
+Southwest Indian Ridge
+Mariana Trench
+Gobi Desert
+Sahara 
+Arabian Desert
+Kalahari Desert
+Negev 
+Taklamakan 
+Great Victoria Desert
+Atacama Desert
+Patagonian Desert
+Great Basin Desert
+Great Barrier Reef
+Iguaçu Falls
+Niagara Falls
+UNESCO World Heritage Site 
+Aïr Mountains
+Tassili n'Ajjer
+Selous Game Reserve
+Salonga National Park
+Manovo-Gounda St. Floris National Park
+Serengeti National Park
+Okapi Wildlife Reserve
+Banc d'Arguin National Park 
+Comoé National Park
+Ngorongoro Conservation Area
+Sundarbans National Park
+Kaziranga National Park
+Lorentz National Park
+Tropical Rainforest Heritage of Sumatra
+Białowieża Forest
+Virgin Komi Forests
+Giant's Causeway
+Yellowstone National Park
+Redwood National and State Parks
+Chaco Culture National Historical Park
+Mesa Verde National Park 
+Yosemite National Park
+Olympic National Park
+Everglades National Park
+Glacier Bay
+La Amistad International Park 
+Sian Ka'an
+Great Smoky Mountains National Park
+Papahānaumokuākea Marine National Monument 
+Te Wahipounamu
+Serra do Mar
+Jaú National Park
+Northeast Greenland National Park 
+Great Limpopo Transfrontier Park 
+Central Kalahari Game Reserve 
+Wood Buffalo National Park 
+Gates of the Arctic National Park and Preserve
+Tumucumaque National Park
+Abu Dhabi
+Ahmedabad 
+Almaty 
+Amman 
+Ankara 
+Ashgabat 
+Nur-Sultan 
+Baghdad 
+Baku 
+Bengaluru 
+Bangkok 
+Beijing 
+Beirut 
+Bishkek 
+Busan 
+Chengdu 
+Chennai 
+Chongqing 
+Colombo 
+Damascus 
+Delhi 
+Dhaka 
+Dili 
+Doha 
+Dubai 
+Dushanbe 
+Isfahan 
+Gaza City
+Guangzhou 
+Hanoi 
+Ho Chi Minh City 
+Hong Kong
+Hyderabad 
+Islamabad 
+Istanbul 
+İzmir 
+Jaipur 
+Jakarta 
+Jeddah 
+Jerusalem 
+Kabul 
+Karachi 
+Kathmandu 
+Kolkata 
+Kuala Lumpur
+Kuwait City
+Kyoto 
+Lahore 
+Lhasa 
+Manama 
+Manila 
+Mecca 
+Moroni 
+Comoros
+Mumbai 
+Muscat 
+Oman
+Nagoya 
+Nanjing 
+Naypyidaw 
+New Delhi
+Osaka 
+Phnom Penh
+Pyongyang 
+Pune 
+Ramallah 
+Riyadh 
+Samarkand 
+Sanaa 
+Sapporo 
+Seoul 
+Shanghai 
+Shenzhen 
+Singapore 
+Surabaya 
+Surat 
+Taipei 
+Tashkent 
+Tbilisi 
+Tehran 
+Tel Aviv
+Thimphu 
+Tianjin 
+Tokyo 
+Ulaanbaatar 
+Vientiane 
+Vladivostok 
+Wuhan 
+Xi'an 
+Yangon 
+Yerevan 
+Yokohama 
+Abuja 
+Accra 
+Addis Ababa
+Alexandria 
+Algiers 
+Antananarivo 
+Bamako 
+Bissau 
+Brazzaville 
+Bujumbura 
+Cairo 
+Cape Town
+Casablanca 
+Conakry 
+Dakar 
+Dar es Salaam
+Durban 
+Gaborone 
+Harare 
+Johannesburg 
+Kampala 
+Khartoum 
+Kinshasa 
+Lagos 
+Libreville 
+Lilongwe 
+Lomé 
+Luanda 
+Lusaka 
+Malabo 
+Malé 
+Maputo 
+Maseru 
+Mbabane 
+Mogadishu 
+Monrovia 
+Nairobi 
+N'Djamena 
+Niamey 
+Nouakchott 
+Ouagadougou 
+Port Louis
+Porto-Novo 
+Praia 
+Pretoria 
+Rabat 
+São Tomé
+Tripoli 
+Tunis 
+Victoria 
+Seychelles 
+Windhoek 
+Yaoundé 
+Asunción 
+Bogotá 
+Brasília 
+Buenos Aires
+Caracas 
+Curitiba 
+Georgetown 
+Guyana 
+La Paz
+Lima 
+Montevideo 
+Paramaribo 
+Quito 
+Recife 
+Rio de Janeiro
+Santiago 
+São Paulo
+Sucre 
+Valparaíso 
+Atlanta 
+Boston 
+Chicago 
+Dallas 
+Denver 
+Detroit 
+Houston 
+Los Angeles
+Las Vegas
+Miami 
+Montreal 
+New Orleans
+New York City
+Ottawa 
+Philadelphia 
+Phoenix 
+St. Louis
+San Francisco
+Seattle 
+Toronto 
+Vancouver 
+Washington, D.C.
+Bridgetown 
+Castries 
+Guadalajara 
+Guatemala City
+Havana 
+Kingston 
+Jamaica 
+Kingstown 
+Managua 
+Mexico City
+Monterrey 
+Nassau 
+Bahamas 
+Panama City
+Port-au-Prince 
+Port of Spain
+Roseau 
+San Juan
+Rico Puerto_Rico
+San José
+Rica Costa_Rica
+San Salvador
+Santo Domingo
+St. George's
+Grenada 
+Saint John's
+Antigua and Barbuda
+Tegucigalpa 
+Bratislava 
+Budapest 
+Lisbon 
+Ljubljana 
+Nicosia 
+Prague 
+Valletta 
+Amsterdam 
+City of Brussels
+The Hague
+Copenhagen 
+Helsinki 
+Oslo 
+Reykjavík 
+Stockholm 
+Athens 
+Belgrade 
+Bucharest 
+Podgorica 
+Sarajevo 
+Skopje 
+Sofia 
+Thessaloniki 
+Tirana 
+Zagreb 
+Berlin 
+Bern 
+Cologne 
+Dresden 
+Düsseldorf 
+Frankfurt 
+Geneva 
+Hamburg 
+Hanover 
+Munich 
+Nuremberg 
+Stuttgart 
+Vienna 
+Zürich 
+Birmingham 
+Dublin 
+Edinburgh 
+Glasgow 
+Leeds 
+Liverpool 
+London 
+Manchester 
+Bordeaux 
+Lyon 
+Marseille 
+Paris 
+Strasbourg 
+Toulouse 
+Barcelona 
+Florence 
+Genoa 
+Madrid 
+Milan 
+Naples 
+Palermo 
+Rome 
+Seville 
+Turin 
+Valencia 
+Venice 
+Chișinău 
+Kharkiv 
+Kyiv 
+Lviv 
+Minsk 
+Moscow 
+Nizhny Novgorod
+Novosibirsk 
+Odesa 
+Saint Petersburg
+Volgograd 
+Yekaterinburg 
+Gdańsk 
+Kraków 
+Riga 
+Tallinn 
+Vilnius 
+Warsaw 
+Canberra 
+Funafuti 
+Honiara 
+Honolulu 
+Majuro 
+Melbourne 
+Nuku'alofa 
+Palikir 
+Perth 
+Port Vila
+Suva 
+Sydney 
+Wellington 
+Abkhazia 
+Afghanistan 
+Albania 
+Algeria 
+American Samoa
+Andorra 
+Angola 
+Antigua and Barbuda
+Argentina 
+Armenia 
+Aruba 
+Australia 
+Austria 
+Azerbaijan 
+The Bahamas
+Bahrain 
+Bangladesh 
+Barbados 
+Belarus 
+Belgium 
+Belize 
+Benin 
+Bermuda 
+Bhutan 
+Bolivia 
+Bosnia and Herzegovina
+Botswana 
+Brazil 
+Brunei 
+Bulgaria 
+Burkina Faso
+Burma 
+Burundi 
+Cambodia 
+Cameroon 
+Canada 
+Cape Verde
+Central African Republic
+Chad 
+Chile 
+China 
+Colombia 
+Comoros 
+Republic of the Congo 
+Democratic Republic of the Congo
+Cook Islands
+Costa Rica
+Ivory Coast
+Croatia 
+Cuba 
+Cyprus 
+Czech Republic
+Denmark 
+Djibouti 
+Dominica 
+Dominican Republic
+East Timor
+Ecuador 
+Egypt 
+El Salvador
+Equatorial Guinea
+Eritrea 
+Estonia 
+Ethiopia 
+Faroe Islands
+Fiji 
+Finland 
+France 
+Gabon 
+The Gambia
+Georgia 
+Germany 
+Ghana 
+Gibraltar 
+Greece 
+Grenada 
+Guam 
+Guatemala 
+Guinea 
+Guinea-Bissau 
+Guyana 
+Haiti 
+Honduras 
+Hungary 
+Iceland 
+India 
+Indonesia 
+Iran 
+Iraq 
+Ireland 
+Israel 
+Italy 
+Jamaica 
+Japan 
+Jordan 
+Kazakhstan 
+Kenya 
+Kiribati 
+South Korea
+North Korea
+Kosovo 
+Kuwait 
+Kyrgyzstan 
+Laos 
+Latvia 
+Lebanon 
+Lesotho 
+Liberia 
+Libya 
+Liechtenstein 
+Lithuania 
+Luxembourg 
+Macedonia 
+Madagascar 
+Malawi 
+Malaysia 
+Maldives 
+Mali 
+Malta 
+Marshall Islands
+Mauritania 
+Mauritius 
+Mexico 
+Micronesia, Federated States of 
+Moldova 
+Monaco 
+Mongolia 
+Montenegro 
+Morocco 
+Mozambique 
+Namibia 
+Nauru 
+Nepal 
+Netherlands 
+New Zealand
+Nicaragua 
+Niger 
+Nigeria 
+Northern Cyprus
+Norway 
+Oman 
+Pakistan 
+Palau 
+Palestine 
+Panama 
+Papua New Guinea
+Paraguay 
+Peru 
+Philippines 
+Poland 
+Portugal 
+Puerto Rico
+Qatar 
+Romania 
+Russia 
+Rwanda 
+Saint Kitts and Nevis 
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa 
+San Marino
+São Tomé and Príncipe 
+Saudi Arabia
+Senegal 
+Serbia 
+Seychelles 
+Sierra Leone
+Slovakia 
+Slovenia 
+Solomon Islands
+Somalia 
+South Africa
+South Ossetia
+South Sudan
+Spain 
+Sri Lanka
+Sudan 
+Suriname 
+Swaziland 
+Sweden 
+Switzerland 
+Syria 
+Taiwan 
+Tajikistan 
+Tanzania 
+Thailand 
+Togo 
+Tonga 
+Trinidad and Tobago
+Tunisia 
+Turkey 
+Turkmenistan 
+Tuvalu 
+Uganda 
+Ukraine 
+United Arab Emirates
+United Kingdom
+United States
+Uruguay 
+Uzbekistan 
+Vanuatu 
+Vatican City
+Venezuela 
+Vietnam 
+Western Sahara
+Yemen 
+Zambia 
+Zimbabwe 
+Central America
+Middle East
+Oceania 
+Scandinavia 
+Southeast Asia
+Alaska 
+Bavaria 
+California 
+Catalonia 
+England 
+Florida 
+Northern Ireland
+Ontario 
+Quebec 
+Scotland 
+Siberia 
+Texas 
+Tuscany 
+Wales

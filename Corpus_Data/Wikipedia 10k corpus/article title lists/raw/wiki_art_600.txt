@@ -1,0 +1,600 @@
+Q2018526 arts
+Q12271 architecture
+Q47848 sacred architecture
+Q32880 architectural style
+Q47537 architectural theory
+Q47591 Byzantine architecture
+Q176483 Gothic architecture
+Q47844 landscape architecture
+Q134140 Temples of Abu Simbel
+Q309436 Aït Benhaddou
+Q38891 Aswan Dam
+Q501851 Bibliotheca Alexandrina
+Q13217298 Giza Pyramids
+Q683632 Great Mosque of Djenné
+Q130958 The Great Sphinx
+Q522862 Karnak Temple Complex
+Q319841 Luxor Temple
+Q207590 Lalibela
+Q185362 Saint Catherine Monastery
+Q613037 Temple of Edfu
+Q209217 Great Zimbabwe
+Q5859 Chichen Itza
+Q11274 Chrysler Building
+Q9188 Empire State Building
+Q463179 Fallingwater
+Q220728 Flatiron Building
+Q29247 Getty Center
+Q201469 Solomon R. Guggenheim Museum
+Q155174 Maracanã Stadium
+Q676203 Machu Picchu
+Q610961 Mexico City Metropolitan Cathedral
+Q4519 Naqsh-e Jahan Square
+Q949699 National Congress of Brasil
+Q29294 Willis Tower
+Q9202 Statue of Liberty
+Q29238 Pyramid of the Sun
+Q213232 Uxmal
+Q11235 World Trade Center
+Q43473 Angkor Wat
+Q43277 Bam Citadel
+Q330872 Badshahi Mosque
+Q29317 Bagan
+Q42798 Borobudur
+Q12495 Burj Khalifa
+Q62939 Burj al-Arab
+Q47692 Chinese garden
+Q4523 Chogha Zanbil
+Q80290 Forbidden City
+Q12501 Great Wall of China
+Q836531 Hawa Mahal
+Q188754 Himeji Castle
+Q261932 Hōryū-ji
+Q191763 Itsukushima Shrine
+Q178948 Khajuraho
+Q177549 Krak des Chevaliers
+Q428858 Masjid al-Haram
+Q41135 Ming tombs
+Q43286 Mogao Caves
+Q5788 Petra
+Q71229 Potala Palace
+Q47721 Prambanan
+Q45957 Red Fort
+Q1373583 Registan
+Q464535 Shwedagon Pagoda
+Q9141 Taj Mahal
+Q339822 Temple of Confucius, Qufu
+Q47672 Army of terracota
+Q183562 Umayyad Mosque
+Q131013 Acropolis of Athens
+Q47476 Alhambra
+Q43282 Alexander Nevsky Cathedral
+Q810684 Basilica of Our Lady of the Pillar
+Q211818 Belvedere
+Q42182 Buckingham Palace
+Q34925 Capitoline Hill
+Q205136 Cathedral of Santiago de Compostela
+Q2854543 Catherine Palace
+Q133575 Cave of Altamira
+Q180274 Notre-Dame de Chartres
+Q4176 Cologne Cathedral
+Q10285 Colosseum
+Q189883 Doge's Palace
+Q243 Eiffel Tower
+Q28471 El Escorial
+Q191739 Florence Cathedral
+Q179199 Guggenheim Museum
+Q12506 Hagia Sophia
+Q11819 Hungarian Parliament Building
+Q404571 Kazan Cathedral
+Q39054 Leaning Tower of Pisa
+Q18068 Milan Cathedral
+Q20892 Le Mont-Saint-Michel
+Q133274 Moscow Kremlin
+Q130321 Mount Athos
+Q764675 Mudéjar architecture of Aragon
+Q2981 Notre-Dame de Paris
+Q4152 Neuschwanstein Castle
+Q43280 Oslo Opera House
+Q29286 Pitti Palace
+Q10288 Parthenon
+Q99309 Pantheon
+Q1258473 Peterhof Palace
+Q7709620 Sanctuary of Our Lady of Lourdes
+Q48435 Sagrada Família
+Q129846 St. Basil's Cathedral
+Q12512 St. Peter's Basilica
+Q2943 Sistine Chapel
+Q39671 Stonehenge
+Q170495 Topkapı Palace
+Q2946 Palace of Versailles
+Q41150 Way of Saint James
+Q43279 Wembley Stadium
+Q62408 Palace of Westminster
+Q42646 Windsor Castle
+Q182147 Winter Palace
+Q45178 Sydney Opera House
+Q489772 Seven Wonders of the Ancient World
+Q41553 Colossus of Rhodes
+Q37200 Great Pyramid of Giza
+Q41931 Hanging Gardens of Babylon
+Q43244 Lighthouse of Alexandria
+Q45368 Mausoleum of Maussollos
+Q46239 Statue of Zeus at Olympia
+Q43018 Temple of Artemis
+Q8242 literature
+Q541923 ancient literature
+Q2265137 Byzantine literature
+Q184890 Latin-language literature
+Q186579 English literature
+Q233762 American literature
+Q781919 Australian literature
+Q764912 British literature
+Q1723523 Canadian literature
+Q683732 Irish literature
+Q386319 African literature
+Q3239427 Egyptian literature
+Q194380 Arabic literature
+Q456012 Chinese literature
+Q1057314 Hebrew literature
+Q622237 Indian literature
+Q231425 Japanese literature
+Q365585 Persian literature
+Q1328366 Turkish literature
+Q282445 Czech literature
+Q1853321 Dutch literature
+Q181287 German-language literature
+Q303779 Austrian literature
+Q1089547 Greek literature
+Q6689 French literature
+Q792357 Belgian literature
+Q74217 Italian literature
+Q692327 Polish literature
+Q548144 Portuguese literature
+Q238499 Spanish literature
+Q1147454 Latin American literature
+Q2077256 Romanian literature
+Q179161 Russian literature
+Q971480 modernist literature
+Q8253 fiction
+Q676 prose
+Q44342 legend
+Q128758 satire
+Q8261 novel
+Q49084 short story
+Q571 book
+Q5292 encyclopedia
+Q482 poetry
+Q37484 epic poem
+Q37707 haiku
+Q80056 sonnet
+Q459381 literary theory
+Q835023 poetics
+Q28856 stylistics
+Q742302 New Criticism
+Q223393 literary genre
+Q131539 children's literature
+Q186424 detective fiction
+Q1194480 genre fiction
+Q24925 science fiction
+Q1233720 young adult literature
+Q693 fable
+Q699 fairy tale
+Q132311 fantasy
+Q179797 lexicographic thesaurus
+Q8251 The Art of War
+Q93304 Code of Hammurabi
+Q172891 Elements
+Q50948 Eugene Onegin
+Q41567 Hamlet
+Q123397 The Republic
+Q131719 The Prince
+Q8258 One Thousand and One Nights
+Q8265 Dream of the Red Chamber
+Q480 Don Quixote
+Q15228 The Lord of the Rings
+Q8269 The Tale of Genji
+Q8272 Epic of Gilgamesh
+Q8275 Iliad
+Q70784 Journey to the West
+Q8276 Mahabharata
+Q35160 Odyssey
+Q1247232 Parzival
+Q70806 Romance of the Three Kingdoms
+Q8279 Shahnameh
+Q70827 Water Margin
+Q145780 Dead Sea scrolls
+Q181937 I Ching
+Q29334 Septuagint
+Q29478 Faust
+Q455 Encyclopædia Britannica
+Q205921 Philosophiae Naturalis Principia Mathematica
+Q20124 On the Origin of Species
+Q44996 The Oxford English Dictionary
+Q181488 Gulliver's Travels
+Q181598 King Lear
+Q130283 Macbeth
+Q104871 A Midsummer Night's Dream
+Q26833 Othello
+Q483034 Robinson Crusoe
+Q83186 Romeo and Juliet
+Q92640 Alice's Adventures in Wonderland
+Q147787 Anna Karenina
+Q183157 The Brothers Karamazov
+Q183883 The Catcher in the Rye
+Q483412 The Chronicles of Narnia
+Q165318 Crime and punishment
+Q150827 Frankenstein; or, The Modern Prometheus
+Q180736 Les Misérables
+Q25338 The Little Prince
+Q174596 Moby-Dick
+Q208460 Nineteen Eighty-Four
+Q26505 The Old Man and the Sea
+Q178869 One Hundred Years of Solitude
+Q170583 Pride and Prejudice
+Q6511 Ulysses
+Q19871 Waiting for Godot
+Q161531 War and Peace
+Q42490 Asterix
+Q60220 Aeneid
+Q184742 Metamorphoses
+Q40185 The Divine Comedy
+Q131554 Nibelungenlied
+Q83203 centaur
+Q182790 Chimera
+Q177413 demon
+Q7559 dragon
+Q8028 fairy
+Q45529 ghost
+Q3465 jinn
+Q49658 Loch Ness Monster
+Q182559 mermaid
+Q162797 Pegasus
+Q7246 unicorn
+Q46721 vampire
+Q1133563 shapeshifter
+Q25373 Atlantis
+Q131156 utopia
+Q638 music
+Q131186 choir
+Q189962 interval
+Q190812 major scale
+Q184567 minor scale
+Q1049625 musical improvisation
+Q179651 scale
+Q42998 orchestra
+Q170406 rhythm
+Q27939 singing
+Q7366 song
+Q164204 musicology
+Q372923 articulation
+Q186393 counterpoint
+Q193544 music theory
+Q862597 musical form
+Q731978 mode
+Q221686 twelve-tone technique
+Q193977 music video
+Q6010 rap
+Q170412 melody
+Q184421 harmony
+Q170439 chord
+Q163775 medieval music
+Q201405 Renaissance music
+Q8361 Baroque music
+Q17723 Classical period
+Q207591 Romantic music
+Q1065742 religious music
+Q1338153 20th-century classical music
+Q837182 impressionism in music
+Q613707 expressionist music
+Q535611 neoclassicism
+Q612024 contemporary classical music
+Q507246 serialism
+Q623715 aleatoric music
+Q572901 minimalist music
+Q9730 western classical music
+Q178122 aria
+Q53831 canon
+Q174873 cantata
+Q189201 chamber music
+Q9748 concerto
+Q207841 étude
+Q181014 fugue
+Q484692 hymn
+Q216860 Lied
+Q193217 madrigal
+Q217295 mass
+Q1344 opera
+Q202287 overture
+Q212148 prelude
+Q51616 mass for the dead
+Q131269 sonata
+Q203005 suite
+Q271802 symphonic poem
+Q9734 symphony
+Q9759 blues
+Q83440 country music
+Q316930 dance music
+Q848399 easy listening
+Q9778 electronic music
+Q492264 film score
+Q43343 folk music
+Q194492 gamelan
+Q26473 Gregorian chant
+Q11401 hip hop music
+Q8341 jazz
+Q105513 bebop
+Q906647 Dixieland
+Q211781 free jazz
+Q203775 swing music
+Q212944 klezmer
+Q23691 national anthem
+Q37073 pop music
+Q9794 reggae
+Q45981 rhythm and blues
+Q131272 soul music
+Q11399 rock music
+Q38848 heavy metal
+Q959583 schlager music
+Q205049 world music
+Q58339 disco
+Q164444 funk
+Q185652 ragtime
+Q11366 alternative rock
+Q3071 punk rock
+Q7749 rock and roll
+Q488205 singer-songwriter
+Q34379 musical instrument
+Q79838 accordion
+Q180744 brass instrument
+Q445275 alto saxophone
+Q46185 bass guitar
+Q211028 bass drum
+Q159998 bassoon
+Q101401 bell
+Q243998 bongo drum
+Q505174 carillon
+Q8371 cello
+Q320341 celesta
+Q178812 tubular bells
+Q8343 clarinet
+Q83513 contrabassoon
+Q202027 cornet
+Q11404 drum
+Q1327500 electronic musical instrument
+Q78987 electric guitar
+Q1136507 electric piano
+Q646683 music sequencer
+Q163829 synthesizer
+Q185041 cor anglais
+Q495529 euphonium
+Q382616 flugelhorn
+Q11405 flute
+Q163759 horn
+Q6607 guitar
+Q51290 harmonica
+Q12460259 reed organ
+Q47369 harp
+Q81982 harpsichord
+Q201129 lyre
+Q8377 oboe
+Q5994 piano
+Q83509 piccolo
+Q281460 pipe organ
+Q187851 recorder
+Q9798 saxophone
+Q208421 snare drum
+Q499387 sousaphone
+Q80019 double bass
+Q1798603 string instrument
+Q189737 timpani
+Q8350 trombone
+Q8338 trumpet
+Q131168 tuba
+Q206987 vibraphone
+Q80284 viola
+Q8355 violin
+Q165666 xylophone
+Q76239 zither
+Q302497 mandolin
+Q180733 lute
+Q173453 wind instrument
+Q181247 woodwind instrument
+Q8347 bagpipes
+Q133163 percussion instrument
+Q190172 cymbal
+Q12016 The Four Seasons
+Q188709 Symphony No. 5
+Q11989 Symphony No. 9
+Q185968 Carmen
+Q192039 Don Giovanni
+Q19005 Madama Butterfly
+Q5064 The Magic Flute
+Q190237 Der Ring des Nibelungen
+Q186162 La traviata
+Q199786 Swan Lake
+Q150901 The Dark Side of the Moon
+Q169226 Sgt. Pepper's Lonely Hearts Club Band
+Q44320 Thriller
+Q184485 performing arts
+Q222749 acting
+Q211198 audience
+Q24354 theatre
+Q131138 joke
+Q170539 parody
+Q193036 acrobatics
+Q219616 tightrope walking
+Q47928 circus
+Q194326 juggling
+Q1193939 animal training
+Q148442 magic
+Q350834 sleight of hand
+Q2743 musical
+Q170384 operetta
+Q861911 speech
+Q213156 performance art
+Q7358 clown
+Q11639 dance
+Q41425 ballet
+Q182863 belly dance
+Q180856 choreography
+Q486263 bossa nova
+Q169737 breakdance
+Q9764 flamenco
+Q201022 folk dance
+Q245418 foxtrot
+Q1132127 hip hop
+Q950354 jitterbug
+Q17237 Jive
+Q333002 mambo
+Q850130 modern dance
+Q208341 pasodoble
+Q663529 Quickstep
+Q11403 samba
+Q338450 tango
+Q387916 Twist
+Q193434 waltz
+Q11635 theatre
+Q189072 theatre of ancient Greece
+Q455695 amateur theatre
+Q1140700 improvisational theatre
+Q1292520 audition
+Q235065 Broadway theatre district
+Q131183 cabaret
+Q1206595 corps de ballet
+Q40831 comedy
+Q191890 Commedia dell'arte
+Q131395 dialogue
+Q25372 drama
+Q240911 mystery play
+Q3387717 theatrical director
+Q588750 puppetry
+Q184528 soliloquy
+Q199701 kabuki
+Q335101 Peking opera
+Q226887 noh
+Q737201 scenography
+Q1078316 wayang
+Q80930 tragedy
+Q735 art
+Q36649 visual arts
+Q211884 Byzantine art
+Q157123 Carolingian Renaissance
+Q914395 Celtic art
+Q830331 Etruscan art
+Q8362 miniature
+Q1066218 Ottonian art
+Q1133779 Renaissance art
+Q1473346 stained glass
+Q189458 academic art
+Q37853 Baroque
+Q170292 classicism
+Q680559 Düsseldorf school of painting
+Q2352880 Dutch Golden Age painting
+Q191105 Empire style
+Q46825 Gothic art
+Q131808 mannerism
+Q10857409 realism
+Q46805 Romanesque art
+Q122960 Rococo
+Q38166 modern art
+Q128115 abstract art
+Q177725 abstract expressionism
+Q173782 Art Deco
+Q34636 Art Nouveau
+Q124354 Bauhaus
+Q207103 constructivism
+Q42934 Cubism
+Q6034 Dada
+Q80113 expressionism
+Q131221 futurism
+Q40415 Impressionism
+Q131711 kitsch
+Q14378 neoclassicism
+Q184814 Pre-Raphaelite Brotherhood
+Q166713 post-impressionism
+Q191970 suprematism
+Q39427 surrealism
+Q164800 Symbolism
+Q186030 contemporary art
+Q108908 Fluxus
+Q466521 kinetic art
+Q326478 land art
+Q173436 minimalism
+Q589655 neo-expressionism
+Q203209 conceptual art
+Q182331 op art
+Q594150 outsider art
+Q134147 pop art
+Q3318563 postmodern art
+Q224885 Transavantgarde
+Q177463 charcoal
+Q127418 ink
+Q174219 paint
+Q14674 pencil
+Q161179 pigment
+Q165447 pen
+Q82604 design
+Q185925 graphic design
+Q190637 web design
+Q678649 body art
+Q12681 calligraphy
+Q1004 comics
+Q93184 drawing
+Q787180 environmental art
+Q12684 fashion
+Q877729 handicraft
+Q11629 art of painting
+Q425548 palette
+Q282129 portrait miniature
+Q11642 pottery
+Q11634 art of sculpture
+Q682010 video art
+Q170593 collaging
+Q8274 manga
+Q17514 graffiti
+Q178659 illustration
+Q133067 mosaic
+Q174705 oil painting
+Q83357 origami
+Q50030 watercolor
+Q11424 film
+Q41253 movie theater
+Q11425 animation
+Q1107 anime
+Q1401416 computer animation
+Q941530 color motion picture film
+Q24862 short film
+Q226730 silent film
+Q932586 filmmaking
+Q590870 cinematography
+Q237893 film editing
+Q762316 foley
+Q381243 special effects
+Q11307668 Studio system
+Q674564 Technicolor
+Q93196 Bollywood
+Q42369 Cannes Film Festival
+Q19020 Academy Awards
+Q604761 The Blue Boy
+Q1752990 The Death of Socrates
+Q12418 Mona Lisa
+Q219831 The Night Watch
+Q471379 The Scream
+Q128910 The Last Supper
+Q45585 The Starry Night
+Q175036 Guernica
+Q18003128 The Thinker
+Q179900 David
+Q152072 Manneken Pis
+Q214619 The Little Mermaid
+Q151952 Venus de Milo
+Q134430 Snow White and the Seven Dwarfs
+Q24815 Citizen Kane
+Q228186 Lawrence of Arabia
+Q60072 The Sound of Music
+Q132689 Casablanca
+Q2875 Gone with the Wind
+Q103474 2001: A Space Odyssey
+Q462 Star Wars
+Q47703 The Godfather

@@ -1,0 +1,800 @@
+Q11016 technology
+Q11023 engineering
+Q11660 artificial intelligence
+Q7108 biotechnology
+Q120877 cloning
+Q182726 GMO
+Q159236 genetic engineering
+Q11468 nanotechnology
+Q348091 nuclear technology
+Q194100 transhumanism
+Q4917288 control engineering
+Q369577 standardization
+Q1192297 disruptive innovation
+Q775325 transportation engineering
+Q2674423 construction engineering
+Q1273174 petroleum engineering
+Q1136352 naval architecture
+Q174165 innovation
+Q1042900 technophobia
+Q1484779 microtechnology
+Q192521 technical drawing
+Q184199 automation
+Q2207328 technological convergence
+Q1332231 science studies
+Q2445082 science and technology studies
+Q466410 high tech
+Q6314146 engineering management
+Q6631525 food engineering
+Q762702 technological change
+Q186289 human reliability
+Q605434 technological determinism
+Q1380395 municipal or urban engineering
+Q909789 earthquake engineering
+Q1316027 coastal management
+Q1936199 ceramic engineering
+Q1133029 engineering ethics
+Q194118 agricultural engineering
+Q3798668 aerospace engineering
+Q327092 biomedical engineering
+Q77590 civil engineering
+Q43035 electrical engineering
+Q4489420 industrial engineering
+Q158797 military engineering
+Q83504 nuclear engineering
+Q80993 software engineering
+Q3606845 agricultural science
+Q173113 agronomy
+Q11395 domestication
+Q131596 farm
+Q131512 farmer
+Q186050 Green Revolution
+Q995745 artificial selection
+Q485016 kolkhoz
+Q1303167 barn
+Q114768 granary
+Q1520009 grain elevator
+Q214252 stable
+Q165044 greenhouse
+Q26886 combine harvester
+Q4886 cultivar
+Q83323 fertilizer
+Q124946 gardening
+Q213753 harvest
+Q181322 insecticide
+Q11453 irrigation
+Q131656 pesticide
+Q178266 herbicide
+Q788558 plant breeding
+Q878333 tillage
+Q961751 winnowing
+Q80962 animal husbandry
+Q176353 beekeeping
+Q103459 livestock
+Q38829 breed
+Q178559 poultry
+Q1107656 garden
+Q235352 crop
+Q11457 cotton
+Q7150699 hemp
+Q336989 hay
+Q101879 weed
+Q637776 dairy
+Q1643366 extensive farming
+Q209894 fish farming
+Q1347753 industrial agriculture
+Q1148482 intensive farming
+Q236371 orchard
+Q165647 organic agriculture
+Q4572 permaculture
+Q864650 sericulture
+Q2787508 subsistence agriculture
+Q2751054 sustainable agriculture
+Q1194826 urban agriculture
+Q396198 agricultural policy
+Q167510 bitumen
+Q183496 adobe
+Q12570 suspension bridge
+Q184190 reinforced concrete
+Q88480 moat
+Q170449 mud
+Q131677 bulldozer
+Q189566 mortar
+Q274988 plaster
+Q468402 tile
+Q206615 building material
+Q191360 foundation
+Q190247 computer numerical control
+Q33526 stucco
+Q215635 breakwater
+Q41176 building
+Q150737 architectural engineering
+Q2333573 building code
+Q121359 infrastructure
+Q633538 structural engineering
+Q37077 nail
+Q40089 brick
+Q45190 cement
+Q22657 concrete
+Q272999 masonry
+Q233320 scaffold
+Q12277 arch
+Q221706 ceiling
+Q4817 column
+Q12493 dome
+Q36794 door
+Q183061 facade
+Q217164 floor
+Q83180 roof
+Q180516 room
+Q12511 stairs
+Q42948 wall
+Q35473 window
+Q283202 harbor
+Q39715 lighthouse
+Q863454 pier
+Q12823105 office
+Q181623 warehouse
+Q188507 apartment
+Q131263 barracks
+Q3947 house
+Q199451 pagoda
+Q16560 palace
+Q2069469 penthouse apartment
+Q12516 pyramid
+Q11303 skyscraper
+Q12518 tower
+Q18142 high-rise building
+Q3950 villa
+Q5784097 hut
+Q101805 igloo
+Q234852 basement
+Q190771 bathroom
+Q193837 bedroom
+Q661199 dining room
+Q22733 garage
+Q43164 kitchen
+Q475018 living room
+Q258313 pantry
+Q170544 tent
+Q15680 yurt
+Q69883 urban planning
+Q63100 urban design
+Q209465 campus
+Q1348006 city block
+Q1050303 downtown
+Q152018 ghetto
+Q329683 industrial zone
+Q22698 park
+Q79007 street
+Q174782 square
+Q702232 zoning
+Q12323 dam
+Q172822 Hoover Dam
+Q12514 Three Gorges Dam
+Q12280 bridge
+Q184213 Akashi Kaikyō Bridge
+Q806452 Bang Na Expressway
+Q125006 Brooklyn Bridge
+Q595768 Danyang–Kunshan Grand Bridge
+Q18541 Fehmarn Belt Fixed Link
+Q125821 George Washington Bridge
+Q44440 Golden Gate Bridge
+Q213962 Great Belt Fixed Link
+Q1191515 Hong Kong–Zhuhai–Macau Bridge
+Q1132510 Lake Pontchartrain Causeway
+Q130206 London Bridge
+Q297871 Øresund Bridge
+Q209710 Russky Bridge
+Q83125 Tower Bridge
+Q44377 tunnel
+Q10257 Channel Tunnel
+Q99250 Seikan Tunnel
+Q1128980 industrial robot
+Q215768 mass production
+Q1160362 mechanization
+Q45701 waste
+Q152810 landfill
+Q132580 recycling
+Q180388 waste management
+Q816871 woodworking
+Q127993 geothermal energy
+Q80638 hydroelectricity
+Q12739 nuclear power
+Q40015 solar energy
+Q1483757 solar power
+Q12705 renewable energy
+Q43302 wind power
+Q12888135 candle
+Q38720 windmill
+Q170196 hydropower
+Q383973 electricity generation
+Q159719 power station
+Q193886 cooling tower
+Q58803 solar cell
+Q130760 turbine
+Q49833 wind turbine
+Q1096907 electrical grid
+Q200928 electric power transmission
+Q844861 electric power distribution
+Q12748 fossil fuel
+Q24489 coal
+Q39558 gasoline
+Q76904 kerosene
+Q40858 natural gas
+Q22656 petroleum
+Q127956 microwave oven
+Q58148 pasteurization
+Q37828 refrigerator
+Q34396 soap
+Q203789 stove
+Q2079255 scuba set
+Q23664 vacuum flask
+Q852100 laundering
+Q949149 sanitation
+Q156849 sewerage
+Q221275 sewage treatment
+Q1463025 water purification
+Q474 aqueduct
+Q182612 plumbing
+Q446013 pumping station
+Q274153 water tower
+Q43483 well
+Q12870 explosive material
+Q80728 dynamite
+Q11467 metallurgy
+Q11474 plastic
+Q18113858 rubber
+Q131790 adhesive
+Q102798 ore
+Q11472 paper
+Q125576 papyrus
+Q1370714 lumber
+Q1364904 petrochemical product
+Q953045 metalworking
+Q1639825 blacksmith
+Q3325511 die casting
+Q890886 drilling
+Q139143 extrusion
+Q593053 laser cutting
+Q674484 machine press
+Q871335 quenching
+Q452648 rolling
+Q211387 soldering
+Q131172 welding
+Q101333 mechanical engineering
+Q11019 machine
+Q191134 centrifuge
+Q44167 engine
+Q72313 electric motor
+Q12757 internal combustion engine
+Q178777 jet engine
+Q12760 steam engine
+Q11012 robot
+Q186713 simple machine
+Q161462 inclined plane
+Q40164 lever
+Q48378 pulley
+Q11022 screw
+Q131408 wedge
+Q446 wheel
+Q592289 wheel and axle
+Q170978 robotics
+Q58778 system
+Q178692 crane
+Q188209 axle
+Q190100 bearing
+Q194302 clutch
+Q143873 cogwheel
+Q12529 worm drive
+Q188447 electrical cable
+Q2397485 chain
+Q31029 rope
+Q986291 net
+Q762984 twine
+Q2002016 fastener
+Q190977 nut
+Q527395 knot
+Q212500 rivet
+Q637321 washer
+Q526016 kinematic pair
+Q228039 lock
+Q132041 key
+Q41551 pipe
+Q1132541 gasket
+Q102836 spring
+Q208040 chainsaw
+Q1136790 cotton gin
+Q1273840 cultivator
+Q998539 irrigation sprinkler
+Q260521 lawn mower
+Q49013 sewing machine
+Q39495 tractor
+Q173725 air conditioning
+Q496334 clothes dryer
+Q211841 coffeemaker
+Q186263 dishwasher
+Q36539 oven
+Q140565 sink
+Q1211746 electric stove
+Q7857 toilet
+Q101674 vacuum cleaner
+Q124441 washing machine
+Q39546 tool
+Q189155 Archimedes' screw
+Q39397 axe
+Q25294 hammer
+Q125356 saw
+Q474188 chisel
+Q846600 clamp
+Q187833 lathe
+Q204260 plane
+Q142274 sandpaper
+Q40847 scissors
+Q161071 screwdriver
+Q172833 broom
+Q104555 ruler
+Q168639 ladder
+Q134205 toothbrush
+Q58964 drill
+Q104363 anvil
+Q483634 iron
+Q171888 eraser
+Q209042 harrow
+Q131154 hoe
+Q230711 machete
+Q107293 pitchfork
+Q11464 plough
+Q200822 rake
+Q1334343 roller
+Q130912 scythe
+Q42233 sickle
+Q7220961 shovel
+Q50643 watering can
+Q15328 camera
+Q37501 eyeglasses
+Q38867 laser
+Q768575 lens
+Q196538 microscope
+Q165896 prism
+Q4213 telescope
+Q527628 holography
+Q162 optical fiber
+Q210765 photodetector
+Q174923 optical illusion
+Q101038 albedo
+Q215932 depth of field
+Q175943 photodiode
+Q183998 camera obscura
+Q183122 periscope
+Q583040 anti-reflective coating
+Q653294 diffraction grating
+Q193540 focal length
+Q190909 focus
+Q14672 Fresnel lens
+Q35197 mirror
+Q12558958 polarizer
+Q193709 Rayleigh scattering
+Q182893 dispersion
+Q102626 binoculars
+Q850283 interferometry
+Q1142960 catadioptric system
+Q35221 reflecting telescope
+Q216778 refracting telescope
+Q11650 electronics
+Q124164 alternating current
+Q27094 audio amplifier
+Q178947 operational amplifier
+Q3245116 circuit design
+Q159241 direct current
+Q211554 electronic amplifier
+Q174320 oscilloscope
+Q174053 relay
+Q208163 signal processing
+Q180165 mechatronics
+Q11653 electronic component
+Q131214 antenna
+Q267298 battery
+Q5322 capacitor
+Q11656 diode
+Q25504 light-emitting diode
+Q125171 flat-panel display
+Q47616 incandescent light bulb
+Q5325 inductor
+Q80831 integrated circuit
+Q194154 cavity magnetron
+Q5321 resistor
+Q11456 semiconductor
+Q11658 transformer
+Q5339 transistor
+Q3574371 vacuum tube
+Q11233438 waveguide
+Q83913 cathode ray tube
+Q173350 printed circuit board
+Q2119531 electrical connector
+Q570 loudspeaker
+Q204157 power supply
+Q5320 switch
+Q211058 circuit breaker
+Q182221 fuse
+Q551997 wire
+Q183406 flip-flop
+Q180805 thyristor
+Q227467 atomic clock
+Q1063512 celestial navigation
+Q376 clock
+Q34735 compass
+Q152255 dead reckoning
+Q18822 Global Positioning System
+Q483400 gyroscope
+Q20702 pendulum
+Q47528 radar
+Q133220 sonar
+Q80793 sundial
+Q102066 navigation
+Q179430 sextant
+Q178794 watch
+Q124274 azimuth
+Q191747 sidereal time
+Q164992 astrolabe
+Q194173 water clock
+Q179435 satellite navigation system
+Q179904 hourglass
+Q11661 information technology
+Q12806 abacus
+Q31087 calculator
+Q179310 computing
+Q494756 data
+Q184609 expert system
+Q41271 internationalization and localization
+Q21198 computer science
+Q8366 algorithm
+Q47506 compiler
+Q2493 data compression
+Q175263 data structure
+Q1062839 error detection and correction
+Q753445 numerical integration
+Q19541 search engine
+Q8789 cryptography
+Q212108 authentication
+Q141090 encryption
+Q161157 password
+Q80006 computer programming
+Q188267 programming paradigm
+Q193076 functional programming
+Q79872 object-oriented programming
+Q223335 structured programming
+Q68 computer
+Q180256 booting
+Q34467 compact disc
+Q169399 ENIAC
+Q4439 hard disk drive
+Q4321 motherboard
+Q5300 central processing unit
+Q5295 random-access memory
+Q189396 dynamic random-access memory
+Q160710 read-only memory
+Q178648 peripheral
+Q47146 user interface
+Q250 computer keyboard
+Q5290 computer monitor
+Q83341 liquid-crystal display
+Q7987 mouse
+Q165970 touchscreen
+Q7397 software
+Q40056 computer program
+Q8513 database
+Q193351 data warehouse
+Q782543 graphical user interface
+Q14001 malware
+Q1130645 open-source software
+Q183197 spreadsheet
+Q54277 word processor
+Q6368 web browser
+Q170519 virtual reality
+Q9135 operating system
+Q34264 Berkeley Software Distribution
+Q388 Linux
+Q43627 Macintosh operating systems
+Q1406 Microsoft Windows
+Q47604 MS-DOS
+Q739186 Multics
+Q479882 OpenVMS
+Q11368 Unix
+Q9143 programming language
+Q154755 Ada
+Q165436 assembly language
+Q42979 BASIC
+Q15777 C
+Q2407 C++
+Q131140 COBOL
+Q83303 Fortran
+Q251 Java
+Q2005 JavaScript
+Q132874 Lisp
+Q59 PHP
+Q28865 Python
+Q47607 Structured Query Language
+Q1301371 computer network
+Q79984 Ethernet
+Q5318 router
+Q29643 Wi-Fi
+Q75 Internet
+Q9158 email
+Q8803 Transmission Control Protocol
+Q466 World Wide Web
+Q8777 Hypertext Transfer Protocol
+Q8811 HyperText Markup Language
+Q81414 Internet protocol suite
+Q4182287 web search engine
+Q35127 website
+Q171 wiki
+Q273623 radio broadcasting
+Q149918 communications satellite
+Q11633 photography
+Q11034 printing
+Q82 printer
+Q144334 printing press
+Q3972943 publishing
+Q872 radio communications
+Q185727 amateur radio
+Q14350 radio station
+Q418 telecommunication
+Q721587 telegraphy
+Q11035 telephone
+Q289 television
+Q184452 cable television
+Q209588 satellite television
+Q46335 typewriter
+Q34508 video recording
+Q313614 video camera
+Q747779 videotape
+Q193395 recording medium
+Q5293 floppy disk
+Q193663 magnetic tape
+Q183731 memory card
+Q234870 optical disc
+Q49845 mail
+Q37930 postage stamp
+Q848466 courier
+Q5082128 mobile device
+Q17517 mobile phone
+Q185369 photocopier
+Q202833 social media
+Q30849 blog
+Q5057302 sound recording process
+Q46384 microphone
+Q16346 speech synthesis
+Q602136 coding theory
+Q389772 data transmission
+Q989220 Forward error correction
+Q170474 modulation
+Q8076 video game console
+Q725364 Atacama Large Millimeter Array
+Q42262 European Space Agency
+Q901553 Great Observatories program
+Q209630 Herschel Space Observatory
+Q2513 Hubble Space Telescope
+Q25271 International Space Station
+Q186447 James Webb Space Telescope
+Q495307 Moon landing
+Q23548 National Aeronautics and Space Administration
+Q46611 Apollo space program
+Q43653 Apollo 11
+Q41291 rocket
+Q26540 artificial satellite
+Q579421 Soyuz
+Q5916 spaceflight
+Q48806 Space Shuttle
+Q25956 space station
+Q201953 Spitzer Space Telescope
+Q265628 Very Large Telescope
+Q274106 Wilkinson Microwave Anisotropy Probe
+Q11631 astronaut
+Q697175 launch vehicle
+Q335225 rocket engine
+Q957055 space capsule
+Q194188 spaceport
+Q26529 space probe
+Q223571 space suit
+Q177477 Baikonur Cosmodrome
+Q320644 China National Space Administration
+Q179103 Japan Aerospace Exploration Agency
+Q48821 Kennedy Space Center
+Q472251 geosynchronous orbit
+Q80811 Sputnik 1
+Q155311 Voyager program
+Q249231 Proton
+Q54363 Saturn V
+Q1056113 Cerro Tololo Inter-American Observatory
+Q831790 Mauna Kea Observatories
+Q466863 Mount Wilson Observatory
+Q191684 Palomar Observatory
+Q189325 Jet Propulsion Laboratory
+Q205702 ion thruster
+Q22719 astronautics
+Q623873 Vostok programme
+Q182524 Vostok 1
+Q286 leather
+Q37681 silk
+Q42329 wool
+Q319224 cargo
+Q770135 belt conveyor
+Q132911 elevator
+Q15003 escalator
+Q187956 intermodal container
+Q177777 logistics
+Q319604 passenger
+Q725864 pipeline transport
+Q178512 public transport
+Q868252 rush hour
+Q7590 transport
+Q61509 travel
+Q42889 vehicle
+Q67 Airbus
+Q11436 aircraft
+Q46970 airline
+Q210932 airliner
+Q197 airplane
+Q1248784 airport
+Q133585 airship
+Q765633 aviation
+Q183951 balloon
+Q891779 Bombardier Aerospace
+Q66 Boeing
+Q19799 cargo aircraft
+Q105557 Embraer
+Q214861 Hartsfield–Jackson Atlanta International Airport
+Q34486 helicopter
+Q42861 kite
+Q482816 parachute
+Q194009 Tupolev
+Q484000 unmanned aerial vehicle
+Q16518 barge
+Q35872 boat
+Q171529 canoe
+Q169560 caravel
+Q17210 container ship
+Q39804 cruise ship
+Q25653 ferry ship
+Q185757 hovercraft
+Q205011 junk
+Q44782 port
+Q200433 raft
+Q1195684 rowing boat
+Q25999 sail
+Q192520 sailing
+Q11446 ship
+Q14970 tanker ship
+Q1229765 watercraft
+Q964162 express train
+Q93301 locomotive
+Q171043 steam locomotive
+Q20075 London Underground
+Q160047 maglev train
+Q5499 Moscow Metro
+Q7733 New York City Subway
+Q50716 Paris Métro
+Q3565868 rail transport
+Q862562 railway signal
+Q22667 railway
+Q870 train
+Q55488 railway station
+Q58767 Trans-Siberian railway
+Q3407658 tram
+Q5503 rapid transit
+Q59720 autorickshaw
+Q11442 bicycle
+Q5638 bus
+Q5639 trolleybus
+Q494829 bus station
+Q235356 carriage
+Q34493 motorcycle
+Q34442 road
+Q46622 controlled-access highway
+Q192249 saddle
+Q191657 stirrup
+Q4323994 traffic
+Q9687 traffic collision
+Q170285 traffic sign
+Q628179 trail
+Q43193 truck
+Q193468 van
+Q1420 motor car
+Q190117 automotive industry
+Q193692 electric car
+Q82650 taxi
+Q44294 Ford Motor Company
+Q81965 General Motors
+Q9584 Honda
+Q55931 Hyundai Motor Company
+Q20165 Nissan
+Q275623 Groupe PSA
+Q6686 Renault
+Q181642 Suzuki
+Q53268 Toyota
+Q246 Volkswagen
+Q182323 Ford Model T
+Q152946 Volkswagen Beetle
+Q243543 Toyota Corolla
+Q837297 VAZ-2101
+Q728 weapon
+Q203788 chariot
+Q339042 stealth technology
+Q12876 tank
+Q165363 torpedo
+Q223694 war elephant
+Q185785 ammunition
+Q37144 cartridge
+Q12861 gunpowder
+Q45922 arrow
+Q174583 bullet
+Q170417 caliber
+Q485027 body armor
+Q391752 bulletproof vest
+Q3579211 combat helmet
+Q173603 helmet
+Q659631 chainmail
+Q3391846 plate armor
+Q131559 shield
+Q127197 bomb
+Q184158 cluster munition
+Q1249453 improvised explosive device
+Q173517 hand grenade
+Q178795 land mine
+Q974850 missile
+Q179537 Greek fire
+Q167096 Molotov cocktail
+Q181822 napalm
+Q204206 nunchaku
+Q173366 bayonet
+Q852049 battle axe
+Q182780 dagger
+Q840419 épée
+Q172736 katana
+Q32489 knife
+Q816745 rapier
+Q231204 sabre
+Q44475 spear
+Q12791 sword
+Q86436 tomahawk
+Q392326 club
+Q12796 firearm
+Q177456 assault rifle
+Q37116 AK-47
+Q1907525 pistol
+Q12800 machine gun
+Q155644 Uzi
+Q124072 rifle
+Q64418 artillery
+Q208129 battering ram
+Q81103 cannon
+Q180126 howitzer
+Q7905205 mortar
+Q216916 combat aircraft
+Q170877 bomber
+Q127771 fighter
+Q208187 attack aircraft
+Q182531 battleship
+Q17205 aircraft carrier
+Q847109 dreadnought
+Q731662 dromon
+Q188924 galley
+Q2811 submarine
+Q1194368 capital ship
+Q207452 ship of the line
+Q208420 trireme
+Q3114762 warship
+Q219433 ballista
+Q131536 boomerang
+Q46311 bow
+Q184393 catapult
+Q181947 crossbow
+Q178243 musket
+Q486396 shotgun
+Q199771 sling
+Q49394 weapon of mass destruction
+Q170907 biological weapon
+Q3639228 chemical weapon
+Q12802 nuclear weapon
+Q625107 thermonuclear weapon

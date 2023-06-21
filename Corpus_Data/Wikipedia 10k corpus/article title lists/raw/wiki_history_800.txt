@@ -1,0 +1,800 @@
+Q309 history
+Q8432 civilization
+Q156312 history of Earth
+Q200325 human history
+Q166118 archive
+Q36279 biography
+Q23413 castle
+Q657326 estates of the realm
+Q52090 bourgeoisie
+Q134737 nobility
+Q39018 emperor
+Q37739 feudalism
+Q28989 graf
+Q184664 tithe
+Q23498 archaeology
+Q465299 archaeological culture
+Q636489 archaeogenetics
+Q130788 chronology
+Q378426 diplomatics
+Q181260 epigraphy
+Q47307 genealogy
+Q18336 heraldry
+Q14659 coat of arms
+Q50675 historiography
+Q159535 conspiracy theory
+Q631286 numismatics
+Q179957 palaeography
+Q131026 philately
+Q190721 philosophy of history
+Q201486 history of science
+Q952080 history of agriculture
+Q50056 history of astronomy
+Q471043 history of aviation
+Q746656 history of biology
+Q501353 history of chemistry
+Q911070 history of geography
+Q1779809 history of geology
+Q212881 history of physics
+Q185264 history of mathematics
+Q268194 history of economic thought
+Q1478235 history of linguistics
+Q261215 history of psychology
+Q932233 history of sociology
+Q465352 history of technology
+Q380274 history of medicine
+Q186148 history of computing hardware
+Q1340267 history of writing
+Q50637 art history
+Q50641 history of art
+Q858517 cultural history
+Q8180985 history of architecture
+Q107478 history of film
+Q680004 legal history
+Q6497044 history of literature
+Q192781 military history
+Q846047 history of music
+Q27654 history of philosophy
+Q846742 history of religions
+Q464200 history of Buddhism
+Q961603 Jewish history
+Q235329 history of Christianity
+Q1192933 history of Hinduism
+Q642379 history of Islam
+Q149813 history of Africa
+Q690256 history of the Americas
+Q149527 history of North America
+Q912852 history of South America
+Q722537 history of Antarctica
+Q627531 history of Asia
+Q7787 history of Europe
+Q149509 history of Oceania
+Q1202140 history of Central America
+Q457898 history of the Caribbean
+Q1266338 history of the Balkans
+Q51615 history of the Middle East
+Q568251 history of Scandinavia
+Q185301 history of Egypt
+Q1435211 history of Eritrea
+Q273595 history of Ethiopia
+Q524656 history of Ghana
+Q28907 history of Libya
+Q769743 history of Madagascar
+Q472658 history of Morocco
+Q1435215 history of Nigeria
+Q1151513 history of Senegal
+Q1477561 history of Sierra Leone
+Q10862295 history of Somalia
+Q217184 history of South Africa
+Q246643 history of Sudan
+Q243976 history of Argentina
+Q876412 history of Bolivia
+Q211967 history of Brazil
+Q2945 history of Canada
+Q472967 history of Chile
+Q1044401 history of Colombia
+Q473130 history of Cuba
+Q926416 history of Ecuador
+Q1516437 history of Guyana
+Q846445 history of Haiti
+Q212763 history of Mexico
+Q1121772 history of Paraguay
+Q316648 history of Peru
+Q131110 history of the United States
+Q8914 history of Venezuela
+Q188872 history of Afghanistan
+Q188328 history of Azerbaijan
+Q839809 history of Bangladesh
+Q956615 history of Bhutan
+Q216841 history of Myanmar
+Q675630 history of Cambodia
+Q82972 history of China
+Q133136 history of India
+Q331596 history of Indonesia
+Q2696109 history of Israel
+Q695980 history of Iraq
+Q28926 history of Iran
+Q130436 history of Japan
+Q713414 history of Korea
+Q234541 history of Lebanon
+Q1064598 history of Malaysia
+Q768502 history of Mongolia
+Q1648546 history of Nepal
+Q726994 history of Pakistan
+Q556079 history of Palestine
+Q830399 history of the Philippines
+Q559915 History of Saudi Arabia
+Q1969320 history of Singapore
+Q1584837 history of Sri Lanka
+Q943676 history of Syria
+Q378008 history of Taiwan
+Q379391 history of Thailand
+Q521263 history of Tibet
+Q190876 history of Turkey
+Q212913 history of Vietnam
+Q900498 history of Yemen
+Q213833 history of Albania
+Q193688 history of Armenia
+Q187830 history of Austria
+Q205317 history of Belgium
+Q7800 history of Bulgaria
+Q210726 history of Croatia
+Q204680 history of Denmark
+Q11755949 history of England
+Q949423 history of Estonia
+Q202808 history of Finland
+Q7778 history of France
+Q238246 history of Georgia
+Q122131 history of Germany
+Q7794 history of Greece
+Q199960 history of Hungary
+Q151128 history of Iceland
+Q1403781 history of the Republic of Ireland
+Q7791 history of Italy
+Q209655 history of Latvia
+Q215063 history of Lithuania
+Q243842 history of Malta
+Q238533 history of the Netherlands
+Q210725 history of Norway
+Q199569 history of Poland
+Q7790 history of Portugal
+Q216672 history of Romania
+Q161414 history of Russia
+Q471148 history of Scotland
+Q223195 history of Serbia
+Q7781 history of Spain
+Q201350 history of Sweden
+Q208761 history of Switzerland
+Q210701 history of Ukraine
+Q113162 history of the United Kingdom
+Q1063608 history of Wales
+Q174825 history of Australia
+Q672551 history of New Zealand
+Q11759 Stone Age
+Q11761 Bronze Age
+Q11764 Iron Age
+Q130253 Chalcolithic
+Q41493 ancient history
+Q486761 classical antiquity
+Q217050 Late Antiquity
+Q428995 Hellenistic period
+Q11756 prehistory
+Q103237 Australopithecus
+Q179234 Cro-Magnon Man
+Q192993 Java Man
+Q45931 Peking Man
+Q101362 Homo erectus
+Q83944 human evolution
+Q151055 Denisova hominin
+Q40171 Neanderthal
+Q111463 Paranthropus
+Q858288 early human migrations
+Q40203 paleolithic
+Q7463501 Lower Paleolithic
+Q626270 Middle Paleolithic
+Q479505 Upper Paleolithic
+Q44155 Mesolithic
+Q180548 neolithic revolution
+Q36422 Neolithic
+Q1207629 cradle of civilization
+Q912205 Control of fire by early humans
+Q11768 Ancient Egypt
+Q721840 Naqada III
+Q37110 pharaoh
+Q2320005 Ptolemaic Kingdom
+Q101583 Thebes
+Q5715 Memphis
+Q177819 Old Kingdom of Egypt
+Q191324 Middle Kingdom of Egypt
+Q180568 New Kingdom of Egypt
+Q133423 Valley of the Kings
+Q927291 Nok culture
+Q135028 Nubia
+Q241790 Kush
+Q5780 Meroë
+Q139377 Kingdom of Aksum
+Q2429397 Ancient Carthage
+Q6343 Carthage
+Q124988 Punic Wars
+Q282350 Land of Punt
+Q3122657 Andean civilizations
+Q13341477 Chavín culture
+Q153836 Norte Chico civilization
+Q13703 {{{mex}}}
+Q28567 Maya civilization
+Q888099 Paleo-Indians
+Q172613 Teotihuacan
+Q135364 Olmeca
+Q13925462 Settlement of the Americas
+Q844750 Zapotec civilization
+Q36288 Silk Road
+Q389688 Achaemenid Empire
+Q260437 Atropatene
+Q132646 Bactria
+Q177076 Caucasian Albania
+Q19083 Kingdom of Iberia
+Q128904 Elam
+Q180773 Susa
+Q8735 Medes
+Q1986139 Parthian Empire
+Q129072 Persepolis
+Q500409 Roman–Persian Wars
+Q673001 Saka
+Q83891 Sasanian Empire
+Q486244 Sogdia
+Q192858 Tocharians
+Q28405 Gojoseon
+Q52824 Jōmon period
+Q128938 Shang dynasty
+Q185047 Spring and Autumn period
+Q165292 Three Kingdoms of Korea
+Q185063 Warring States period
+Q35216 Zhou dynasty
+Q207858 Yayoi period
+Q201727 Three Sovereigns and Five Emperors
+Q188836 Xiongnu
+Q151148 Chola dynasty
+Q11774 Gupta Empire
+Q42534 Indus Valley Civilisation
+Q5725 Mohenjo-daro
+Q215643 Indo-Greek Kingdom
+Q240123 Indo-Scythians
+Q25979 Kushan Empire
+Q234009 Magadha
+Q62943 Maurya Empire
+Q5257 Satavahana dynasty
+Q215262 Vedic period
+Q827040 Nanyue
+Q1627675 Pyu city-states
+Q1209333 Hong Bang dynasty
+Q11767 Mesopotamia
+Q4461035 Akkadian empire
+Q203507 Amorites
+Q2622868 Bagratid Armenia
+Q41137 Assyrian Empire
+Q5680 Nineveh
+Q47690 Babylonia
+Q5684 Babylon
+Q200969 Chaldea
+Q5743 Ebla
+Q193748 history of ancient Israel and Judah
+Q5406 Hittites
+Q620765 Lydia
+Q178665 Mitanni
+Q5747 Palmyra
+Q41642 Phoenicia
+Q82070 Tyre
+Q32579 Phrygia
+Q93180 Seleucid Empire
+Q940785 Sabaeans
+Q35355 Sumer
+Q5699 Ur
+Q22647 Troy
+Q42937 Trojan War
+Q191369 Ugarit
+Q185068 Urartu
+Q170526 Fertile Crescent
+Q208404 Kingdom of Armenia
+Q1330607 Syrian Wars
+Q134178 Minoan civilization
+Q173527 Knossos
+Q173082 Dacia
+Q212853 Dacians
+Q17161 Etruscans
+Q11772 Ancient Greece
+Q181264 Mycenaean Greece
+Q76026 Greco-Persian Wars
+Q184313 Magna Graecia
+Q193235 Delian League
+Q5690 Sparta
+Q1747689 Ancient Rome
+Q201038 Roman Kingdom
+Q17167 Roman Republic
+Q2277 Roman Empire
+Q43332 Pompeii
+Q42834 Western Roman Empire (395-476 AD)
+Q608613 fall of the western Roman Empire
+Q329838 Crisis of the Third Century
+Q192841 Julio-Claudian dynasty
+Q193254 Five Good Emperors
+Q202161 Gallic War
+Q75813 Macedonian Wars
+Q1747183 List of Roman civil wars and revolts
+Q83958 Macedonia
+Q35966 Ancient Celts
+Q192730 Cimmerians
+Q162858 Sarmatians
+Q101985 Saxons
+Q845909 Scythia
+Q131802 Scythians
+Q41741 Thrace
+Q131192 Migration Period
+Q178054 Alans
+Q104238 Angles
+Q110117 Bulgars
+Q150412 Burgundians
+Q42193 Goths
+Q103122 Ostrogoths
+Q23693 Visigoths
+Q45813 Huns
+Q169260 Moors
+Q914114 Rus' people
+Q155085 Suebi
+Q42211 Vandals
+Q12554 Middle Ages
+Q170161 guild
+Q203563 boyar
+Q102083 knight
+Q273613 knyaz
+Q38142 samurai
+Q103350 serfdom
+Q1056721 chivalry
+Q862532 Ajuuraan state
+Q75613 Almoravid dynasty
+Q206789 Ghana Empire
+Q1537016 Kanem Empire
+Q184536 Mali Empire
+Q202687 Songhai Empire
+Q9427 Timbuktu
+Q465279 Trans-Saharan trade
+Q12542 Aztec
+Q28573 Inca Empire
+Q202390 pre-Columbian era
+Q901198 Chimú culture
+Q1052095 Mississippian culture
+Q208188 Moche culture
+Q61750 Tiwanaku
+Q605340 Wari
+Q745799 Islamic Golden Age
+Q947784 Mamluk
+Q555994 Aq Qoyunlu
+Q79965 Golden Horde
+Q324470 Kara Koyunlu tribe
+Q887684 Muslim conquest of Persia
+Q63134381 Khwarezmian Empire
+Q205466 Göktürks
+Q3708255 Seljuk dynasty
+Q249578 Ghaznavid Empire
+Q831218 Uyghur Khaganate
+Q28208 Goryeo
+Q7209 Han dynasty
+Q193292 Heian period
+Q7352 Jin dynasty
+Q5066 Jin dynasty
+Q4958 Liao dynasty
+Q12557 Mongol Empire
+Q9402 ninja
+Q7183 Qin dynasty
+Q683551 Sixteen Kingdoms
+Q7462 Song dynasty
+Q49696 Northern and Southern dynasties
+Q7405 Sui dynasty
+Q9683 Tang Empire
+Q185043 Three Kingdoms
+Q169705 Xia dynasty
+Q7313 Yuan Empire
+Q242115 Five Dynasties and Ten Kingdoms period
+Q218332 Khitan people
+Q229411 Delhi Sultanate
+Q2566899 Muslim conquest in the Indian subcontinent
+Q167639 Vijayanagara Gadariya Empire
+Q216786 Champa
+Q201705 Khmer Empire
+Q49326 Majapahit
+Q46652 Malacca sultanate
+Q888574 Pagan Kingdom
+Q234197 Srivijaya
+Q3111454 Tran dynasty
+Q12536 Abbasid Caliphate
+Q12546 Crusades
+Q190967 Crusader states
+Q181254 Empire of Nicaea
+Q160307 Fatimid Caliphate
+Q178897 Latin Empire
+Q12560 Ottoman Empire
+Q975405 Sultanate of Rum
+Q8575586 Umayyad Caliphate
+Q42005 Black Death
+Q51648 East-West Schism
+Q65968 House of Habsburg
+Q170022 House of Medici
+Q83418 Normans
+Q4692 Renaissance
+Q1035516 Cumans
+Q68962 Pannonian Avars
+Q203817 First Bulgarian Empire
+Q420759 Second Bulgarian Empire
+Q12544 Byzantine Empire
+Q29100 Arab–Byzantine wars
+Q2288144 Byzantine–Bulgarian wars
+Q630259 Byzantine–Ottoman Wars
+Q160077 Fall of Constantinople
+Q239502 Kingdom of Galicia–Volhynia
+Q49683 Grand Duchy of Lithuania
+Q170770 Grand Duchy of Moscow
+Q171150 Kingdom of Hungary
+Q478301 Hussite Wars
+Q173282 Khazars
+Q1108445 Kievan Rus'
+Q193152 Great Moravia
+Q151536 Novgorod Republic
+Q699602 Cretan War
+Q181752 Pechenegs
+Q48189 Teutonic Order
+Q83546 Grand Duchy of Vladimir
+Q185488 Volga Bulgaria
+Q42585 Kingdom of Bohemia
+Q937255 Polish–Lithuanian–Teutonic War
+Q210398 Rurik dynasty
+Q123559 al-Andalus
+Q171740 Caliphate of Córdoba
+Q79791 Reconquista
+Q199442 Kingdom of Aragon
+Q4712 Duchy of Burgundy
+Q179293 Kingdom of Castile
+Q146246 Francia
+Q153080 East Francia
+Q46370 West Francia
+Q70972 Kingdom of France
+Q31929 Carolingian Empire
+Q179544 Capetian dynasty
+Q133602 Carolingian dynasty
+Q59488 Merovingian dynasty
+Q179876 Kingdom of England
+Q32768 Anglo-Saxons
+Q83224 Battle of Hastings
+Q200485 Norman conquest of England
+Q127751 Wars of the Roses
+Q42908 Hanseatic League
+Q62623 Kalmar Union
+Q12548 Holy Roman Empire
+Q106151 House of Plantagenet
+Q12551 Hundred Years' War
+Q43173 Inquisition
+Q41300 Knights Templar
+Q130900 Lombards
+Q51662 Northern Crusades
+Q170346 Ostsiedlung
+Q170174 Papal States
+Q174306 Republic of Genoa
+Q188586 Kingdom of Sicily
+Q4948 Republic of Venice
+Q213649 Viking Age
+Q12567 Vikings
+Q126936 Visigothic Kingdom
+Q105098 Austrasia
+Q43482 Franks
+Q154764 Investiture controversy
+Q175211 Kingdom of Germany
+Q158281 Wends
+Q477973 Gothic War of 535–554
+Q187742 Guelphs and Ghibellines
+Q106577 Neustria
+Q152507 Salic law
+Q5308718 early modern period
+Q133641 Age of Discovery
+Q8680 British Empire
+Q179023 French colonial empire
+Q190530 Little Ice Age
+Q200464 Portuguese Empire
+Q80702 Spanish Empire
+Q214078 Scientific Revolution
+Q33143 Seven Years War
+Q1147471 Treaty of Zaragoza
+Q180897 Treaty of Tordesillas
+Q3057915 slavery in Africa
+Q10701282 Atlantic slave trade
+Q894030 Bornu Empire
+Q854468 Kingdom of Mutapa
+Q722071 Ashanti kingdom
+Q796583 Kingdom of Kongo
+Q849623 Oyo Empire
+Q1475713 Sennar Sultanate
+Q1591030 Hausa Kingdoms
+Q40949 American Revolutionary War
+Q184716 European colonization of the Americas
+Q918254 British colonization of the Americas
+Q1047607 Spanish colonization of the Americas
+Q828435 Spanish conquest of the Aztec Empire
+Q636771 Spanish conquest of the Inca Empire
+Q681416 French and Indian Wars
+Q154697 French and Indian War
+Q108413 Wounded Knee Massacre
+Q505802 Lewis and Clark Expedition
+Q1123201 Spanish American wars of independence
+Q191293 1556 Shaanxi earthquake
+Q2477522 Great Bengal famine of 1770
+Q1183649 Deccan sultanates
+Q159766 Dutch East India Company
+Q83164 East India Company
+Q184963 Edo period
+Q205662 Tokugawa Shogunate
+Q576338 Japanese invasions of Korea
+Q28179 Joseon
+Q1433867 Kazakh Khanate
+Q9903 Ming dynasty
+Q83618 Maratha Empire
+Q33296 Mughal Empire
+Q735349 Russian conquest of Siberia
+Q161205 Safavid dynasty
+Q83572 Sikh Empire
+Q841364 Ayutthaya Kingdom
+Q577668 Khanate of Bukhara
+Q853477 Lan Xang
+Q10800789 Lê dynasty
+Q190513 Khanate of Sibir
+Q519718 Taungoo Dynasty
+Q1923401 Zunghar Khanate
+Q12539 Age of Enlightenment
+Q12562 Reformation
+Q2487 Thirty Years' War
+Q128168 Counter-Reformation
+Q191055 1755 Lisbon earthquake
+Q755170 Anglo-Dutch Wars
+Q151423 congress of Berlin
+Q164432 Eighty Years' War
+Q80330 English Civil War
+Q6534 French Revolution
+Q207318 French Revolutionary Wars
+Q673175 French Wars of Religion
+Q101935 Huguenot
+Q273348 Italian Wars
+Q38872 Prussia
+Q137073 Puritanism
+Q184725 Spanish Inquisition
+Q32929 War of the Austrian Succession
+Q150701 War of the Spanish Succession
+Q792164 enclosure
+Q47805 Cossack
+Q212439 Cossack Hetmanate
+Q160440 Crimean Khanate
+Q151616 Great Northern War
+Q74623 Great Turkish War
+Q112707 House of Romanov
+Q186537 Khanate of Kazan
+Q246863 Livonian War
+Q152006 Partitions of Poland
+Q172107 Polish–Lithuanian Commonwealth
+Q216702 Great Game
+Q186096 Tsardom of Russia
+Q611162 Oprichnina
+Q743046 history of the Russo-Turkish wars
+Q698985 Ottoman wars in Europe
+Q963303 Union of Lublin
+Q1567698 Muscovite-Lithuanian Wars
+Q1044829 Polish–Muscovite War
+Q631991 Russo-Polish War
+Q3281534 modern history
+Q316817 1973 oil crisis
+Q169390 abolitionism
+Q152195 Anti-Comintern Pact
+Q13406660 civil rights movements
+Q8683 Cold War
+Q230533 decolonization
+Q896666 financial crisis of 2007–08
+Q8698 Great Depression
+Q2269 Industrial Revolution
+Q956129 Information Age
+Q154611 Interwar period
+Q205073 Kellogg-Briand pact
+Q304121 New Imperialism
+Q180046 space exploration
+Q1932 space race
+Q178275 1918-1920 flu pandemic
+Q185729 War on Terror
+Q205204 women's suffrage
+Q361 World War I
+Q789406 Balkans Campaign
+Q154573 Eastern Front
+Q659745 Italian Front
+Q1765465 Middle Eastern theatre of World War I
+Q193258 Treaty of Lausanne
+Q192924 Treaty of Saint-Germain-en-Laye
+Q181902 Treaty of Trianon
+Q152989 Western Front of World War I
+Q199820 Paris Peace Conference
+Q362 World War II
+Q329888 Allies of the Second World War
+Q43056 Axis
+Q130796 Molotov–Ribbentrop Pact
+Q150812 Invasion of Poland
+Q216184 Western Front
+Q157627 Battle of the Atlantic
+Q154720 Battle of Britain
+Q134949 Winter War
+Q189266 Eastern Front
+Q696817 Mediterranean and Middle East theatre of World War II
+Q184425 Pacific War
+Q52418 Attack on Pearl Harbor
+Q161227 Yalta Conference
+Q488 atomic bombings of Hiroshima and Nagasaki
+Q80130 Nuremberg trials
+Q26844385 collectivization
+Q33761 Arab Spring
+Q200790 Algerian War of Independence
+Q12055176 Angolan Civil War
+Q228911 Anglo-Zulu War
+Q11409 apartheid
+Q178469 Biafra
+Q76048 Congo Free State
+Q257724 Ethiopian Civil War
+Q329203 First Boer War
+Q81545 2011 Libyan Civil War
+Q31944 Mahdist War
+Q829875 Nigerian Civil War
+Q131297 Rwandan genocide
+Q179848 Scramble for Africa
+Q215112 Second Boer War
+Q75756 Second Congo War
+Q94916 Second Italo-Ethiopian War
+Q600524 Sokoto Caliphate
+Q43777 2010 Haiti earthquake
+Q48537 civil rights movement
+Q8676 American Civil War
+Q849680 American Indian Wars
+Q81931 Confederate States of America
+Q128160 Cuban Missile Crisis
+Q11264 Cuban Revolution
+Q726501 Dust Bowl
+Q217230 Empire of Brazil
+Q199821 Gran Colombia
+Q689128 Haitian Revolution
+Q127050 Manhattan Project
+Q68750 Mexican War of Independence
+Q214426 Mexican Revolution
+Q6683 Mexican-American War
+Q10806 September 11 attacks
+Q12583 Spanish–American War
+Q201684 Wall Street Crash of 1929
+Q26013 War of 1812
+Q58947 Paraguayan War
+Q152004 War of the Pacific
+Q14947899 Wild West
+Q186356 New Deal
+Q1150973 1931 China floods
+Q462195 1976 Tangshan earthquake
+Q36204 2011 Tōhoku earthquake and tsunami
+Q171178 Fukushima Daiichi nuclear disaster
+Q150229 Boxer Rebellion
+Q862552 history of the People's Republic of China
+Q179975 Chinese Civil War
+Q8690 Cultural Revolution
+Q188712 Empire of Japan
+Q191282 First Opium War
+Q178687 First Sino-Japanese War
+Q58715 Great Leap Forward
+Q2454958 Great Chinese Famine
+Q8663 Korean War
+Q3125096 Meiji period
+Q8707 Meiji restoration
+Q8733 Qing dynasty
+Q159950 Russo-Japanese War
+Q418151 Second Opium War
+Q170314 Second Sino-Japanese War
+Q192408 Taiping Rebellion
+Q99717 1989 Tiananmen Square protests
+Q190517 Xinhai Revolution
+Q864737 unequal treaty
+Q245551 1970 Bhola cyclone
+Q371394 Bangladesh Liberation War
+Q129286 British India
+Q12444025 Indian independence movement
+Q129864 Indian Mutiny of 1857
+Q1922071 Indo-Pakistani War of 1971
+Q129053 partition of India
+Q6500483 Nguyen dynasty
+Q1062422 Konbaung Dynasty
+Q130754 2004 Indian Ocean earthquake
+Q188161 Dutch East Indies
+Q185682 French Indochina
+Q1332160 Indonesian National Revolution
+Q214456 Philippine–American War
+Q422082 Philippine Revolution
+Q8740 Vietnam War
+Q191764 Khmer Rouge
+Q748780 First Indochina War
+Q239060 Arab Revolt
+Q234738 Turkish War of Independence
+Q80034 Armenian genocide
+Q193714 Mandatory Palestine
+Q8669 Arab–Israeli conflict
+Q521199 North Yemen Civil War
+Q208484 Lebanese Civil War
+Q126065 Iranian Revolution
+Q83085 Soviet–Afghan War
+Q82664 Iran–Iraq War
+Q37643 Gulf War
+Q182865 War in Afghanistan
+Q545449 Iraq War
+Q178810 Syrian Civil War
+Q131964 Austrian Empire
+Q28513 Austria-Hungary
+Q46362 Congress of Vienna
+Q1048268 European integration
+Q212114 history of the European Union
+Q2763 The Holocaust
+Q154640 Holy Alliance
+Q124425 Iron Curtain
+Q3588 European Revolutions of 1848
+Q740724 Treaty of Paris
+Q8736 Treaty of Versailles
+Q165725 Balkan Wars
+Q177918 First Balkan War
+Q184183 Second Balkan War
+Q486 Chernobyl disaster
+Q254106 Crimean War
+Q33946 Czechoslovakia
+Q5167679 dissolution of the Soviet Union
+Q16957 German Democratic Republic
+Q179250 French invasion of Russia
+Q187650 Great Purge
+Q87138 Greco-Turkish War (1919–1922)
+Q182062 Greek War of Independence
+Q161448 Gulag
+Q165058 Holodomor
+Q164348 Hungarian Revolution of 1956
+Q186284 Polish–Soviet War
+Q162401 Prague Spring
+Q382861 Revolutions of 1989
+Q79911 Russian Civil War
+Q34266 Russian Empire
+Q184928 Russian Revolution of 1905
+Q8729 Russian Revolution
+Q174205 Russo-Turkish War of 1877–78
+Q1003 Solidarity
+Q170541 Eastern Bloc
+Q15180 Soviet Union
+Q191515 Mensheviks
+Q182449 NKVD
+Q36704 Yugoslavia
+Q85125 population transfer in the Soviet Union
+Q223933 Belgian Revolution
+Q5086 Berlin Wall
+Q71084 First French Empire
+Q46083 Franco-Prussian War
+Q58296 French First Republic
+Q151624 German Confederation
+Q43287 German Empire
+Q56039 German reunification
+Q188371 Great Irish Famine
+Q199955 Hundred Days
+Q51122 Italian unification
+Q214028 July Revolution
+Q78994 Napoleonic Wars
+Q7318 Nazi Germany
+Q36749 Beer Hall Putsch
+Q43250 Gestapo
+Q7320 Nazi Party
+Q44687 Schutzstaffel
+Q150793 Sturmabteilung
+Q105570 20 July plot
+Q152499 Peninsular War
+Q133132 Paris Commune
+Q178038 Second Spanish Republic
+Q10859 Spanish Civil War
+Q815436 the Troubles
+Q154705 Unification of Germany
+Q328468 Nazi concentration camp
+Q41304 Weimar Republic
+Q160944 stab-in-the-back myth
+Q200441 Antioch
