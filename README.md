@@ -1,5 +1,6 @@
 # Introduction
 This code accompanies the paper 'The Importance of Context in the Evaluation of Word Embeddings: The Effects of Antonymy and Polysemy'.
+Note that many files contain hard-coded file locations in the first cell, which will need to be changed depending on where you save the corresponding files on your local machine.
 
 # Word embeddings
 Note that even these highly compressed files are very large, and will require a request for access to download.
