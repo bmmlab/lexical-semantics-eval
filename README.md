@@ -1,5 +1,10 @@
 # Introduction
-This code accmponaies the paper 'The Importance of Context in the Evaluation of Word Embeddings: The Effects of Antonymy and Polysemy'.
+This code accompanies the paper 'The Importance of Context in the Evaluation of Word Embeddings: The Effects of Antonymy and Polysemy'.
+
+# Word embeddings
+Note that even these highly compressed files are very large, and will require a request for access to download.
+Static word embeddings (10gb) are available (here)[https://drive.google.com/file/d/1O1FuDXSqJITMz5PodW8gd_O4Xd84txaY/view?usp=sharing].
+Contextualised word embeddings (5gb) extracted from the ERNIE transformer are available (here)[https://drive.google.com/file/d/1iGhSK1yk8Vn80wMMlBJWNTUgOU0sMfla/view?usp=sharing].
 
 # Overview of subfolders
 - 'Expr_Datasets': Contains all experimental datasets of human similarity or relatedness judgements investigated in this study. 
