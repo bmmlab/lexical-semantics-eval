@@ -4,7 +4,7 @@ Note that many files contain hard-coded file locations in the first cell, which 
 
 # Word embeddings
 Note that even these highly compressed files are very large, and will require a request for access to download.
-- Static word embeddings (10gb) are available [here](https://drive.google.com/file/d/1O1FuDXSqJITMz5PodW8gd_O4Xd84txaY/view?usp=sharing).
+- Static word embeddings (10gb) are available [here](https://drive.google.com/file/d/1jkVk3lMO_rqmTfjOLaS8W13h3aekV8K8/view?usp=sharing).
 - Contextualised word embeddings (5gb) extracted from the ERNIE transformer are available [here](https://drive.google.com/file/d/1iGhSK1yk8Vn80wMMlBJWNTUgOU0sMfla/view?usp=sharing).
 
 # Overview of subfolders
